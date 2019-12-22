@@ -20,13 +20,8 @@
   {
     "Trait": "Arcane Mage",
     "Description": "Attuned with arcane forces, interacting directly with raw arcane power to move matter and energy at will",
-    "Stats": "Research speed +10%, Global learning +20%, Mental break +3%, Social impact +10%, Negotiation ability +10%",
-    "": "Trade price improvement +10%, Psychic sensitivity +100%, Tame animal -20%, Train animal -20%",
-    "Conflicts": "Bard, Bladedancer, Blademaster, Blood mage, Chaos mage, Chronomancer, Death Knight",
-    "__1": "Druid, Enchanter, Entertainer, Faceless, Fire mage, Geomancer, Gladiator, Hunter",
-    "__2": "Ice mage, Legendary bladedancer, Legendary Sniper, Lich, Lightning mage, Magically gifted, Master sniper, Minstrel, Monk",
-    "__3": "Necromancer, Paladin, Performer, Psychically adept, Priest, Psionic, Ranger, Scout",
-    "__4": "Sharpshooter, Sniper, Succubus, Summoner, Technomancer, Undead, Wanderer, Warlock, Wayfarer, Woodsman"
+    "Stats": "Research speed +10%, Global learning +20%, Mental break +3%, Social impact +10%, Negotiation ability +10%, Trade price improvement +10%, Psychic sensitivity +100%, Tame animal -20%, Train animal -20%",
+    "Conflicts": "Bard, Bladedancer, Blademaster, Blood mage, Chaos mage, Chronomancer, Death Knight, Druid, Enchanter, Entertainer, Faceless, Fire mage, Geomancer, Gladiator, Hunter, Ice mage, Legendary bladedancer, Legendary Sniper, Lich, Lightning mage, Magically gifted, Master sniper, Minstrel, Monk, Necromancer, Paladin, Performer, Psychically adept, Priest, Psionic, Ranger, Scout, Sharpshooter, Sniper, Succubus, Summoner, Technomancer, Undead, Wanderer, Warlock, Wayfarer, Woodsman"
   },
   {
     "Trait": "Ascetic",
@@ -37,13 +32,8 @@
   {
     "Trait": "Bard",
     "Description": "They are a master entertainer. Sharp wit, deft hands, and a dry humor are their weapons and they are a master of all their weapons",
-    "Stats": "Social impact +35%, Negotiation ability +40%, Trade price improvement +25%",
-    "": "Pain shock threshold -15%, Carrying capacity -20, Global work speed -15%",
-    "Conflicts": "Arcane mage, Bladedancer, Blademaster, Bladesman, Blood mage, Chaos mage, Chronomancer, Death Knight",
-    "__1": "Druid, Enchanter, Entertainer, Faceless, Fire mage, Geomancer, Gladiator, Hunter",
-    "__2": "Ice mage, Legendary bladedancer, Legendary Sniper, Lich, Lightning mage, Magically gifted, Master sniper, Minstrel, Monk",
-    "__3": "Necromancer, Paladin, Performer, Psychically adept, Priest, Psionic, Ranger, Scout",
-    "__4": "Sharpshooter, Sniper, Succubus, Summoner, Technomancer, Undead, Wanderer, Warlock, Wayfarer, Woodsman"
+    "Stats": "Social impact +35%, Negotiation ability +40%, Trade price improvement +25%, Pain shock threshold -15%, Carrying capacity -20, Global work speed -15%",
+    "Conflicts": "Arcane mage, Bladedancer, Blademaster, Bladesman, Blood mage, Chaos mage, Chronomancer, Death Knight, Druid, Enchanter, Entertainer, Faceless, Fire mage, Geomancer, Gladiator, Hunter, Ice mage, Legendary bladedancer, Legendary Sniper, Lich, Lightning mage, Magically gifted, Master sniper, Minstrel, Monk, Necromancer, Paladin, Performer, Psychically adept, Priest, Psionic, Ranger, Scout, Sharpshooter, Sniper, Succubus, Summoner, Technomancer, Undead, Wanderer, Warlock, Wayfarer, Woodsman"
   },
   {
     "Trait": "Beautiful",
@@ -54,60 +44,38 @@
   {
     "Trait": "Berserker",
     "Description": "They are at Berserker Human, they have no honor in the hunt, unlick rival clans, as they will hunt unarmed prey with their clan. They are a relentless and ruthless hunger, and they have also shown to be sadistic, seemingly savoring the fear of the prey throughout the hunt. Despite their brutality, they are also an incredibly skilled fighter, proving this by repeatedly emerging victorious in battle against Humans, Xenomorth, and Predator alike. Unsurprisingly, their arrogance will be their demise. They are four times as likely to start a social fight as others.",
-    "Stats": "Melee: +4, Intellectual: -4, Social: -4, , Melee hit +4, Melee dodge +15",
-    "": "Pain shock threshold +60%, Aiming time -50%, Shooting accuracy -5",
+    "Stats": "Melee: +4, Intellectual: -4, Social: -4, , Melee hit +4, Melee dodge +15, Pain shock threshold +60%, Aiming time -50%, Shooting accuracy -5",
     "Conflicts": "Wimp"
   },
   {
     "Trait": "Bladedancer",
     "Description": "They are a blade dancer, highly skilled in melee combat. Watching them fight is like watching a dance, every action precise and flawless as it flows from one form into another",
-    "Stats": "Move speed +0.3, Mental break -8%, Melee hit +10%, Melee dodge +15",
-    "": "Pain shock threshold +5%, Shooting accuracy -28, Global work speed -6%",
-    "Conflicts": "Arcane mage, Bard, Blademaster, Bladesman, Blood mage, Chaos mage, Chronomancer, Death Knight",
-    "__1": "Druid, Enchanter, Entertainer, Faceless, Fire mage, Geomancer, Gladiator, Hunter",
-    "__2": "Ice mage, Legendary bladedancer, Legendary Sniper, Lich, Lightning mage, Magically gifted, Master sniper, Minstrel, Monk",
-    "__3": "Necromancer, Paladin, Performer, Psychically adept, Priest, Psionic, Ranger, Scout",
-    "__4": "Sharpshooter, Sniper, Succubus, Summoner, Technomancer, Undead, Wanderer, Warlock, Wayfarer, Woodsman"
+    "Stats": "Move speed +0.3, Mental break -8%, Melee hit +10%, Melee dodge +15, Pain shock threshold +5%, Shooting accuracy -28, Global work speed -6%",
+    "Conflicts": "Arcane mage, Bard, Blademaster, Bladesman, Blood mage, Chaos mage, Chronomancer, Death Knight, Druid, Enchanter, Entertainer, Faceless, Fire mage, Geomancer, Gladiator, Hunter, Ice mage, Legendary bladedancer, Legendary Sniper, Lich, Lightning mage, Magically gifted, Master sniper, Minstrel, Monk, Necromancer, Paladin, Performer, Psychically adept, Priest, Psionic, Ranger, Scout, Sharpshooter, Sniper, Succubus, Summoner, Technomancer, Undead, Wanderer, Warlock, Wayfarer, Woodsman"
   },
   {
     "Trait": "Blademaster",
     "Description": "They are trained to become a sword master, dangerously skilled in melee combat",
-    "Stats": "Move speed +0.2, Mental break threshold -5%, Melee hit +6",
-    "": "Melee dodge +10, Shooting accuracy -25, Global work speed -8%",
-    "Conflicts": "Arcane mage, Bard, Bladedancer, Bladesman, Blood mage, Chaos mage, Chronomancer, Death Knight",
-    "__1": "Druid, Enchanter, Entertainer, Faceless, Fire mage, Geomancer, Gladiator, Hunter",
-    "__2": "Ice mage, Legendary bladedancer, Legendary Sniper, Lich, Lightning mage, Magically gifted, Master sniper, Minstrel, Monk",
-    "__3": "Necromancer, Paladin, Performer, Psychically adept, Priest, Psionic, Ranger, Scout",
-    "__4": "Sharpshooter, Sniper, Succubus, Summoner, Technomancer, Undead, Wanderer, Warlock, Wayfarer, Woodsman"
+    "Stats": "Move speed +0.2, Mental break threshold -5%, Melee hit +6, Melee dodge +10, Shooting accuracy -25, Global work speed -8%",
+    "Conflicts": "Arcane mage, Bard, Bladedancer, Bladesman, Blood mage, Chaos mage, Chronomancer, Death Knight, Druid, Enchanter, Entertainer, Faceless, Fire mage, Geomancer, Gladiator, Hunter, Ice mage, Legendary bladedancer, Legendary Sniper, Lich, Lightning mage, Magically gifted, Master sniper, Minstrel, Monk, Necromancer, Paladin, Performer, Psychically adept, Priest, Psionic, Ranger, Scout, Sharpshooter, Sniper, Succubus, Summoner, Technomancer, Undead, Wanderer, Warlock, Wayfarer, Woodsman"
   },
   {
     "Trait": "Blasdesman",
     "Description": "They are training to become a master of the blade and excels at fighting in melee combat",
-    "Stats": "Move speed +0.15, Mental break threshold -3%, Melee hit +3",
-    "": "Melee dodge +5, Shooting accuracy -20, Global work speed -10%",
-    "Conflicts": "Arcane mage, Bard, Bladedancer, Blademaster, Blood mage, Chaos mage, Chronomancer, Death Knight",
-    "__1": "Druid, Enchanter, Entertainer, Faceless, Fire mage, Geomancer, Gladiator, Hunter",
-    "__2": "Ice mage, Legendary bladedancer, Legendary Sniper, Lich, Lightning mage, Magically gifted, Master sniper, Minstrel, Monk",
-    "__3": "Necromancer, Paladin, Performer, Psychically adept, Priest, Psionic, Ranger, Scout",
-    "__4": "Sharpshooter, Sniper, Succubus, Summoner, Technomancer, Undead, Wanderer, Warlock, Wayfarer, Woodsman"
+    "Stats": "Move speed +0.15, Mental break threshold -3%, Melee hit +3, Melee dodge +5, Shooting accuracy -20, Global work speed -10%",
+    "Conflicts": "Arcane mage, Bard, Bladedancer, Blademaster, Blood mage, Chaos mage, Chronomancer, Death Knight, Druid, Enchanter, Entertainer, Faceless, Fire mage, Geomancer, Gladiator, Hunter, Ice mage, Legendary bladedancer, Legendary Sniper, Lich, Lightning mage, Magically gifted, Master sniper, Minstrel, Monk, Necromancer, Paladin, Performer, Psychically adept, Priest, Psionic, Ranger, Scout, Sharpshooter, Sniper, Succubus, Summoner, Technomancer, Undead, Wanderer, Warlock, Wayfarer, Woodsman"
   },
   {
     "Trait": "Bleeding heart",
     "Description": "They have a big heart and get very emotional. They love helping people, and abhors violence and injustice. They are more affected by these things than others",
     "Stats": "",
-    "Conflicts": "Bloodlust, Cannibal",
-    "__1": "Desensitized, Psychopath"
+    "Conflicts": "Bloodlust, Cannibal, Desensitized, Psychopath"
   },
   {
     "Trait": "Blood mage",
     "Description": "They are a blood mage and have consigned to the dark art of manipulating the life blood of living things as a means of increasing their power., As a blood mage, they have learned to control the life force within and command it at their will. Their connection to life makes it easier to associate with other living things, but doesn't appreciate effort without immediate results",
-    "Stats": "Social impact +20%, Negotiation ability +15%, Trade price improvement +10%, Tame animal +15%, Train animal +10%",
-    "": "Global learning factor -20%, Research speed -30%, Immunity gain +10%",
-    "Conflicts": "Arcane mage, Bard, Bladedancer, Blademaster, Bladesman, Chaos mage, Chronomancer, Death Knight",
-    "__1": "Druid, Enchanter, Entertainer, Faceless, Fire mage, Geomancer, Gladiator, Hunter",
-    "__2": "Ice mage, Legendary bladedancer, Legendary Sniper, Lich, Lightning mage, Magically gifted, Master sniper, Minstrel, Monk",
-    "__3": "Necromancer, Paladin, Performer, Psychically adept, Priest, Psionic, Ranger, Scout",
-    "__4": "Sharpshooter, Sniper, Succubus, Summoner, Technomancer, Undead, Wanderer, Warlock, Wayfarer, Woodsman"
+    "Stats": "Social impact +20%, Negotiation ability +15%, Trade price improvement +10%, Tame animal +15%, Train animal +10%, Global learning factor -20%, Research speed -30%, Immunity gain +10%",
+    "Conflicts": "Arcane mage, Bard, Bladedancer, Blademaster, Bladesman, Chaos mage, Chronomancer, Death Knight, Druid, Enchanter, Entertainer, Faceless, Fire mage, Geomancer, Gladiator, Hunter, Ice mage, Legendary bladedancer, Legendary Sniper, Lich, Lightning mage, Magically gifted, Master sniper, Minstrel, Monk, Necromancer, Paladin, Performer, Psychically adept, Priest, Psionic, Ranger, Scout, Sharpshooter, Sniper, Succubus, Summoner, Technomancer, Undead, Wanderer, Warlock, Wayfarer, Woodsman"
   },
   {
     "Trait": "Bloodlust",
@@ -124,8 +92,7 @@
   {
     "Trait": "Brawler",
     "Description": "They like to fight up close and personal. Their accuracy is greatly increased in melee combat, but they'll be unhappy if asked to carry a ranged weapon",
-    "Stats": "Melee: +4, Shooting: -4",
-    "": "Melee hit +4",
+    "Stats": "Melee: +4, Shooting: -4, Melee hit +4",
     "Conflicts": "Careful shooter, Trigger-happy, Wimp"
   },
   {
@@ -143,13 +110,8 @@
   {
     "Trait": "Chaos mage",
     "Description": "They have rejected all predefined magic paths and refuses to attribute objective reality in their search for power; there are no truths, all magic is permitted. This tradition has enabled them to learn and type of magic, although they will never master any",
-    "Stats": "Global learning factor +25%, Research speed -20%, Global work speed -10%",
-    "": "Psychic sensitivity +50%, Immunity gain speed -5%",
-    "Conflicts": "Arcane mage, Bard, Bladedancer, Blademaster, Bladesman, Blood mage, Chronomancer, Death Knight",
-    "__1": "Druid, Enchanter, Entertainer, Faceless, Fire mage, Geomancer, Gladiator, Hunter",
-    "__2": "Ice mage, Legendary bladedancer, Legendary Sniper, Lich, Lightning mage, Magically gifted, Master sniper, Minstrel, Monk",
-    "__3": "Necromancer, Paladin, Performer, Psychically adept, Priest, Psionic, Ranger, Scout",
-    "__4": "Sharpshooter, Sniper, Succubus, Summoner, Technomancer, Undead, Wanderer, Warlock, Wayfarer, Woodsman"
+    "Stats": "Global learning factor +25%, Research speed -20%, Global work speed -10%, Psychic sensitivity +50%, Immunity gain speed -5%",
+    "Conflicts": "Arcane mage, Bard, Bladedancer, Blademaster, Bladesman, Blood mage, Chronomancer, Death Knight, Druid, Enchanter, Entertainer, Faceless, Fire mage, Geomancer, Gladiator, Hunter, Ice mage, Legendary bladedancer, Legendary Sniper, Lich, Lightning mage, Magically gifted, Master sniper, Minstrel, Monk, Necromancer, Paladin, Performer, Psychically adept, Priest, Psionic, Ranger, Scout, Sharpshooter, Sniper, Succubus, Summoner, Technomancer, Undead, Wanderer, Warlock, Wayfarer, Woodsman"
   },
   {
     "Trait": "Chatty",
@@ -172,13 +134,8 @@
   {
     "Trait": "Chronomancer",
     "Description": "They are a chronomancer. Through arcane sight, they are able to view reality as it once was and as it could be, and can manipulate objects between those realities",
-    "Stats": "Global learning factor +25%, Research speed +40%, Global work speed -20%",
-    "": "Pain shock threshold -10%, Psychic sensitivity +10%",
-    "Conflicts": "Arcane mage, Bard, Bladedancer, Blademaster, Bladesman, Blood mage, Chaos mage, Death Knight",
-    "__1": "Druid, Enchanter, Entertainer, Faceless, Fire mage, Geomancer, Gladiator, Hunter",
-    "__2": "Ice mage, Legendary bladedancer, Legendary Sniper, Lich, Lightning mage, Magically gifted, Master sniper, Minstrel, Monk",
-    "__3": "Necromancer, Paladin, Performer, Psychically adept, Priest, Psionic, Ranger, Scout",
-    "__4": "Sharpshooter, Sniper, Succubus, Summoner, Technomancer, Undead, Wanderer, Warlock, Wayfarer, Woodsman"
+    "Stats": "Global learning factor +25%, Research speed +40%, Global work speed -20%, Pain shock threshold -10%, Psychic sensitivity +10%",
+    "Conflicts": "Arcane mage, Bard, Bladedancer, Blademaster, Bladesman, Blood mage, Chaos mage, Death Knight, Druid, Enchanter, Entertainer, Faceless, Fire mage, Geomancer, Gladiator, Hunter, Ice mage, Legendary bladedancer, Legendary Sniper, Lich, Lightning mage, Magically gifted, Master sniper, Minstrel, Monk, Necromancer, Paladin, Performer, Psychically adept, Priest, Psionic, Ranger, Scout, Sharpshooter, Sniper, Succubus, Summoner, Technomancer, Undead, Wanderer, Warlock, Wayfarer, Woodsman"
   },
   {
     "Trait": "Codependent",
@@ -195,13 +152,8 @@
   {
     "Trait": "Death Knight",
     "Description": "They are a Death Knight - harbinger of doom and a representative of the ever approaching inevitability of death and decay. Her solemn attitude makes most pawns uneasy and even fewer approve of their methods",
-    "Stats": "Social impact -25%, Negotiation ability -20%, Carrying capacity +30",
-    "": "Pain shock threshold +30%, Psychic sensitivity -25%",
-    "Conflicts": "Arcane mage, Bard, Bladedancer, Blademaster, Bladesman, Blood mage, Chaos mage, Chronomancer",
-    "__1": "Druid, Enchanter, Entertainer, Faceless, Fire mage, Geomancer, Gladiator, Hunter",
-    "__2": "Ice mage, Legendary bladedancer, Legendary Sniper, Lich, Lightning mage, Magically gifted, Master sniper, Minstrel, Monk",
-    "__3": "Necromancer, Paladin, Performer, Psychically adept, Priest, Psionic, Ranger, Scout",
-    "__4": "Sharpshooter, Sniper, Succubus, Summoner, Technomancer, Undead, Wanderer, Warlock, Wayfarer, Woodsman"
+    "Stats": "Social impact -25%, Negotiation ability -20%, Carrying capacity +30, Pain shock threshold +30%, Psychic sensitivity -25%",
+    "Conflicts": "Arcane mage, Bard, Bladedancer, Blademaster, Bladesman, Blood mage, Chaos mage, Chronomancer, Druid, Enchanter, Entertainer, Faceless, Fire mage, Geomancer, Gladiator, Hunter, Ice mage, Legendary bladedancer, Legendary Sniper, Lich, Lightning mage, Magically gifted, Master sniper, Minstrel, Monk, Necromancer, Paladin, Performer, Psychically adept, Priest, Psionic, Ranger, Scout, Sharpshooter, Sniper, Succubus, Summoner, Technomancer, Undead, Wanderer, Warlock, Wayfarer, Woodsman"
   },
   {
     "Trait": "Depressive",
@@ -218,46 +170,26 @@
   {
     "Trait": "Druid",
     "Description": "They are attuned with the forces of nature",
-    "Stats": "Immunity gain speed +15%, Toxic sensitivity -20%, Plant work speed +25%, Plant harvest yield +25%",
-    "": "Social impact -10%, Negotiation ability -10%, Trade price improvement -10%, Animal gather yield +20%",
-    "Conflicts": "Arcane mage, Bard, Bladedancer, Blademaster, Bladesman, Blood mage, Chaos mage, Chronomancer",
-    "__1": "Death Knight, Enchanter, Entertainer, Faceless, Fire mage, Geomancer, Gladiator, Hunter",
-    "__2": "Ice mage, Legendary bladedancer, Legendary Sniper, Lich, Lightning mage, Magically gifted, Master sniper, Minstrel, Monk",
-    "__3": "Necromancer, Paladin, Performer, Psychically adept, Priest, Psionic, Ranger, Scout",
-    "__4": "Sharpshooter, Sniper, Succubus, Summoner, Technomancer, Undead, Wanderer, Warlock, Wayfarer, Woodsman"
+    "Stats": "Immunity gain speed +15%, Toxic sensitivity -20%, Plant work speed +25%, Plant harvest yield +25%, Social impact -10%, Negotiation ability -10%, Trade price improvement -10%, Animal gather yield +20%",
+    "Conflicts": "Arcane mage, Bard, Bladedancer, Blademaster, Bladesman, Blood mage, Chaos mage, Chronomancer, Death Knight, Enchanter, Entertainer, Faceless, Fire mage, Geomancer, Gladiator, Hunter, Ice mage, Legendary bladedancer, Legendary Sniper, Lich, Lightning mage, Magically gifted, Master sniper, Minstrel, Monk, Necromancer, Paladin, Performer, Psychically adept, Priest, Psionic, Ranger, Scout, Sharpshooter, Sniper, Succubus, Summoner, Technomancer, Undead, Wanderer, Warlock, Wayfarer, Woodsman"
   },
   {
     "Trait": "Enchanter",
     "Description": "They are an enchanter, attuned to the composition of matter and materials. They can manipulate matter to their will, frequently in unnatural ways, and their powers of transmutation can be permanent when sufficient effor is applied",
-    "Stats": "Tame animal -15%, Train animal -15%, Global learning factor +10%, Global work speed +10%",
-    "": "Min comfortable temp +5.4F [3.0C], Max comfortable temp -5.4F [-3.0C], Toxic sensitivity +10%, Immunity gain speed -3%, Pain shock threshold -10%",
-    "Conflicts": "Arcane mage, Bard, Bladedancer, Blademaster, Bladesman, Blood mage, Chaos mage, Chronomancer",
-    "__1": "Death Knight, Druid, Entertainer, Faceless, Fire mage, Geomancer, Gladiator, Hunter",
-    "__2": "Ice mage, Legendary bladedancer, Legendary Sniper, Lich, Lightning mage, Magically gifted, Master sniper, Minstrel, Monk",
-    "__3": "Necromancer, Paladin, Performer, Psychically adept, Priest, Psionic, Ranger, Scout",
-    "__4": "Sharpshooter, Sniper, Succubus, Summoner, Technomancer, Undead, Wanderer, Warlock, Wayfarer, Woodsman"
+    "Stats": "Tame animal -15%, Train animal -15%, Global learning factor +10%, Global work speed +10%, Min comfortable temp +5.4F [3.0C], Max comfortable temp -5.4F [-3.0C], Toxic sensitivity +10%, Immunity gain speed -3%, Pain shock threshold -10%",
+    "Conflicts": "Arcane mage, Bard, Bladedancer, Blademaster, Bladesman, Blood mage, Chaos mage, Chronomancer, Death Knight, Druid, Entertainer, Faceless, Fire mage, Geomancer, Gladiator, Hunter, Ice mage, Legendary bladedancer, Legendary Sniper, Lich, Lightning mage, Magically gifted, Master sniper, Minstrel, Monk, Necromancer, Paladin, Performer, Psychically adept, Priest, Psionic, Ranger, Scout, Sharpshooter, Sniper, Succubus, Summoner, Technomancer, Undead, Wanderer, Warlock, Wayfarer, Woodsman"
   },
   {
     "Trait": "Entertainer",
     "Description": "They are a natural entertainer, able to lighten the mood and lift the spirits of everyone around them",
-    "Stats": "Social impact +10%, Negotiation ability +20%, Trade price improvement +10%",
-    "": "Pain shock threshold -10%, Carrying capacity -10, Global work speed -10%",
-    "Conflicts": "Arcane mage, Bard, Bladedancer, Blademaster, Bladesman, Blood mage, Chaos mage, Chronomancer",
-    "__1": "Death Knight, Druid, Enchanter, Faceless, Fire mage, Geomancer, Gladiator, Hunter",
-    "__2": "Ice mage, Legendary bladedancer, Legendary Sniper, Lich, Lightning mage, Magically gifted, Master sniper, Minstrel, Monk",
-    "__3": "Necromancer, Paladin, Performer, Psychically adept, Priest, Psionic, Ranger, Scout",
-    "__4": "Sharpshooter, Sniper, Succubus, Summoner, Technomancer, Undead, Wanderer, Warlock, Wayfarer, Woodsman"
+    "Stats": "Social impact +10%, Negotiation ability +20%, Trade price improvement +10%, Pain shock threshold -10%, Carrying capacity -10, Global work speed -10%",
+    "Conflicts": "Arcane mage, Bard, Bladedancer, Blademaster, Bladesman, Blood mage, Chaos mage, Chronomancer, Death Knight, Druid, Enchanter, Faceless, Fire mage, Geomancer, Gladiator, Hunter, Ice mage, Legendary bladedancer, Legendary Sniper, Lich, Lightning mage, Magically gifted, Master sniper, Minstrel, Monk, Necromancer, Paladin, Performer, Psychically adept, Priest, Psionic, Ranger, Scout, Sharpshooter, Sniper, Succubus, Summoner, Technomancer, Undead, Wanderer, Warlock, Wayfarer, Woodsman"
   },
   {
     "Trait": "Faceless",
     "Description": "They are a master of disguise and imitation; able to manipulate and capture the muscle and mental actions of another and release it as their own",
-    "Stats": "Move speed +0.15, Global work speed +10%, Immunity gain speed +10%, Psychic sensitivity +50%, Mental break threshold +10%",
-    "": "Global learning factor +20%, Melee dodge +4, Mining speed -10%, Plant work speed -10%, Research speed -40%",
-    "Conflicts": "Arcane mage, Bard, Bladedancer, Blademaster, Bladesman, Blood mage, Chaos mage, Chronomancer",
-    "__1": "Death Knight, Druid, Enchanter, Entertainer, Fire mage, Geomancer, Gladiator, Hunter",
-    "__2": "Ice mage, Legendary bladedancer, Legendary Sniper, Lich, Lightning mage, Magically gifted, Master sniper, Minstrel, Monk",
-    "__3": "Necromancer, Paladin, Performer, Psychically adept, Priest, Psionic, Ranger, Scout",
-    "__4": "Sharpshooter, Sniper, Succubus, Summoner, Technomancer, Undead, Wanderer, Warlock, Wayfarer, Woodsman"
+    "Stats": "Move speed +0.15, Global work speed +10%, Immunity gain speed +10%, Psychic sensitivity +50%, Mental break threshold +10%, Global learning factor +20%, Melee dodge +4, Mining speed -10%, Plant work speed -10%, Research speed -40%",
+    "Conflicts": "Arcane mage, Bard, Bladedancer, Blademaster, Bladesman, Blood mage, Chaos mage, Chronomancer, Death Knight, Druid, Enchanter, Entertainer, Fire mage, Geomancer, Gladiator, Hunter, Ice mage, Legendary bladedancer, Legendary Sniper, Lich, Lightning mage, Magically gifted, Master sniper, Minstrel, Monk, Necromancer, Paladin, Performer, Psychically adept, Priest, Psionic, Ranger, Scout, Sharpshooter, Sniper, Succubus, Summoner, Technomancer, Undead, Wanderer, Warlock, Wayfarer, Woodsman"
   },
   {
     "Trait": "Faith",
@@ -280,13 +212,8 @@
   {
     "Trait": "Fire mage",
     "Description": "They are attuned with the elements of fire",
-    "Stats": "Move speed +0.2, Global work speed +10%, Immunity gain speed +40%, Psychic sensitivity +20%, Mental break threshold +6%",
-    "": "Shooting accuracy -5, Max comfortable temp +27F [15C], Min comfortable temp +12.6F [7.0C]",
-    "Conflicts": "Arcane mage, Bard, Bladedancer, Blademaster, Bladesman, Blood mage, Chaos mage, Chronomancer",
-    "__1": "Death Knight, Druid, Enchanter, Entertainer, Faceless, Geomancer, Gladiator, Hunter",
-    "__2": "Ice mage, Legendary bladedancer, Legendary Sniper, Lich, Lightning mage, Magically gifted, Master sniper, Minstrel, Monk",
-    "__3": "Necromancer, Paladin, Performer, Psychically adept, Priest, Psionic, Ranger, Scout",
-    "__4": "Sharpshooter, Sniper, Succubus, Summoner, Technomancer, Undead, Wanderer, Warlock, Wayfarer, Woodsman"
+    "Stats": "Move speed +0.2, Global work speed +10%, Immunity gain speed +40%, Psychic sensitivity +20%, Mental break threshold +6%, Shooting accuracy -5, Max comfortable temp +27F [15C], Min comfortable temp +12.6F [7.0C]",
+    "Conflicts": "Arcane mage, Bard, Bladedancer, Blademaster, Bladesman, Blood mage, Chaos mage, Chronomancer, Death Knight, Druid, Enchanter, Entertainer, Faceless, Geomancer, Gladiator, Hunter, Ice mage, Legendary bladedancer, Legendary Sniper, Lich, Lightning mage, Magically gifted, Master sniper, Minstrel, Monk, Necromancer, Paladin, Performer, Psychically adept, Priest, Psionic, Ranger, Scout, Sharpshooter, Sniper, Succubus, Summoner, Technomancer, Undead, Wanderer, Warlock, Wayfarer, Woodsman"
   },
   {
     "Trait": "Fisherman",
@@ -297,8 +224,7 @@
   {
     "Trait": "Full Maintenance",
     "Description": "They are quite proficient with all manner of crafts and construction, few would be surprised if they really could build Rome in a day",
-    "Stats": "Crafting +3, Construction +3, Construction speed +15%, Construction success chance +15%, Smithing speed +15%",
-    "": "Tailoring speed +15%, Smelting speed +15%, Mining speed +15%, Mining yield +15%",
+    "Stats": "Crafting +3, Construction +3, Construction speed +15%, Construction success chance +15%, Smithing speed +15%, Tailoring speed +15%, Smelting speed +15%, Mining speed +15%, Mining yield +15%",
     "Conflicts": "Jury Rigger, Regular Maintenance"
   },
   {
@@ -310,40 +236,26 @@
   {
     "Trait": "Geomancer",
     "Description": "They are attuned with the earth and natural order, drawing power from the physical realm and intertwining it with arcane energy. They are capable of reinforcing physical elements, and bending them, as they need",
-    "Stats": "Move speed -0.1, Toxic sensitivity -30%, Min comfortable temp -21.6F [-12C], Max comfortable temp +21.6F [12C], Melee dodge -5",
-    "": "Mining speed +25%, Mining yield +25%, Carrying capacity +20, Global work speed -20%, Mental break threshold -15%, Global learning factor -20%",
-    "Conflicts": "Arcane mage, Bard, Bladedancer, Blademaster, Bladesman, Blood mage, Chaos mage, Chronomancer",
-    "__1": "Death Knight, Druid, Enchanter, Entertainer, Faceless, Fire mage, Gladiator, Hunter",
-    "__2": "Ice mage, Legendary bladedancer, Legendary Sniper, Lich, Lightning mage, Magically gifted, Master sniper, Minstrel, Monk",
-    "__3": "Necromancer, Paladin, Performer, Psychically adept, Priest, Psionic, Ranger, Scout",
-    "__4": "Sharpshooter, Sniper, Succubus, Summoner, Technomancer, Undead, Wanderer, Warlock, Wayfarer, Woodsman"
+    "Stats": "Move speed -0.1, Toxic sensitivity -30%, Min comfortable temp -21.6F [-12C], Max comfortable temp +21.6F [12C], Melee dodge -5, Mining speed +25%, Mining yield +25%, Carrying capacity +20, Global work speed -20%, Mental break threshold -15%, Global learning factor -20%",
+    "Conflicts": "Arcane mage, Bard, Bladedancer, Blademaster, Bladesman, Blood mage, Chaos mage, Chronomancer, Death Knight, Druid, Enchanter, Entertainer, Faceless, Fire mage, Gladiator, Hunter, Ice mage, Legendary bladedancer, Legendary Sniper, Lich, Lightning mage, Magically gifted, Master sniper, Minstrel, Monk, Necromancer, Paladin, Performer, Psychically adept, Priest, Psionic, Ranger, Scout, Sharpshooter, Sniper, Succubus, Summoner, Technomancer, Undead, Wanderer, Warlock, Wayfarer, Woodsman"
   },
   {
     "Trait": "Gifted",
     "Description": "They have been special from birth, showing prowess in many skills. They don't learn new things as quickly, since they are used to already being the smartest person in the room",
-    "Stats": "Shooting +3, Melee +3, Social +3, Animals +3, Medical +3, Cooking +3, Construction +3, Plants +3",
-    "": "Mining +3, Artistic +3, Crafting +3, Intellectual +3, Global learning factor -5%, Research speed -5%, Global work speed +5%",
+    "Stats": "Shooting +3, Melee +3, Social +3, Animals +3, Medical +3, Cooking +3, Construction +3, Plants +3, Mining +3, Artistic +3, Crafting +3, Intellectual +3, Global learning factor -5%, Research speed -5%, Global work speed +5%",
     "Conflicts": "Intense Training, Too smart"
   },
   {
     "Trait": "Gladiator",
     "Description": "They have learned how to train the Gladiator combat style",
-    "Stats": "Move speed +0.2, Global work speed +20%, Immunity gain speed +20%, Psychic sensitivity -60%, Mental break threshold -3%, Global learning factor -30%, Melee dodge +4",
-    "": "Mining speed +20%, Mining yield +20%, Plant work speed -25%, Plant harvest yield -20%, Research speed -25%",
-    "Conflicts": "Arcane mage, Bard, Bladedancer, Blademaster, Bladesman, Blood mage, Chaos mage, Chronomancer",
-    "__1": "Death Knight, Druid, Enchanter, Entertainer, Faceless, Fire mage, Geomancer, Hunter",
-    "__2": "Ice mage, Legendary bladedancer, Legendary Sniper, Lich, Lightning mage, Magically gifted, Master sniper, Minstrel, Monk",
-    "__3": "Necromancer, Paladin, Performer, Psychically adept, Priest, Psionic, Ranger, Scout",
-    "__4": "Sharpshooter, Sniper, Succubus, Summoner, Technomancer, Undead, Wanderer, Warlock, Wayfarer, Woodsman"
+    "Stats": "Move speed +0.2, Global work speed +20%, Immunity gain speed +20%, Psychic sensitivity -60%, Mental break threshold -3%, Global learning factor -30%, Melee dodge +4, Mining speed +20%, Mining yield +20%, Plant work speed -25%, Plant harvest yield -20%, Research speed -25%",
+    "Conflicts": "Arcane mage, Bard, Bladedancer, Blademaster, Bladesman, Blood mage, Chaos mage, Chronomancer, Death Knight, Druid, Enchanter, Entertainer, Faceless, Fire mage, Geomancer, Hunter, Ice mage, Legendary bladedancer, Legendary Sniper, Lich, Lightning mage, Magically gifted, Master sniper, Minstrel, Monk, Necromancer, Paladin, Performer, Psychically adept, Priest, Psionic, Ranger, Scout, Sharpshooter, Sniper, Succubus, Summoner, Technomancer, Undead, Wanderer, Warlock, Wayfarer, Woodsman"
   },
   {
     "Trait": "Good Natured",
     "Description": "They have always been well mannered and always tended to be on everyone's good side. Unfortunatly this means they have virtually no experience with fighting",
-    "Stats": "Shooting -2, Melee -2, Social +3, Animals +2",
-    "": "Negotiation ability +10%, Social impact +10%, Tame animal +5%",
-    "Conflicts": "Abrasive, Bloodlust, Brawler, Careful shooter, Iron Fist",
-    "__1": "Misandrist, Misogynist, Nerd Rage, Psychopath, Pyromaniac",
-    "__2": "Survivalist, Trigger-happy"
+    "Stats": "Shooting -2, Melee -2, Social +3, Animals +2, Negotiation ability +10%, Social impact +10%, Tame animal +5%",
+    "Conflicts": "Abrasive, Bloodlust, Brawler, Careful shooter, Iron Fist, Misandrist, Misogynist, Nerd Rage, Psychopath, Pyromaniac, Survivalist, Trigger-happy"
   },
   {
     "Trait": "Gourmand",
@@ -385,8 +297,7 @@
     "Trait": "Healer",
     "Description": "They have a fair bit of medical experience, they are no trained doctor but are better than the average person",
     "Stats": "Medical +2, Medical surgery success +5%, Medical tend quality +5%",
-    "Conflicts": "Abrasive, Lifegiver, Medic",
-    "__1": "Misandrist, Misogynist"
+    "Conflicts": "Abrasive, Lifegiver, Medic, Misandrist, Misogynist"
   },
   {
     "Trait": "Heavy sleeper",
@@ -397,79 +308,61 @@
   {
     "Trait": "Heavyset",
     "Description": "They have a very heavy build for a human, they can't jump as high as most humans and is always falling behind the group whenever they go anywhere. But when it comes to a matter of raw physical strength, they are far stronger compared to the average human",
-    "Stats": "Move speed -0.2, Global work speed -35%, Melee hit -2",
-    "": "Melee dodge -15, Pain shock threshold +30%",
+    "Stats": "Move speed -0.2, Global work speed -35%, Melee hit -2, Melee dodge -15, Pain shock threshold +30%",
     "Conflicts": "Lightweight"
   },
   {
     "Trait": "Hunter",
     "Description": "They are a hunter; they employ field-craft, cunning, and skill with a bow to defend their land from invaders",
-    "Stats": "Move speed +0.2, Immunity gain speed +25%, Max comfortable temp +27F [15C], Min comfortable temp -27F [-15C], Aiming time -20%, Toxic sensitivity -15%",
-    "": "Butchery speed +10%, Smelting speed -15%, Construction speed -15%, Tame animal +12%, Train animal +12%",
-    "Conflicts": "Arcane mage, Bard, Bladedancer, Blademaster, Bladesman, Blood mage, Chaos mage, Chronomancer",
-    "__1": "Death Knight, Druid, Enchanter, Entertainer, Faceless, Fire mage, Geomancer, Gladiator",
-    "__2": "Ice mage, Legendary bladedancer, Legendary Sniper, Lich, Lightning mage, Magically gifted, Master sniper, Minstrel, Monk",
-    "__3": "Necromancer, Paladin, Performer, Psychically adept, Priest, Psionic, Ranger, Scout",
-    "__4": "Sharpshooter, Sniper, Succubus, Summoner, Technomancer, Undead, Wanderer, Warlock, Wayfarer, Woodsman"
+    "Stats": "Move speed +0.2, Immunity gain speed +25%, Max comfortable temp +27F [15C], Min comfortable temp -27F [-15C], Aiming time -20%, Toxic sensitivity -15%, Butchery speed +10%, Smelting speed -15%, Construction speed -15%, Tame animal +12%, Train animal +12%",
+    "Conflicts": "Arcane mage, Bard, Bladedancer, Blademaster, Bladesman, Blood mage, Chaos mage, Chronomancer, Death Knight, Druid, Enchanter, Entertainer, Faceless, Fire mage, Geomancer, Gladiator, Ice mage, Legendary bladedancer, Legendary Sniper, Lich, Lightning mage, Magically gifted, Master sniper, Minstrel, Monk, Necromancer, Paladin, Performer, Psychically adept, Priest, Psionic, Ranger, Scout, Sharpshooter, Sniper, Succubus, Summoner, Technomancer, Undead, Wanderer, Warlock, Wayfarer, Woodsman"
   },
   {
     "Trait": "Ice mage",
     "Description": "They are attuned with the elements of water",
-    "Stats": "Mental break threshold -10%, Research speed +20%, Global learning factor +10%, Global work speed -10%",
-    "": "Social impact -20%, Max comfortable temp -12.6F [-7C], Min comfortable temp -27F [-15C]",
-    "Conflicts": "Arcane mage, Bard, Bladedancer, Blademaster, Bladesman, Blood mage, Chaos mage, Chronomancer",
-    "__1": "Death Knight, Druid, Enchanter, Entertainer, Faceless, Fire mage, Geomancer, Gladiator",
-    "__2": "Hunter, Legendary bladedancer, Legendary Sniper, Lich, Lightning mage, Magically gifted, Master sniper, Minstrel, Monk",
-    "__3": "Necromancer, Paladin, Performer, Psychically adept, Priest, Psionic, Ranger, Scout",
-    "__4": "Sharpshooter, Sniper, Succubus, Summoner, Technomancer, Undead, Wanderer, Warlock, Wayfarer, Woodsman"
+    "Stats": "Mental break threshold -10%, Research speed +20%, Global learning factor +10%, Global work speed -10%, Social impact -20%, Max comfortable temp -12.6F [-7C], Min comfortable temp -27F [-15C]",
+    "Conflicts": "Arcane mage, Bard, Bladedancer, Blademaster, Bladesman, Blood mage, Chaos mage, Chronomancer, Death Knight, Druid, Enchanter, Entertainer, Faceless, Fire mage, Geomancer, Gladiator, Hunter, Legendary bladedancer, Legendary Sniper, Lich, Lightning mage, Magically gifted, Master sniper, Minstrel, Monk, Necromancer, Paladin, Performer, Psychically adept, Priest, Psionic, Ranger, Scout, Sharpshooter, Sniper, Succubus, Summoner, Technomancer, Undead, Wanderer, Warlock, Wayfarer, Woodsman"
   },
   {
     "Trait": "Idiot Savant",
     "Description": "Something has always been off about them. They don't seem very intelligent, but yet they pick up skills alarmingly quickly",
-    "Stats": "Intellectual -10, Medical -10, Crafting -10",
-    "": "Global learning factor +100%",
+    "Stats": "Intellectual -10, Medical -10, Crafting -10, Global learning factor +100%",
     "Conflicts": "Gifted, Intense Training, Nerd Rage, Too smart"
   },
   {
     "Trait": "Imperial-Assassinorum",
     "Description": "Has been trained by the Officio Assassinorum to be a surgical tool to serve the Emperor against Chaos. They are blessed for combat excellence at range",
-    "Stats": "Shooting +3, Melee +3, Aiming time -20%, Shooting accuracy +0.2, Global learning factor +30%, Move speed +0.1, Mental break threshold -15%",
-    "": "Immunity gain speed +15%, Carrying capacity +75, Armor-blunt +15%, Armor-sharp +15%, Toxic sensitivity -15%",
+    "Stats": "Shooting +3, Melee +3, Aiming time -20%, Shooting accuracy +0.2, Global learning factor +30%, Move speed +0.1, Mental break threshold -15%, Immunity gain speed +15%, Carrying capacity +75, Armor-blunt +15%, Armor-sharp +15%, Toxic sensitivity -15%",
     "Conflicts": "Imperial-Astarte, Imperial-AstraMilitarum, Imperial-Inquisition, Imperial-Mechanicus, Imperial-Medic"
   },
   {
     "Trait": "Imperial-Astarte",
     "Description": "They have been blessed by the Emperor by the pinnacle of Human Warfare as one of his Chosen Astarte in the fight against Chaos. They are blessed with the Astarte trait",
-    "Stats": "Shooting +5, Melee +5, Melee dodge +0.1, Aiming time -20%, Shooting accuracy +0.2, Move speed +0.15, Mental break threshold -20%",
-    "": "Immunity gain speed +25%, Carrying capacity +200, Armor-blunt +20%, Armor-sharp +20%, Toxic sensitivity -20%, Max high points x70%",
+    "Stats": "Shooting +5, Melee +5, Melee dodge +0.1, Aiming time -20%, Shooting accuracy +0.2, Move speed +0.15, Mental break threshold -20%, Immunity gain speed +25%, Carrying capacity +200, Armor-blunt +20%, Armor-sharp +20%, Toxic sensitivity -20%, Max high points x70%",
     "Conflicts": "Imperial-Assassinorum, Imperial-AstraMilitarum, Imperial-Inquisition, Imperial-Mechanicus, Imperial-Medic"
   },
   {
     "Trait": "Imperial-AstraMilitarum",
     "Description": "Has been blessed by the Emperor to be overall better than regular humans at all tasked related to combat to better serve the Emperor against Chaos. They are blessed with general combat excellence",
-    "Stats": "Shooting +3, Melee +3, Melee dodge +0.3, Aiming time -15%, Shooting accuracy +0.2, Global learning factor +15%, Move speed +0.1, Mental break threshold -15%",
-    "": "Immunity gain speed +15%, Carrying capacity +100, Armor-blunt +10%, Armor-sharp +10%, Toxic sensitivity -10%, Melee hit chance x300%",
+    "Stats": "Shooting +3, Melee +3, Melee dodge +0.3, Aiming time -15%, Shooting accuracy +0.2, Global learning factor +15%, Move speed +0.1, Mental break threshold -15%, Immunity gain speed +15%, Carrying capacity +100, Armor-blunt +10%, Armor-sharp +10%, Toxic sensitivity -10%, Melee hit chance x300%",
     "Conflicts": "Imperial-Assassinorum, Imperial-Astarte, Imperial-Inquisition, Imperial-Mechanicus, Imperial-Medic"
   },
   {
     "Trait": "Imperial-Inquisition",
     "Description": "Has been trained by the Inquisition as the secret police of the Imperium responsible for guarding the souls of humanity. They are blessed by the Inquisition with a many varied skills",
-    "Stats": "Shooting +2, Melee +1, Crafting +1, Medical +2, Global work speed +10%, Aiming time -10%, Shooting accuracy +0.2, Global learning factor +14%, Move speed +0.3, Mental break threshold -15%, Immunity gain speed +14%, Carrying capacity +75",
-    "": "Armor-blunt +14%, Armor-sharp +14%, Tosix Sensitivity -14%, Social impact +13%, Research speed +14%, Psychic sensitivity -20%, Melee hit chance x250%",
+    "Stats": "Shooting +2, Melee +1, Crafting +1, Medical +2, Global work speed +10%, Aiming time -10%, Shooting accuracy +0.2, Global learning factor +14%, Move speed +0.3, Mental break threshold -15%, Immunity gain speed +14%, Carrying capacity +75, Armor-blunt +14%, Armor-sharp +14%, Tosix Sensitivity -14%, Social impact +13%, Research speed +14%, Psychic sensitivity -20%, Melee hit chance x250%",
     "Conflicts": "Imperial-Assassinorum, Imperial-Astarte, Imperial-AstraMilitarum, Imperial-Mechanicus, Imperial-Medic"
   },
   {
     "Trait": "Imperial-Mechanicus",
     "Description": "Has been blessed by the Mechanicus to be overall better than regular humans at all tasked related to research, craft and mining. They are blessed for a harsh working environment",
-    "Stats": "Crafting +3, Construction +3, Mining +3, Global work speed +25%, Global learning factor +130%, Move speed +0.1, Immunity gain speed +20%",
-    "": "Carrying capacity +150, Trade price improvement +25%, Social impact +10%, Psychic sensitivity +10%, Construction speed +10%",
+    "Stats": "Crafting +3, Construction +3, Mining +3, Global work speed +25%, Global learning factor +130%, Move speed +0.1, Immunity gain speed +20%, Carrying capacity +150, Trade price improvement +25%, Social impact +10%, Psychic sensitivity +10%, Construction speed +10%",
     "Conflicts": "Imperial-Assassinorum, Imperial-Astarte, Imperial-AstraMilitarum, Imperial-Inquisition, Imperial-Medic"
   },
   {
     "Trait": "Imperial-Medic",
     "Description": "Has been training in the arts of all medicine to help their fellow imperial citizens. They are blessed with medical excellence",
-    "Stats": "Medical +6, Global learning factor +15%, Move speed +0.1, Mental break threshold +13%",
-    "": "Immunity gain speed +13%, Carrying capacity +150, Toxic sensitivity -12%, Social impact +15%",
+    "Stats": "Medical +6, Global learning factor +15%, Move speed +0.1, Mental break threshold +13%, Immunity gain speed +13%, Carrying capacity +150, Toxic sensitivity -12%, Social impact +15%",
     "Conflicts": "Imperial-Assassinorum, Imperial-Astarte, Imperial-AstraMilitarum, Imperial-Inquisition, Imperial-Mechanicus"
   },
   {
@@ -488,14 +381,12 @@
     "Trait": "Inspirational",
     "Description": "Has a tendency to inspire other people, as a result people admire them",
     "Stats": "Social +2, Negotiation ability +20%, Social impact +20%",
-    "Conflicts": "Abrasive, Local leader, Misandrist",
-    "__1": "Misogynist, Psychopath"
+    "Conflicts": "Abrasive, Local leader, Misandrist, Misogynist, Psychopath"
   },
   {
     "Trait": "Intense Training",
     "Description": "Was born at the pack of the pack, always coming up short compared to others. They trained very hard to keep up, eventually pushing past their shortcomings in many ways",
-    "Stats": "Shooting +2, Melee +2, Social +2, Animals +2, Medical +2, Cooking +2, Construction +2, Plants +2",
-    "": "Mining +2, Artistic +2, Crafting +2, Intellectual +2, Global learning factor +5%, Research speed +5%, Global work speed +5%",
+    "Stats": "Shooting +2, Melee +2, Social +2, Animals +2, Medical +2, Cooking +2, Construction +2, Plants +2, Mining +2, Artistic +2, Crafting +2, Intellectual +2, Global learning factor +5%, Research speed +5%, Global work speed +5%",
     "Conflicts": "Gifted"
   },
   {
@@ -531,8 +422,7 @@
   {
     "Trait": "Jury Rigger",
     "Description": "They can somehow mash some scap together and still end up with a somewhat functional result",
-    "Stats": "Crafting +1, Construction +1, Construction speed +5%, Construct success chance +5%, Smithing speed +5%",
-    "": "Tailoring speed +5%, Smelting speed +5%, Mining speed +5%, Mining yield +5%",
+    "Stats": "Crafting +1, Construction +1, Construction speed +5%, Construct success chance +5%, Smithing speed +5%, Tailoring speed +5%, Smelting speed +5%, Mining speed +5%, Mining yield +5%",
     "Conflicts": "Full Maintenance, Regular Maintenance"
   },
   {
@@ -556,69 +446,44 @@
   {
     "Trait": "Legendary bladedancer",
     "Description": "Has become a legend, their skill in melee combat is known across the world. Their skill in combat makes it look as if each movement, each strike, is merely a stitch in a tapestry that depicts their victory",
-    "Stats": "Move speed +0.4, Mental break threshold -10%, Melee hit +15, Melee dodge +20",
-    "": "Pain shock threshold +10%, Shooting accuracy -30, Global work speed -5%",
-    "Conflicts": "Arcane mage, Bard, Bladedancer, Blademaster, Bladesman, Blood mage, Chaos mage, Chronomancer",
-    "__1": "Death Knight, Druid, Enchanter, Entertainer, Faceless, Fire mage, Geomancer, Gladiator",
-    "__2": "Hunter, Ice mage, Legendary Sniper, Lich, Lightning mage, Magically gifted, Minstrel, Monk",
-    "__3": "Necromancer, Paladin, Performer, Psychically adept, Priest, Psionic, Ranger, Scout",
-    "__4": "Sharpshooter, Sniper, Succubus, Summoner, Technomancer, Undead, Wanderer, Warlock, Wayfarer, Woodsman"
+    "Stats": "Move speed +0.4, Mental break threshold -10%, Melee hit +15, Melee dodge +20, Pain shock threshold +10%, Shooting accuracy -30, Global work speed -5%",
+    "Conflicts": "Arcane mage, Bard, Bladedancer, Blademaster, Bladesman, Blood mage, Chaos mage, Chronomancer, Death Knight, Druid, Enchanter, Entertainer, Faceless, Fire mage, Geomancer, Gladiator, Hunter, Ice mage, Legendary Sniper, Lich, Lightning mage, Magically gifted, Minstrel, Monk, Necromancer, Paladin, Performer, Psychically adept, Priest, Psionic, Ranger, Scout, Sharpshooter, Sniper, Succubus, Summoner, Technomancer, Undead, Wanderer, Warlock, Wayfarer, Woodsman"
   },
   {
     "Trait": "Legendary Sniper",
     "Description": "They are a legendary sniper, skilled in the economy and accuracy of long range, small arms combat. Other colonists avoid eye contact and whisper in corners about how dangerous she is and that suits them just fine",
-    "Stats": "Move speed +0.25, Aiming time -30%, Shooting accuracy +8, Research speed -16%",
-    "": "Global work speed -16%, Tame animal -16%, Train animal -16%",
-    "Conflicts": "Arcane mage, Bard, Bladedancer, Blademaster, Bladesman, Blood mage, Chaos mage, Chronomancer",
-    "__1": "Death Knight, Druid, Enchanter, Entertainer, Faceless, Fire mage, Geomancer, Gladiator",
-    "__2": "Hunter, Ice mage, Legendary bladedancer, Lich, Lightning mage, Magically gifted, Master sniper, Minstrel, Monk",
-    "__3": "Necromancer, Paladin, Performer, Psychically adept, Priest, Psionic, Ranger, Scout",
-    "__4": "Sharpshooter, Sniper, Succubus, Summoner, Technomancer, Undead, Wanderer, Warlock, Wayfarer, Woodsman"
+    "Stats": "Move speed +0.25, Aiming time -30%, Shooting accuracy +8, Research speed -16%, Global work speed -16%, Tame animal -16%, Train animal -16%",
+    "Conflicts": "Arcane mage, Bard, Bladedancer, Blademaster, Bladesman, Blood mage, Chaos mage, Chronomancer, Death Knight, Druid, Enchanter, Entertainer, Faceless, Fire mage, Geomancer, Gladiator, Hunter, Ice mage, Legendary bladedancer, Lich, Lightning mage, Magically gifted, Master sniper, Minstrel, Monk, Necromancer, Paladin, Performer, Psychically adept, Priest, Psionic, Ranger, Scout, Sharpshooter, Sniper, Succubus, Summoner, Technomancer, Undead, Wanderer, Warlock, Wayfarer, Woodsman"
   },
   {
     "Trait": "Lich",
     "Description": "They have transformed into a lich, forsaking live in exchange for power and an immortal existence, choosing to employee undead for menial tasks",
-    "Stats": "Intellectual +2, Move speed -2.00, Min comfortable temp -72F [-40C], Immunity gain speed +100%, Toxic Sensitivity -100%",
-    "": "Mental break threshold -20%, Global learning factor -40%, Trade price improvement -50%, Negotiation ability -50%, Global work speed -75%",
-    "Conflicts": "Arcane mage, Bard, Bladedancer, Blademaster, Bladesman, Blood mage, Chaos mage, Chronomancer",
-    "__1": "Death Knight, Druid, Enchanter, Entertainer, Faceless, Fire mage, Geomancer, Gladiator",
-    "__2": "Hunter, Ice mage, Legendary bladedancer, Legendary Sniper, Lightning mage, Magically gifted, Master sniper, Minstrel, Monk",
-    "__3": "Necromancer, Paladin, Performer, Psychically adept, Priest, Psionic, Ranger, Scout",
-    "__4": "Sharpshooter, Sniper, Succubus, Summoner, Technomancer, Undead, Wanderer, Warlock, Wayfarer, Woodsman"
+    "Stats": "Intellectual +2, Move speed -2.00, Min comfortable temp -72F [-40C], Immunity gain speed +100%, Toxic Sensitivity -100%, Mental break threshold -20%, Global learning factor -40%, Trade price improvement -50%, Negotiation ability -50%, Global work speed -75%",
+    "Conflicts": "Arcane mage, Bard, Bladedancer, Blademaster, Bladesman, Blood mage, Chaos mage, Chronomancer, Death Knight, Druid, Enchanter, Entertainer, Faceless, Fire mage, Geomancer, Gladiator, Hunter, Ice mage, Legendary bladedancer, Legendary Sniper, Lightning mage, Magically gifted, Master sniper, Minstrel, Monk, Necromancer, Paladin, Performer, Psychically adept, Priest, Psionic, Ranger, Scout, Sharpshooter, Sniper, Succubus, Summoner, Technomancer, Undead, Wanderer, Warlock, Wayfarer, Woodsman"
   },
   {
     "Trait": "Lifegiver",
     "Description": "A medical prodigy, capable of skilled medical work, heroes almost never die under their care",
-    "Stats": "Medical +5, Medical surgery success +20%, Medical tend quality +20%",
-    "": "Medical tend speed +20%, Medical operation speed +20%",
-    "Conflicts": "Abrasive, Healer, Medic",
-    "__1": "Misandrist, Misogynist"
+    "Stats": "Medical +5, Medical surgery success +20%, Medical tend quality +20%, Medical tend speed +20%, Medical operation speed +20%",
+    "Conflicts": "Abrasive, Healer, Medic, Misandrist, Misogynist"
   },
   {
     "Trait": "Lightning mage",
     "Description": "They are attuned with the elements of lightning",
-    "Stats": "Move speed +0.2, Global work speed +10%, Melee dodge +2.0",
-    "": "Mining speed -40%, Mining yield -20%",
-    "Conflicts": "Arcane mage, Bard, Bladedancer, Blademaster, Bladesman, Blood mage, Chaos mage, Chronomancer",
-    "__1": "Death Knight, Druid, Enchanter, Entertainer, Faceless, Fire mage, Geomancer, Gladiator",
-    "__2": "Hunter, Ice mage, Legendary bladedancer, Legendary Sniper, Lich, Magically gifted, Master sniper, Minstrel, Monk",
-    "__3": "Necromancer, Paladin, Performer, Psychically adept, Priest, Psionic, Ranger, Scout",
-    "__4": "Sharpshooter, Sniper, Succubus, Summoner, Technomancer, Undead, Wanderer, Warlock, Wayfarer, Woodsman"
+    "Stats": "Move speed +0.2, Global work speed +10%, Melee dodge +2.0, Mining speed -40%, Mining yield -20%",
+    "Conflicts": "Arcane mage, Bard, Bladedancer, Blademaster, Bladesman, Blood mage, Chaos mage, Chronomancer, Death Knight, Druid, Enchanter, Entertainer, Faceless, Fire mage, Geomancer, Gladiator, Hunter, Ice mage, Legendary bladedancer, Legendary Sniper, Lich, Magically gifted, Master sniper, Minstrel, Monk, Necromancer, Paladin, Performer, Psychically adept, Priest, Psionic, Ranger, Scout, Sharpshooter, Sniper, Succubus, Summoner, Technomancer, Undead, Wanderer, Warlock, Wayfarer, Woodsman"
   },
   {
     "Trait": "Lightweight",
     "Description": "They have a very light build for a human, they can jump higher and move faster than your average human. This allows them to avoid attacks that would kill, a side effect is that they are weaker when it comes to raw physical strength compared to the average human",
-    "Stats": "Move speed +0.4, Melee hit +4, Melee dodge +15",
-    "": "Pain shock threshold -20%",
+    "Stats": "Move speed +0.4, Melee hit +4, Melee dodge +15, Pain shock threshold -20%",
     "Conflicts": "Heavyset"
   },
   {
     "Trait": "Local Leader",
     "Description": "They are a natural leader, people just tend to follow their instructions",
     "Stats": "Social +4, Negotiation ability +30%, Social impact +30%",
-    "": "",
-    "Conflicts": "Abrasive, Inspirational, Misandrist",
-    "__1": "Misogynist, Psychopath"
+    "Conflicts": "Abrasive, Inspirational, Misandrist, Misogynist, Psychopath"
   },
   {
     "Trait": "Loves humanity",
@@ -629,13 +494,8 @@
   {
     "Trait": "Magically gifted",
     "Description": "Has a magical gift. They can harness this gift to become a mage by studying the mysterious secrets within an arcane script",
-    "Stats": "Move speed +0.1, Medical tend speed +10%, Immunity gain speed +10%, Psychic sensitivity +20%",
-    "": "Global learning factor +10%",
-    "Conflicts": "Arcane mage, Bard, Bladedancer, Blademaster, Bladesman, Blood mage, Chaos mage, Chronomancer",
-    "__1": "Death Knight, Druid, Enchanter, Entertainer, Faceless, Fire mage, Geomancer, Gladiator",
-    "__2": "Hunter, Ice mage, Legendary bladedancer, Legendary Sniper, Lich, Lightning mage, Master Sniper, Minstrel, Monk",
-    "__3": "Necromancer, Paladin, Performer, Psychically adept, Priest, Psionic, Ranger, Scout",
-    "__4": "Sharpshooter, Sniper, Succubus, Summoner, Technomancer, Undead, Wanderer, Warlock, Wayfarer, Woodsman"
+    "Stats": "Move speed +0.1, Medical tend speed +10%, Immunity gain speed +10%, Psychic sensitivity +20%, Global learning factor +10%",
+    "Conflicts": "Arcane mage, Bard, Bladedancer, Blademaster, Bladesman, Blood mage, Chaos mage, Chronomancer, Death Knight, Druid, Enchanter, Entertainer, Faceless, Fire mage, Geomancer, Gladiator, Hunter, Ice mage, Legendary bladedancer, Legendary Sniper, Lich, Lightning mage, Master Sniper, Minstrel, Monk, Necromancer, Paladin, Performer, Psychically adept, Priest, Psionic, Ranger, Scout, Sharpshooter, Sniper, Succubus, Summoner, Technomancer, Undead, Wanderer, Warlock, Wayfarer, Woodsman"
   },
   {
     "Trait": "Masochist",
@@ -646,39 +506,26 @@
   {
     "Trait": "Master Sniper",
     "Description": "They are a master sniper, skilled in the economy and accuracy of long rage, small arms combat. Being a sniper has made them avoid other colonists, not that they care",
-    "Stats": "Move speed +0.2, Aimint time -22%, Shooting accuracy +6, Research speed -15%",
-    "": "Global work speed -15%, Tame animal -15%, Train animal -15%",
-    "Conflicts": "Arcane mage, Bard, Bladedancer, Blademaster, Bladesman, Blood mage, Chaos mage, Chronomancer",
-    "__1": "Death Knight, Druid, Enchanter, Entertainer, Faceless, Fire mage, Geomancer, Gladiator",
-    "__2": "Hunter, Ice mage, Legendary bladedancer, Legendary Sniper, Lich, Lightning mage, Magically gifted, Minstrel, Monk",
-    "__3": "Necromancer, Paladin, Performer, Psychically adept, Priest, Psionic, Ranger, Scout",
-    "__4": "Sharpshooter, Sniper, Succubus, Summoner, Technomancer, Undead, Wanderer, Warlock, Wayfarer, Woodsman"
+    "Stats": "Move speed +0.2, Aimint time -22%, Shooting accuracy +6, Research speed -15%, Global work speed -15%, Tame animal -15%, Train animal -15%",
+    "Conflicts": "Arcane mage, Bard, Bladedancer, Blademaster, Bladesman, Blood mage, Chaos mage, Chronomancer, Death Knight, Druid, Enchanter, Entertainer, Faceless, Fire mage, Geomancer, Gladiator, Hunter, Ice mage, Legendary bladedancer, Legendary Sniper, Lich, Lightning mage, Magically gifted, Minstrel, Monk, Necromancer, Paladin, Performer, Psychically adept, Priest, Psionic, Ranger, Scout, Sharpshooter, Sniper, Succubus, Summoner, Technomancer, Undead, Wanderer, Warlock, Wayfarer, Woodsman"
   },
   {
     "Trait": "Mech",
     "Description": "A mechanized infantry unit, they do not think or feel",
-    "Stats": "Permanent mood effect +100",
-    "": "Social impact -90%",
+    "Stats": "Permanent mood effect +100, Social impact -90%",
     "Conflicts": ""
   },
   {
     "Trait": "Medic",
     "Description": "They are quite proficient with medicine, and knows how to patch up even the most serious wounds",
-    "Stats": "Medical +3, Medical surgery success +10%, Medical tend quality +10%",
-    "": "Medical tend speed +10%, Medical operation speed +10%",
-    "Conflicts": "Abrasive, Healer, Lifegiver",
-    "__1": "Misandrist, Misogynist"
+    "Stats": "Medical +3, Medical surgery success +10%, Medical tend quality +10%, Medical tend speed +10%, Medical operation speed +10%",
+    "Conflicts": "Abrasive, Healer, Lifegiver, Misandrist, Misogynist"
   },
   {
     "Trait": "Minstrel",
     "Description": "Everyone loves being around them. They have talent, wit and skill in many forms of entertainment and is able to make a personal connection with almost everyone",
-    "Stats": "Social impact +30%, Negotiation ability +35%, Trade price improvement +20%",
-    "": "Pain shock threshold +20%, Carrying capacity -18, Global work speed -14%",
-    "Conflicts": "Arcane mage, Bard, Bladedancer, Blademaster, Bladesman, Blood mage, Chaos mage, Chronomancer",
-    "__1": "Death Knight, Druid, Enchanter, Entertainer, Faceless, Fire mage, Geomancer, Gladiator",
-    "__2": "Hunter, Ice mage, Legendary bladedancer, Legendary Sniper, Lich, Lightning mage, Magically gifted, Master sniper, Monk",
-    "__3": "Necromancer, Paladin, Performer, Psychically adept, Priest, Psionic, Ranger, Scout",
-    "__4": "Sharpshooter, Sniper, Succubus, Summoner, Technomancer, Undead, Wanderer, Warlock, Wayfarer, Woodsman"
+    "Stats": "Social impact +30%, Negotiation ability +35%, Trade price improvement +20%, Pain shock threshold +20%, Carrying capacity -18, Global work speed -14%",
+    "Conflicts": "Arcane mage, Bard, Bladedancer, Blademaster, Bladesman, Blood mage, Chaos mage, Chronomancer, Death Knight, Druid, Enchanter, Entertainer, Faceless, Fire mage, Geomancer, Gladiator, Hunter, Ice mage, Legendary bladedancer, Legendary Sniper, Lich, Lightning mage, Magically gifted, Master sniper, Monk, Necromancer, Paladin, Performer, Psychically adept, Priest, Psionic, Ranger, Scout, Sharpshooter, Sniper, Succubus, Summoner, Technomancer, Undead, Wanderer, Warlock, Wayfarer, Woodsman"
   },
   {
     "Trait": "Misandrist",
@@ -695,38 +542,26 @@
   {
     "Trait": "Monk",
     "Description": "They are a monk, dedicated to mastering Chi - the energy that connects all life in the universe. They harness Chi to create magical effects and exceed her physical capabilities. They are also able to disrupt the Chi in others, affecting their command over spells and abilities",
-    "Stats": "Melee dodge +5, Melee hit +5, Carrying capacity +20, Pain shock threshold +10%, Social impact -25%",
-    "": "Negotiation ability -25%, Psychic sensitivity -80%, Trade price improvement -20%",
-    "Conflicts": "Arcane mage, Bard, Bladedancer, Blademaster, Bladesman, Blood mage, Chaos mage, Chronomancer",
-    "__1": "Death Knight, Druid, Enchanter, Entertainer, Faceless, Fire mage, Geomancer, Gladiator",
-    "__2": "Hunter, Ice mage, Legendary bladedancer, Legendary Sniper, Lich, Lightning mage, Magically gifted, Master sniper, Minstrel",
-    "__3": "Necromancer, Paladin, Performer, Psychically adept, Priest, Psionic, Ranger, Scout",
-    "__4": "Sharpshooter, Sniper, Succubus, Summoner, Technomancer, Undead, Wanderer, Warlock, Wayfarer, Woodsman"
+    "Stats": "Melee dodge +5, Melee hit +5, Carrying capacity +20, Pain shock threshold +10%, Social impact -25%, Negotiation ability -25%, Psychic sensitivity -80%, Trade price improvement -20%",
+    "Conflicts": "Arcane mage, Bard, Bladedancer, Blademaster, Bladesman, Blood mage, Chaos mage, Chronomancer, Death Knight, Druid, Enchanter, Entertainer, Faceless, Fire mage, Geomancer, Gladiator, Hunter, Ice mage, Legendary bladedancer, Legendary Sniper, Lich, Lightning mage, Magically gifted, Master sniper, Minstrel, Necromancer, Paladin, Performer, Psychically adept, Priest, Psionic, Ranger, Scout, Sharpshooter, Sniper, Succubus, Summoner, Technomancer, Undead, Wanderer, Warlock, Wayfarer, Woodsman"
   },
   {
     "Trait": "Necromancer",
     "Description": "They are attuned with the forces of death",
-    "Stats": "Move speed -0.3, Min comfortable temp -36F [-20C], Immunity gain speed +40%, Toxic sensitivity -40%, Mental break threshold -10%",
-    "": "Global learning factor +40%, Trade price improvement -50%, Negotiation ability -25%",
-    "Conflicts": "Arcane mage, Bard, Bladedancer, Blademaster, Bladesman, Blood mage, Chaos mage, Chronomancer",
-    "__1": "Death Knight, Druid, Enchanter, Entertainer, Faceless, Fire mage, Geomancer, Gladiator",
-    "__2": "Hunter, Ice mage, Legendary bladedancer, Legendary Sniper, Lich, Lightning mage, Magically gifted, Master sniper, Minstrel",
-    "__3": "Monk, Paladin, Performer, Psychically adept, Priest, Psionic, Ranger, Scout",
-    "__4": "Sharpshooter, Sniper, Succubus, Summoner, Technomancer, Undead, Wanderer, Warlock, Wayfarer, Woodsman"
+    "Stats": "Move speed -0.3, Min comfortable temp -36F [-20C], Immunity gain speed +40%, Toxic sensitivity -40%, Mental break threshold -10%, Global learning factor +40%, Trade price improvement -50%, Negotiation ability -25%",
+    "Conflicts": "Arcane mage, Bard, Bladedancer, Blademaster, Bladesman, Blood mage, Chaos mage, Chronomancer, Death Knight, Druid, Enchanter, Entertainer, Faceless, Fire mage, Geomancer, Gladiator, Hunter, Ice mage, Legendary bladedancer, Legendary Sniper, Lich, Lightning mage, Magically gifted, Master sniper, Minstrel, Monk, Paladin, Performer, Psychically adept, Priest, Psionic, Ranger, Scout, Sharpshooter, Sniper, Succubus, Summoner, Technomancer, Undead, Wanderer, Warlock, Wayfarer, Woodsman"
   },
   {
     "Trait": "Nerd Rage",
     "Description": "Genius is angry! In some cases, high intelligence can lead to bursts of extreme strength, and they are a prime example",
-    "Stats": "Intellectual +2, Melee +3, Research speed +10%",
-    "": "Melee hit +0.1, Melee dodge +5",
+    "Stats": "Intellectual +2, Melee +3, Research speed +10%, Melee hit +0.1, Melee dodge +5",
     "Conflicts": "Good natured"
   },
   {
     "Trait": "Nervous",
     "Description": "Tends to crack under pressure",
     "Stats": "Mental break threshold +8%",
-    "Conflicts": "Iron-willed, Steadfast",
-    "__1": "Volatile"
+    "Conflicts": "Iron-willed, Steadfast, Volatile"
   },
   {
     "Trait": "Neurotic",
@@ -762,15 +597,13 @@
     "Trait": "Open-minded",
     "Description": "Sees people for what they are on the inside, not the outside. They don't judge others for their appearances",
     "Stats": "",
-    "Conflicts": "Body purist, Lecher, Misandrist",
-    "__1": "Misogynist, Prude, Psychopath"
+    "Conflicts": "Body purist, Lecher, Misandrist, Misogynist, Prude, Psychopath"
   },
   {
     "Trait": "Optimist",
     "Description": "Naturally optimistic about life, it's hard to get them down",
     "Stats": "Permanent mood effect +6",
-    "Conflicts": "Depressive, Pessimist",
-    "__1": "Sanguine"
+    "Conflicts": "Depressive, Pessimist, Sanguine"
   },
   {
     "Trait": "Outdoorsy",
@@ -787,31 +620,20 @@
   {
     "Trait": "Paladin",
     "Description": "Has been bestowed with divine might and has sworn to uphold justice whever they stand",
-    "Stats": "Move speed +0.1, Immunity gain speed +20%, Mental break threshold -2%",
-    "": "Pain shock threshold +10%, Psychich sensitivity -20%, Global learning factor -15%",
-    "Conflicts": "Arcane mage, Bard, Bladedancer, Blademaster, Bladesman, Blood mage, Chaos mage, Chronomancer",
-    "__1": "Death Knight, Druid, Enchanter, Entertainer, Faceless, Fire mage, Geomancer, Gladiator",
-    "__2": "Hunter, Ice mage, Legendary bladedancer, Legendary Sniper, Lich, Lightning mage, Magically gifted, Master sniper, Minstrel",
-    "__3": "Monk, Necromancer, Performer, Psychically adept, Priest, Psionic, Ranger, Scout",
-    "__4": "Sharpshooter, Sniper, Succubus, Summoner, Technomancer, Undead, Wanderer, Warlock, Wayfarer, Woodsman"
+    "Stats": "Move speed +0.1, Immunity gain speed +20%, Mental break threshold -2%, Pain shock threshold +10%, Psychich sensitivity -20%, Global learning factor -15%",
+    "Conflicts": "Arcane mage, Bard, Bladedancer, Blademaster, Bladesman, Blood mage, Chaos mage, Chronomancer, Death Knight, Druid, Enchanter, Entertainer, Faceless, Fire mage, Geomancer, Gladiator, Hunter, Ice mage, Legendary bladedancer, Legendary Sniper, Lich, Lightning mage, Magically gifted, Master sniper, Minstrel, Monk, Necromancer, Performer, Psychically adept, Priest, Psionic, Ranger, Scout, Sharpshooter, Sniper, Succubus, Summoner, Technomancer, Undead, Wanderer, Warlock, Wayfarer, Woodsman"
   },
   {
     "Trait": "Performer",
     "Description": "Is a performer; expanding on natural talent, they have begun to take a conscious role to improve the mood of other colonists",
-    "Stats": "Social impact +20%, Negotiation ability +30%, Trade price improvement +15%",
-    "": "Pain shock threshold -12%, Carrying capacity -15, Global work speed -12%",
-    "Conflicts": "Arcane mage, Bard, Bladedancer, Blademaster, Bladesman, Blood mage, Chaos mage, Chronomancer",
-    "__1": "Death Knight, Druid, Enchanter, Entertainer, Faceless, Fire mage, Geomancer, Gladiator",
-    "__2": "Hunter, Ice mage, Legendary bladedancer, Legendary Sniper, Lich, Lightning mage, Magically gifted, Master sniper, Minstrel",
-    "__3": "Monk, Necromancer, Paladin, Psychically adept, Priest, Psionic, Ranger, Scout",
-    "__4": "Sharpshooter, Sniper, Succubus, Summoner, Technomancer, Undead, Wanderer, Warlock, Wayfarer, Woodsman"
+    "Stats": "Social impact +20%, Negotiation ability +30%, Trade price improvement +15%, Pain shock threshold -12%, Carrying capacity -15, Global work speed -12%",
+    "Conflicts": "Arcane mage, Bard, Bladedancer, Blademaster, Bladesman, Blood mage, Chaos mage, Chronomancer, Death Knight, Druid, Enchanter, Entertainer, Faceless, Fire mage, Geomancer, Gladiator, Hunter, Ice mage, Legendary bladedancer, Legendary Sniper, Lich, Lightning mage, Magically gifted, Master sniper, Minstrel, Monk, Necromancer, Paladin, Psychically adept, Priest, Psionic, Ranger, Scout, Sharpshooter, Sniper, Succubus, Summoner, Technomancer, Undead, Wanderer, Warlock, Wayfarer, Woodsman"
   },
   {
     "Trait": "Pessimist",
     "Description": "Tends to look on the bad side of life",
     "Stats": "Permanent mood effect -6",
-    "Conflicts": "Depressive, Optimist",
-    "__1": "Sanguine"
+    "Conflicts": "Depressive, Optimist, Sanguine"
   },
   {
     "Trait": "Photosensitive",
@@ -822,13 +644,8 @@
   {
     "Trait": "Physically adept",
     "Description": "Physically adept and has potential to learn special combat forms",
-    "Stats": "Move speed +0.2, Global work speed +20%, Immunity gain speed +20%",
-    "": "Psychic sensitivity -20%, Global learning factor -20%",
-    "Conflicts": "Arcane mage, Bard, Bladedancer, Blademaster, Bladesman, Blood mage, Chaos mage, Chronomancer",
-    "__1": "Death Knight, Druid, Enchanter, Entertainer, Faceless, Fire mage, Geomancer, Gladiator",
-    "__2": "Hunter, Ice mage, Legendary bladedancer, Legendary Sniper, Lich, Lightning mage, Magically gifted, Master sniper, Minstrel",
-    "__3": "Monk, Necromancer, Paladin, Performer, Priest, Psionic, Ranger, Scout",
-    "__4": "Sharpshooter, Sniper, Succubus, Summoner, Technomancer, Undead, Wanderer, Warlock, Wayfarer, Woodsman"
+    "Stats": "Move speed +0.2, Global work speed +20%, Immunity gain speed +20%, Psychic sensitivity -20%, Global learning factor -20%",
+    "Conflicts": "Arcane mage, Bard, Bladedancer, Blademaster, Bladesman, Blood mage, Chaos mage, Chronomancer, Death Knight, Druid, Enchanter, Entertainer, Faceless, Fire mage, Geomancer, Gladiator, Hunter, Ice mage, Legendary bladedancer, Legendary Sniper, Lich, Lightning mage, Magically gifted, Master sniper, Minstrel, Monk, Necromancer, Paladin, Performer, Priest, Psionic, Ranger, Scout, Sharpshooter, Sniper, Succubus, Summoner, Technomancer, Undead, Wanderer, Warlock, Wayfarer, Woodsman"
   },
   {
     "Trait": "Pluviophile",
@@ -846,65 +663,49 @@
     "Trait": "Pretty",
     "Description": "Has a pretty face, which predisposes people to like them",
     "Stats": "",
-    "Conflicts": "Beautiful, Staggeringly ugly",
-    "__1": "Ugly"
+    "Conflicts": "Beautiful, Staggeringly ugly, Ugly"
   },
   {
     "Trait": "Priest",
     "Description": "Is attuned with the forced of life and healing and has taken a vow against harming others",
-    "Stats": "Medical +2, Move speed +0.15, Immunity gain speed +20%, Medical surgery success +25%",
-    "": "Medical tend quality +25%, Medical operation speed +25%, Medical tend speed +25%, Pain shock threshold -10%",
-    "Conflicts": "Arcane mage, Bard, Bladedancer, Blademaster, Bladesman, Blood mage, Chaos mage, Chronomancer",
-    "__1": "Death Knight, Druid, Enchanter, Entertainer, Faceless, Fire mage, Geomancer, Gladiator",
-    "__2": "Hunter, Ice mage, Legendary bladedancer, Legendary Sniper, Lich, Lightning mage, Magically gifted, Master sniper, Minstrel",
-    "__3": "Monk, Necromancer, Paladin, Performer, Physically adept, Psionic, Ranger, Scout",
-    "__4": "Sharpshooter, Sniper, Succubus, Summoner, Technomancer, Undead, Wanderer, Warlock, Wayfarer, Woodsman"
+    "Stats": "Medical +2, Move speed +0.15, Immunity gain speed +20%, Medical surgery success +25%, Medical tend quality +25%, Medical operation speed +25%, Medical tend speed +25%, Pain shock threshold -10%",
+    "Conflicts": "Arcane mage, Bard, Bladedancer, Blademaster, Bladesman, Blood mage, Chaos mage, Chronomancer, Death Knight, Druid, Enchanter, Entertainer, Faceless, Fire mage, Geomancer, Gladiator, Hunter, Ice mage, Legendary bladedancer, Legendary Sniper, Lich, Lightning mage, Magically gifted, Master sniper, Minstrel, Monk, Necromancer, Paladin, Performer, Physically adept, Psionic, Ranger, Scout, Sharpshooter, Sniper, Succubus, Summoner, Technomancer, Undead, Wanderer, Warlock, Wayfarer, Woodsman"
   },
   {
     "Trait": "Prude",
     "Description": "Hates the sight of the human body. They will be extremely unhappy when naked, more displeased than usual if in tattered or worn-out clothing, and dislike the sight of other naked people",
     "Stats": "",
-    "Conflicts": "Lecher, Nudist, Open-minded",
-    "__1": "Polyamorous"
+    "Conflicts": "Lecher, Nudist, Open-minded, Polyamorous"
   },
   {
     "Trait": "Psionic",
     "Description": "Is a Psionic - able to manifest thought into raw energy. They are able to project psionic energy but finds it easier and more efficient to apply it as an extension and augmentation of her body. For this reason, they prefer to be free of encumbering weapons.  They have become less social since developing psionic powers since they can perform any task on their own and can do without the jealousy of others",
-    "Stats": "Social impact -25%, Negotiation ability -20%, Trade price improvement -10%, Carrying capacity +20, Melee dodge +10, Melee hit +10",
-    "": "Pain shock threshold +20%, Psychic sensitivity +20%",
-    "Conflicts": "Arcane mage, Bard, Bladedancer, Blademaster, Bladesman, Blood mage, Chaos mage, Chronomancer",
-    "__1": "Death Knight, Druid, Enchanter, Entertainer, Faceless, Fire mage, Geomancer, Gladiator",
-    "__2": "Hunter, Ice mage, Legendary bladedancer, Legendary Sniper, Lich, Lightning mage, Magically gifted, Master sniper, Minstrel",
-    "__3": "Monk, Necromancer, Paladin, Performer, Physically adept, Priest, Ranger, Scout",
-    "__4": "Sharpshooter, Sniper, Succubus, Summoner, Technomancer, Undead, Wanderer, Warlock, Wayfarer, Woodsman"
+    "Stats": "Social impact -25%, Negotiation ability -20%, Trade price improvement -10%, Carrying capacity +20, Melee dodge +10, Melee hit +10, Pain shock threshold +20%, Psychic sensitivity +20%",
+    "Conflicts": "Arcane mage, Bard, Bladedancer, Blademaster, Bladesman, Blood mage, Chaos mage, Chronomancer, Death Knight, Druid, Enchanter, Entertainer, Faceless, Fire mage, Geomancer, Gladiator, Hunter, Ice mage, Legendary bladedancer, Legendary Sniper, Lich, Lightning mage, Magically gifted, Master sniper, Minstrel, Monk, Necromancer, Paladin, Performer, Physically adept, Priest, Ranger, Scout, Sharpshooter, Sniper, Succubus, Summoner, Technomancer, Undead, Wanderer, Warlock, Wayfarer, Woodsman"
   },
   {
     "Trait": "Psychically deaf",
     "Description": "Their mind works on a psychic frequency different from everyone else. They just aren't affected by psychic phenomena",
     "Stats": "Psychic sensitivity -100%",
-    "Conflicts": "Psychically dull, Psychically hypersensitive",
-    "__1": "Psychically sensitive"
+    "Conflicts": "Psychically dull, Psychically hypersensitive, Psychically sensitive"
   },
   {
     "Trait": "Psychically dull",
     "Description": "Their mind is psychically out of tune with others. They aren't as affected by psychic phenomena",
     "Stats": "Psychic sensitivity -50%",
-    "Conflicts": "Psychically deaf, Psychically hypersensitive",
-    "__1": "Psychically sensitive"
+    "Conflicts": "Psychically deaf, Psychically hypersensitive, Psychically sensitive"
   },
   {
     "Trait": "Psychically hypersensitive",
     "Description": "Their mind is like a psychic tuning fork. They are extremely sensitive to psychic phenomena",
     "Stats": "Psychical sensitivity +80%",
-    "Conflicts": "Psychically deaf, Psychically dull",
-    "__1": "Psychically sensitive"
+    "Conflicts": "Psychically deaf, Psychically dull, Psychically sensitive"
   },
   {
     "Trait": "Psychically sensitive",
     "Description": "Their mind is unusually sensitive to psychic phenomena",
     "Stats": "Psychical sensitivity +40%",
-    "Conflicts": "Psychically deaf, Psychically dull",
-    "__1": "Psychically hypersensitive"
+    "Conflicts": "Psychically deaf, Psychically dull, Psychically hypersensitive"
   },
   {
     "Trait": "Psychopath",
@@ -927,13 +728,8 @@
   {
     "Trait": "Ranger",
     "Description": "They are a ranger; master of the wilds. They are a master of their craft and defender of their land",
-    "Stats": "Move speed +0.3, Immunity gain speed +35%, Max comfortable temp +36F [20C], Min comfortable temp -36F [-20C], Aiming time -40%, Toxic sensitivity -25%",
-    "": "Butchery speed +25%, Smelting speed -20%, Construction speed -20%, Tame animal +15%, Train animal +15%",
-    "Conflicts": "Arcane mage, Bard, Bladedancer, Blademaster, Bladesman, Blood mage, Chaos mage, Chronomancer",
-    "__1": "Death Knight, Druid, Enchanter, Entertainer, Faceless, Fire mage, Geomancer, Gladiator",
-    "__2": "Hunter, Ice mage, Legendary bladedancer, Legendary Sniper, Lich, Lightning mage, Magically gifted, Master sniper, Minstrel",
-    "__3": "Monk, Necromancer, Paladin, Performer, Physically adept, Priest, Psionic, Scout",
-    "__4": "Sharpshooter, Sniper, Succubus, Summoner, Technomancer, Undead, Wanderer, Warlock, Wayfarer, Woodsman"
+    "Stats": "Move speed +0.3, Immunity gain speed +35%, Max comfortable temp +36F [20C], Min comfortable temp -36F [-20C], Aiming time -40%, Toxic sensitivity -25%, Butchery speed +25%, Smelting speed -20%, Construction speed -20%, Tame animal +15%, Train animal +15%",
+    "Conflicts": "Arcane mage, Bard, Bladedancer, Blademaster, Bladesman, Blood mage, Chaos mage, Chronomancer, Death Knight, Druid, Enchanter, Entertainer, Faceless, Fire mage, Geomancer, Gladiator, Hunter, Ice mage, Legendary bladedancer, Legendary Sniper, Lich, Lightning mage, Magically gifted, Master sniper, Minstrel, Monk, Necromancer, Paladin, Performer, Physically adept, Priest, Psionic, Scout, Sharpshooter, Sniper, Succubus, Summoner, Technomancer, Undead, Wanderer, Warlock, Wayfarer, Woodsman"
   },
   {
     "Trait": "Reanimated",
@@ -944,42 +740,32 @@
   {
     "Trait": "Regular Maintenance",
     "Description": "Pretty handy around construction, and has plenty of experience with rigging things together",
-    "Stats": "Crafting +2, Construction +2, Construction speed +10%, Smighing speed +10%, Tailoring speed +10%",
-    "": "Smelting speed +10%, Mining speed +10%, Mining yield +10%",
+    "Stats": "Crafting +2, Construction +2, Construction speed +10%, Smighing speed +10%, Tailoring speed +10%, Smelting speed +10%, Mining speed +10%, Mining yield +10%",
     "Conflicts": "Full maintenance, Jury rigger"
   },
   {
     "Trait": "Robot",
     "Description": "They are a robot. As a robot they are a bit faster and not really sensible for psychic phenomena",
-    "Stats": "Move speed +0.1, Global work speed +20%, Psychic sensitivity -100%",
-    "": "Toxic sensitivity -95%, Mental break threshold -90%",
+    "Stats": "Move speed +0.1, Global work speed +20%, Psychic sensitivity -100%, Toxic sensitivity -95%, Mental break threshold -90%",
     "Conflicts": ""
   },
   {
     "Trait": "Salesperson",
     "Description": "They are an adept salesperson, they can sway prices in their favor, and buy the pants off of people",
-    "Stats": "Social +4, Negotiation ability +15%",
-    "": "Social impact +20%, Trade price improvement +15%",
-    "Conflicts": "Abrasive, Misandrist",
-    "__1": "Misogynist, Smooth talker"
+    "Stats": "Social +4, Negotiation ability +15%, Social impact +20%, Trade price improvement +15%",
+    "Conflicts": "Abrasive, Misandrist, Misogynist, Smooth talker"
   },
   {
     "Trait": "Sanguine",
     "Description": "They are just naturally upbeat about their situation, pretty much all the time, no matter what it is",
     "Stats": "Permanent mood effect +12",
-    "Conflicts": "Depressive, Optimist",
-    "__1": "Pessimist"
+    "Conflicts": "Depressive, Optimist, Pessimist"
   },
   {
     "Trait": "Scout",
     "Description": "They are a scout; comfortable in the wilds, and relied upon to be the eyes and ears of a colony. They employ expertise in field-craft, cunning, and the bow to defend their land from invaders",
-    "Stats": "Move speed +0.25, Immunity gain speed +30%, Max comfortable temp  +32.4F [18C], Min comfortable temp -32.4F [-18C], Aiming time -30%",
-    "": "Toxic sensitivity -20%, Butchery speed +15%, Smelting speed -18%, Construction speed -18%, Tame animal +14%, Train animal +14%",
-    "Conflicts": "Arcane mage, Bard, Bladedancer, Blademaster, Bladesman, Blood mage, Chaos mage, Chronomancer",
-    "__1": "Death Knight, Druid, Enchanter, Entertainer, Faceless, Fire mage, Geomancer, Gladiator",
-    "__2": "Hunter, Ice mage, Legendary bladedancer, Legendary Sniper, Lich, Lightning mage, Magically gifted, Master sniper, Minstrel",
-    "__3": "Monk, Necromancer, Paladin, Performer, Physically adept, Priest, Psionic, Ranger",
-    "__4": "Sharpshooter, Sniper, Succubus, Summoner, Technomancer, Undead, Wanderer, Warlock, Wayfarer, Woodsman"
+    "Stats": "Move speed +0.25, Immunity gain speed +30%, Max comfortable temp  +32.4F [18C], Min comfortable temp -32.4F [-18C], Aiming time -30%, Toxic sensitivity -20%, Butchery speed +15%, Smelting speed -18%, Construction speed -18%, Tame animal +14%, Train animal +14%",
+    "Conflicts": "Arcane mage, Bard, Bladedancer, Blademaster, Bladesman, Blood mage, Chaos mage, Chronomancer, Death Knight, Druid, Enchanter, Entertainer, Faceless, Fire mage, Geomancer, Gladiator, Hunter, Ice mage, Legendary bladedancer, Legendary Sniper, Lich, Lightning mage, Magically gifted, Master sniper, Minstrel, Monk, Necromancer, Paladin, Performer, Physically adept, Priest, Psionic, Ranger, Sharpshooter, Sniper, Succubus, Summoner, Technomancer, Undead, Wanderer, Warlock, Wayfarer, Woodsman"
   },
   {
     "Trait": "Sedentary",
@@ -990,13 +776,8 @@
   {
     "Trait": "Sharpshooter",
     "Description": "They have trained to become a sniper, skilled in the economy and accuracy of long range, small arms combat. Training to become a sniper has caused some colonists to be uncomfortable around them, not that they care",
-    "Stats": "Move speed +0.1, Aiming time -10%, Shooting accuracy +2, Research speed -10%",
-    "": "Global work speed -10%, Tame animal -10%, Train animal -10%",
-    "Conflicts": "Arcane mage, Bard, Bladedancer, Blademaster, Bladesman, Blood mage, Chaos mage, Chronomancer",
-    "__1": "Death Knight, Druid, Enchanter, Entertainer, Faceless, Fire mage, Geomancer, Gladiator",
-    "__2": "Hunter, Ice mage, Legendary bladedancer, Legendary Sniper, Lich, Lightning mage, Magically gifted, Master sniper, Minstrel",
-    "__3": "Monk, Necromancer, Paladin, Performer, Physically adept, Priest, Psionic, Ranger",
-    "__4": "Scout, Sniper, Succubus, Summoner, Technomancer, Undead, Wanderer, Warlock, Wayfarer, Woodsman"
+    "Stats": "Move speed +0.1, Aiming time -10%, Shooting accuracy +2, Research speed -10%, Global work speed -10%, Tame animal -10%, Train animal -10%",
+    "Conflicts": "Arcane mage, Bard, Bladedancer, Blademaster, Bladesman, Blood mage, Chaos mage, Chronomancer, Death Knight, Druid, Enchanter, Entertainer, Faceless, Fire mage, Geomancer, Gladiator, Hunter, Ice mage, Legendary bladedancer, Legendary Sniper, Lich, Lightning mage, Magically gifted, Master sniper, Minstrel, Monk, Necromancer, Paladin, Performer, Physically adept, Priest, Psionic, Ranger, Scout, Sniper, Succubus, Summoner, Technomancer, Undead, Wanderer, Warlock, Wayfarer, Woodsman"
   },
   {
     "Trait": "Sickly",
@@ -1025,28 +806,20 @@
   {
     "Trait": "Small Frame",
     "Description": "They have a small build, so while they are quick on their feet they lack physical strength",
-    "Stats": "Melee -2, Move speed +0.2",
-    "": "Carrying capacity -25, Melee dodge +10",
+    "Stats": "Melee -2, Move speed +0.2, Carrying capacity -25, Melee dodge +10",
     "Conflicts": "Pack Rat, Strong back"
   },
   {
     "Trait": "Smooth Talker",
     "Description": "Knows just what to say and when to say it, making negotiations a breeze",
-    "Stats": "Social +2, Negotiation ability +10%",
-    "": "Social impact +15%, Trade price improvement +10%",
-    "Conflicts": "Abrasive, Misandrist",
-    "__1": "Misogynist, Salesperson"
+    "Stats": "Social +2, Negotiation ability +10%, Social impact +15%, Trade price improvement +10%",
+    "Conflicts": "Abrasive, Misandrist, Misogynist, Salesperson"
   },
   {
     "Trait": "Sniper",
     "Description": "They have trained to become a sniper, skilled in the economy and accuracy of long range, small arms combat. Becoming a sniper has caused them to become distanced from other colonists and somewhat unapproachable, not that they care",
-    "Stats": "Move speed +0.15, Aimint time -15%, Shooting accuracy +4, Research speed -13%",
-    "": "Global work speed -13%, Tame animal -13%, Train animal -13%",
-    "Conflicts": "Arcane mage, Bard, Bladedancer, Blademaster, Bladesman, Blood mage, Chaos mage, Chronomancer",
-    "__1": "Death Knight, Druid, Enchanter, Entertainer, Faceless, Fire mage, Geomancer, Gladiator",
-    "__2": "Hunter, Ice mage, Legendary bladedancer, Legendary Sniper, Lich, Lightning mage, Magically gifted, Master sniper, Minstrel",
-    "__3": "Monk, Necromancer, Paladin, Performer, Physically adept, Priest, Psionic, Ranger",
-    "__4": "Scout, Sharpshooter, Succubus, Summoner, Technomancer, Undead, Wanderer, Warlock, Wayfarer, Woodsman"
+    "Stats": "Move speed +0.15, Aimint time -15%, Shooting accuracy +4, Research speed -13%, Global work speed -13%, Tame animal -13%, Train animal -13%",
+    "Conflicts": "Arcane mage, Bard, Bladedancer, Blademaster, Bladesman, Blood mage, Chaos mage, Chronomancer, Death Knight, Druid, Enchanter, Entertainer, Faceless, Fire mage, Geomancer, Gladiator, Hunter, Ice mage, Legendary bladedancer, Legendary Sniper, Lich, Lightning mage, Magically gifted, Master sniper, Minstrel, Monk, Necromancer, Paladin, Performer, Physically adept, Priest, Psionic, Ranger, Scout, Sharpshooter, Succubus, Summoner, Technomancer, Undead, Wanderer, Warlock, Wayfarer, Woodsman"
   },
   {
     "Trait": "Socialite",
@@ -1069,31 +842,20 @@
   {
     "Trait": "Strong back",
     "Description": "They are pretty strong, and it helps them carry both materials and swing weapons with ease",
-    "Stats": "Melee +2, Carrying capacity +50",
-    "": "Melee hit +0.1",
+    "Stats": "Melee +2, Carrying capacity +50, Melee hit +0.1",
     "Conflicts": "Pack Rat, Small frame"
   },
   {
     "Trait": "Succubus",
     "Description": "Has a strange genetic strain that grants her enhanced physical attributes. They are also extremely attractive with an exotic facial structure that captures the eye. A succubus is more likely to exploit her physical advantages and have others do their work for them. Their succubus charm has its disadvantaces and can cause someone to become jealous and even despise them.",
-    "Stats": "Move speed +0.2, Global work speed -20%, Immunity gain speed +15%, Trade price improvement +10%, Negotiation ability +20%, Carrying capacity -20, Global learning factor -20%, Melee dodge +5",
-    "": "Research speed -20%, Aiming time -10%, Melee hit +5, Max comfortable temp +45F [25C], Min comfortable temp -9F [-5C]",
-    "Conflicts": "Arcane mage, Bard, Bladedancer, Blademaster, Bladesman, Blood mage, Chaos mage, Chronomancer",
-    "__1": "Death Knight, Druid, Enchanter, Entertainer, Faceless, Fire mage, Geomancer, Gladiator",
-    "__2": "Hunter, Ice mage, Legendary bladedancer, Legendary Sniper, Lich, Lightning mage, Magically gifted, Master sniper, Minstrel",
-    "__3": "Monk, Necromancer, Paladin, Performer, Physically adept, Priest, Psionic, Ranger",
-    "__4": "Scout, Sharpshooter, Sniper, Summoner, Technomancer, Undead, Wanderer, Warlock, Wayfarer, Woodsman"
+    "Stats": "Move speed +0.2, Global work speed -20%, Immunity gain speed +15%, Trade price improvement +10%, Negotiation ability +20%, Carrying capacity -20, Global learning factor -20%, Melee dodge +5, Research speed -20%, Aiming time -10%, Melee hit +5, Max comfortable temp +45F [25C], Min comfortable temp -9F [-5C]",
+    "Conflicts": "Arcane mage, Bard, Bladedancer, Blademaster, Bladesman, Blood mage, Chaos mage, Chronomancer, Death Knight, Druid, Enchanter, Entertainer, Faceless, Fire mage, Geomancer, Gladiator, Hunter, Ice mage, Legendary bladedancer, Legendary Sniper, Lich, Lightning mage, Magically gifted, Master sniper, Minstrel, Monk, Necromancer, Paladin, Performer, Physically adept, Priest, Psionic, Ranger, Scout, Sharpshooter, Sniper, Summoner, Technomancer, Undead, Wanderer, Warlock, Wayfarer, Woodsman"
   },
   {
     "Trait": "Summoner",
     "Description": "Is able to summon beings and materialize objects from other planes of existence",
-    "Stats": "Move speed +0.1, Toxic sensitivity +10%, Min comfortable temp -14.4F [-8C], Max comfortable temp +14.4F [8C]",
-    "": "Social impact +10%",
-    "Conflicts": "Arcane mage, Bard, Bladedancer, Blademaster, Bladesman, Blood mage, Chaos mage, Chronomancer",
-    "__1": "Death Knight, Druid, Enchanter, Entertainer, Faceless, Fire mage, Geomancer, Gladiator",
-    "__2": "Hunter, Ice mage, Legendary bladedancer, Legendary Sniper, Lich, Lightning mage, Magically gifted, Master sniper, Minstrel",
-    "__3": "Monk, Necromancer, Paladin, Performer, Physically adept, Priest, Psionic, Ranger",
-    "__4": "Scout, Sharpshooter, Sniper, Succubus, Technomancer, Undead, Wanderer, Warlock, Wayfarer, Woodsman"
+    "Stats": "Move speed +0.1, Toxic sensitivity +10%, Min comfortable temp -14.4F [-8C], Max comfortable temp +14.4F [8C], Social impact +10%",
+    "Conflicts": "Arcane mage, Bard, Bladedancer, Blademaster, Bladesman, Blood mage, Chaos mage, Chronomancer, Death Knight, Druid, Enchanter, Entertainer, Faceless, Fire mage, Geomancer, Gladiator, Hunter, Ice mage, Legendary bladedancer, Legendary Sniper, Lich, Lightning mage, Magically gifted, Master sniper, Minstrel, Monk, Necromancer, Paladin, Performer, Physically adept, Priest, Psionic, Ranger, Scout, Sharpshooter, Sniper, Succubus, Technomancer, Undead, Wanderer, Warlock, Wayfarer, Woodsman"
   },
   {
     "Trait": "Super-immune",
@@ -1104,21 +866,14 @@
   {
     "Trait": "Survivalist",
     "Description": "Has been through some tough stuff, and has adapted to survive through hell and back, more or less",
-    "Stats": "Shooting +2, Crafting +1, Construction +1, Plants +2, Medical +1, Cooking +1",
-    "": "Mental break threshold -10%, Max comfortable temp +18F [10C], Min comfortable temp -9F [-5C], Immunity gain speed +10%, Toxic sensitivity -15%, Foraged food amount +0.4",
-    "Conflicts": "Brawler, Chemeical fascination, Chemical interest, Good natured, Iron fist",
-    "__1": "Neurotic, Pyromaniac, Teetotaler, Very neurotic"
+    "Stats": "Shooting +2, Crafting +1, Construction +1, Plants +2, Medical +1, Cooking +1, Mental break threshold -10%, Max comfortable temp +18F [10C], Min comfortable temp -9F [-5C], Immunity gain speed +10%, Toxic sensitivity -15%, Foraged food amount +0.4",
+    "Conflicts": "Brawler, Chemeical fascination, Chemical interest, Good natured, Iron fist, Neurotic, Pyromaniac, Teetotaler, Very neurotic"
   },
   {
     "Trait": "Technomancer",
     "Description": "Has learned to see magic and science as two parts of the same force and is able to use arcane power to interface directly with components of technology. They are capable of manipulating objects with advanced mechanics, electronics, or computing it to achieve their goals, but has difficulty interacting with biological systems",
-    "Stats": "Social impact -30%, Negotiation ability -20%, Trade price improvement -20%, Tame animal -20%, Train animal -20%, Plant work speed -20%, Plant harvest yield -20%",
-    "": "Global work speed +20%, Global learning factor +20%, Immunity gain factor -6%, Research speed +25%, Psychic sensitivity +20%, Shooting accuracy +5",
-    "Conflicts": "Arcane mage, Bard, Bladedancer, Blademaster, Bladesman, Blood mage, Chaos mage, Chronomancer",
-    "__1": "Death Knight, Druid, Enchanter, Entertainer, Faceless, Fire mage, Geomancer, Gladiator",
-    "__2": "Hunter, Ice mage, Legendary bladedancer, Legendary Sniper, Lich, Lightning mage, Magically gifted, Master sniper, Minstrel",
-    "__3": "Monk, Necromancer, Paladin, Performer, Physically adept, Priest, Psionic, Ranger",
-    "__4": "Scout, Sharpshooter, Sniper, Succubus, Summoner, Undead, Wanderer, Warlock, Wayfarer, Woodsman"
+    "Stats": "Social impact -30%, Negotiation ability -20%, Trade price improvement -20%, Tame animal -20%, Train animal -20%, Plant work speed -20%, Plant harvest yield -20%, Global work speed +20%, Global learning factor +20%, Immunity gain factor -6%, Research speed +25%, Psychic sensitivity +20%, Shooting accuracy +5",
+    "Conflicts": "Arcane mage, Bard, Bladedancer, Blademaster, Bladesman, Blood mage, Chaos mage, Chronomancer, Death Knight, Druid, Enchanter, Entertainer, Faceless, Fire mage, Geomancer, Gladiator, Hunter, Ice mage, Legendary bladedancer, Legendary Sniper, Lich, Lightning mage, Magically gifted, Master sniper, Minstrel, Monk, Necromancer, Paladin, Performer, Physically adept, Priest, Psionic, Ranger, Scout, Sharpshooter, Sniper, Succubus, Summoner, Undead, Wanderer, Warlock, Wayfarer, Woodsman"
   },
   {
     "Trait": "Teetotaler",
@@ -1130,8 +885,7 @@
     "Trait": "Too smart",
     "Description": "Is too smart for their own good. They learn everything much faster than everyone, but can be quite eccentric",
     "Stats": "Global learning factor +75%, Mental break threshold +12%",
-    "Conflicts": "Iron-willed, Nervous, Steadfast",
-    "__1": "Volatile"
+    "Conflicts": "Iron-willed, Nervous, Steadfast, Volatile"
   },
   {
     "Trait": "Tough",
@@ -1155,8 +909,7 @@
     "Trait": "Ugly",
     "Description": "They are somewhat ugly. This subtly repels others during social interactions",
     "Stats": "",
-    "Conflicts": "Beautiful, Pretty",
-    "__1": "Staggeringly ugly"
+    "Conflicts": "Beautiful, Pretty, Staggeringly ugly"
   },
   {
     "Trait": "Unaffected by death",
@@ -1167,13 +920,8 @@
   {
     "Trait": "Undead",
     "Description": "Has been reanimated as an undead",
-    "Stats": "Move speed -2, Min comfortable temp -360F[-200C], Max comfortable temp +90F[50C], Toxic sensitivity -100%",
-    "": "Immunity gain speed +4900%, Pain shock threshold +90%, Negotiation ability -70%, Global work speed -50%",
-    "Conflicts": "Arcane mage, Bard, Bladedancer, Blademaster, Bladesman, Blood mage, Chaos mage, Chronomancer",
-    "__1": "Death Knight, Druid, Enchanter, Entertainer, Faceless, Fire mage, Geomancer, Gladiator",
-    "__2": "Hunter, Ice mage, Legendary bladedancer, Legendary Sniper, Lich, Lightning mage, Magically gifted, Master sniper, Minstrel",
-    "__3": "Monk, Necromancer, Paladin, Performer, Physically adept, Priest, Psionic, Ranger",
-    "__4": "Scout, Sharpshooter, Sniper, Succubus, Summoner, Technomancer, Wanderer, Warlock, Wayfarer, Woodsman"
+    "Stats": "Move speed -2, Min comfortable temp -360F[-200C], Max comfortable temp +90F[50C], Toxic sensitivity -100%, Immunity gain speed +4900%, Pain shock threshold +90%, Negotiation ability -70%, Global work speed -50%",
+    "Conflicts": "Arcane mage, Bard, Bladedancer, Blademaster, Bladesman, Blood mage, Chaos mage, Chronomancer, Death Knight, Druid, Enchanter, Entertainer, Faceless, Fire mage, Geomancer, Gladiator, Hunter, Ice mage, Legendary bladedancer, Legendary Sniper, Lich, Lightning mage, Magically gifted, Master sniper, Minstrel, Monk, Necromancer, Paladin, Performer, Physically adept, Priest, Psionic, Ranger, Scout, Sharpshooter, Sniper, Succubus, Summoner, Technomancer, Wanderer, Warlock, Wayfarer, Woodsman"
   },
   {
     "Trait": "Undergrounder",
@@ -1197,69 +945,49 @@
     "Trait": "Volatile",
     "Description": "They are on a hair-trigger all the time. They are the first to break in any tough situation",
     "Stats": "Mental break threshold +15%",
-    "Conflicts": "Iron-willed, Nervous",
-    "__1": "Steadfast"
+    "Conflicts": "Iron-willed, Nervous, Steadfast"
   },
   {
     "Trait": "Wanderer",
     "Description": "They are a wanderer; an outcast, half-breed mage class frequently dubbed a hedge-mage. Their carefree personality has kept them from developing class abilities. Instead, they have learned to improve on a vast number of utility abilities that allow them to adapt to any situation. Wanderers prefer the open road and gain a mood boost for being in a caravan. Caravans with a wanderer will ignore the movement penalties of any world tile. However, the wanderlust will cause them to suvver a mood penalty for remaining at a colony for too long",
-    "Stats": "Move speed +0.2, Global work speed -10%, Immunity gain speed +20%, Psychic sensitivity +10%, Mental break threshold -3%",
-    "": "Max comfortable temp +5.4F [3C], Min comfortable temp +5.4F [3C]",
-    "Conflicts": "Arcane mage, Bard, Bladedancer, Blademaster, Bladesman, Blood mage, Chaos mage, Chronomancer",
-    "__1": "Death Knight, Druid, Enchanter, Entertainer, Faceless, Fire mage, Geomancer, Gladiator",
-    "__2": "Hunter, Ice mage, Legendary bladedancer, Legendary Sniper, Lich, Lightning mage, Magically gifted, Master sniper, Minstrel",
-    "__3": "Monk, Necromancer, Paladin, Performer, Physically adept, Priest, Psionic, Ranger",
-    "__4": "Scout, Sharpshooter, Sniper, Succubus, Summoner, Technomancer, Undead, Warlock, Wayfarer, Woodsman"
+    "Stats": "Move speed +0.2, Global work speed -10%, Immunity gain speed +20%, Psychic sensitivity +10%, Mental break threshold -3%, Max comfortable temp +5.4F [3C], Min comfortable temp +5.4F [3C]",
+    "Conflicts": "Arcane mage, Bard, Bladedancer, Blademaster, Bladesman, Blood mage, Chaos mage, Chronomancer, Death Knight, Druid, Enchanter, Entertainer, Faceless, Fire mage, Geomancer, Gladiator, Hunter, Ice mage, Legendary bladedancer, Legendary Sniper, Lich, Lightning mage, Magically gifted, Master sniper, Minstrel, Monk, Necromancer, Paladin, Performer, Physically adept, Priest, Psionic, Ranger, Scout, Sharpshooter, Sniper, Succubus, Summoner, Technomancer, Undead, Warlock, Wayfarer, Woodsman"
   },
   {
     "Trait": "Warlock",
     "Description": "Able to manifest physical and demonic forces using their unique access to arcane power. The warlock shars the same genetic mixture as a succubus, but as a mal, they are affected with mental enhancements that include clairvoyance and telekineses. The warlock can occasionally affect the outcome of a social interaction using their mental capabilities, regardless of how the interaction actually occurred",
-    "Stats": "Move speed -0.1, Global work speed -20%, Immunity gain speed -8%, Social impact +20%, Carrying capacity -20, Global learning factor +25%, Melee dodge -5",
-    "": "Research speed +25%, Melee hit -5, Pain shock threshold -15%, Psychic sensitivity +40%, Max comfortable temp +18F [10C], Min comfortable temp -18F [-10C]",
-    "Conflicts": "Arcane mage, Bard, Bladedancer, Blademaster, Bladesman, Blood mage, Chaos mage, Chronomancer",
-    "__1": "Death Knight, Druid, Enchanter, Entertainer, Faceless, Fire mage, Geomancer, Gladiator",
-    "__2": "Hunter, Ice mage, Legendary bladedancer, Legendary Sniper, Lich, Lightning mage, Magically gifted, Master sniper, Minstrel",
-    "__3": "Monk, Necromancer, Paladin, Performer, Physically adept, Priest, Psionic, Ranger",
-    "__4": "Scout, Sharpshooter, Sniper, Succubus, Summoner, Technomancer, Undead, Wanderer, Wayfarer, Woodsman"
+    "Stats": "Move speed -0.1, Global work speed -20%, Immunity gain speed -8%, Social impact +20%, Carrying capacity -20, Global learning factor +25%, Melee dodge -5, Research speed +25%, Melee hit -5, Pain shock threshold -15%, Psychic sensitivity +40%, Max comfortable temp +18F [10C], Min comfortable temp -18F [-10C]",
+    "Conflicts": "Arcane mage, Bard, Bladedancer, Blademaster, Bladesman, Blood mage, Chaos mage, Chronomancer, Death Knight, Druid, Enchanter, Entertainer, Faceless, Fire mage, Geomancer, Gladiator, Hunter, Ice mage, Legendary bladedancer, Legendary Sniper, Lich, Lightning mage, Magically gifted, Master sniper, Minstrel, Monk, Necromancer, Paladin, Performer, Physically adept, Priest, Psionic, Ranger, Scout, Sharpshooter, Sniper, Succubus, Summoner, Technomancer, Undead, Wanderer, Wayfarer, Woodsman"
   },
   {
     "Trait": "Wayfarer",
     "Description": "They are a wayfarer; a self-disciplined fighter that excels at tricks and dirty fighting. Their carefree personality has kept her from developing class abilities. Instead, they have learned to improve a vast number of utility abilities that allow them to adapt to any situation. Wayfarers prefer the open road and will gain a mood boost for being in a caravan, and any caravan with a wayfarer will travel 25% faster. However, wayfarers will suffer a mood penalty if they remain in a colony for too long",
-    "Stats": "Move speed +0.2, Global work speed -10%, Immunity gain speed +20%, Psychic sensitivity -10%",
-    "": "Mental break threshold -3%, Max comfortable temp +5.4F [3C], Min comfortable temp +5.4F [3C]",
-    "Conflicts": "Arcane mage, Bard, Bladedancer, Blademaster, Bladesman, Blood mage, Chaos mage, Chronomancer",
-    "__1": "Death Knight, Druid, Enchanter, Entertainer, Faceless, Fire mage, Geomancer, Gladiator",
-    "__2": "Hunter, Ice mage, Legendary bladedancer, Legendary Sniper, Lich, Lightning mage, Magically gifted, Master sniper, Minstrel",
-    "__3": "Monk, Necromancer, Paladin, Performer, Physically adept, Priest, Psionic, Ranger",
-    "__4": "Scout, Sharpshooter, Sniper, Succubus, Summoner, Technomancer, Undead, Wanderer, Warlock, Woodsman"
+    "Stats": "Move speed +0.2, Global work speed -10%, Immunity gain speed +20%, Psychic sensitivity -10%, Mental break threshold -3%, Max comfortable temp +5.4F [3C], Min comfortable temp +5.4F [3C]",
+    "Conflicts": "Arcane mage, Bard, Bladedancer, Blademaster, Bladesman, Blood mage, Chaos mage, Chronomancer, Death Knight, Druid, Enchanter, Entertainer, Faceless, Fire mage, Geomancer, Gladiator, Hunter, Ice mage, Legendary bladedancer, Legendary Sniper, Lich, Lightning mage, Magically gifted, Master sniper, Minstrel, Monk, Necromancer, Paladin, Performer, Physically adept, Priest, Psionic, Ranger, Scout, Sharpshooter, Sniper, Succubus, Summoner, Technomancer, Undead, Wanderer, Warlock, Woodsman"
   },
   {
     "Trait": "Werewolf",
     "Description": "They are a shapeshifter that blends its form with that of a wolf",
     "Stats": "",
-    "Conflicts": "Werewolf(?), Werewolf(Metis), Werewolf(Sworn)",
-    "__1": "Werewolf(Unblooded)"
+    "Conflicts": "Werewolf(?), Werewolf(Metis), Werewolf(Sworn), Werewolf(Unblooded)"
   },
   {
     "Trait": "Werewolf (?)",
     "Description": "They could be a shapshifter that blends forms between man and wolf. When a special moon rises, they may have their first horrific transformation, or something else may happen...",
     "Stats": "",
-    "Conflicts": "Werewolf, Werewolf(Metis), Werewolf(Sworn)",
-    "__1": "Werewolf(Unblooded)"
+    "Conflicts": "Werewolf, Werewolf(Metis), Werewolf(Sworn), Werewolf(Unblooded)"
   },
   {
     "Trait": "Werewolf (Metis)",
     "Description": "There are a genetic abberation known as a Metis. Somewhere in their genetic line, a werewolf mated with a werewolf and forever corrupted their werewolf line. This werewolf can only transform into the Metis form",
     "Stats": "",
-    "Conflicts": "Werewolf, Werewolf(?), Werewolf(Sworn)",
-    "__1": "Werewolf(Unblooded)"
+    "Conflicts": "Werewolf, Werewolf(?), Werewolf(Sworn), Werewolf(Unblooded)"
   },
   {
     "Trait": "Werewolf (Sworn)",
     "Description": "Having sworn a blood oath to their clan in good faith, They are a shapeshifter that blends their form with that of a wolf, and cannot be recruited",
     "Stats": "",
-    "Conflicts": "Werewolf, Werewolf(?), Werewolf(Metis)",
-    "__1": "Werewolf(Unblooded)"
+    "Conflicts": "Werewolf, Werewolf(?), Werewolf(Metis), Werewolf(Unblooded)"
   },
   {
     "Trait": "Werewolf (Unblooded)",
