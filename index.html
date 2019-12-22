@@ -273,13 +273,19 @@
 
             eventList = new List('events', options, eventData);
         });
-		
+		let traitList = null;
 		$.getJSON(traitListURL, function(data) {
 			var options = {
 				valueNames: ['Trait', 'Description', 'Stats', 'Conflicts'],
 				item: '<tr><td class="Trait" scope="row"></td><td class="Description"></td><td class="Stats"></td><td class="Conflicts"></td></tr>'
 			};
 			
+			var traitData = [];
+			$.each(data.traits, function(index,value) {
+				traitData.push(value);
+			});		
+			
+			traitList = new List('traits', options, traitData);
 		});		
 
         $("#item-price-min").keyup(function() {
