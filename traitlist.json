@@ -1,4 +1,4 @@
-{
+[
   {
     "Trait": "Abrasive",
     "Description": "Always says exactly what's on their mind, especially if it's bugging them. That tends to rub people the wrong way",
@@ -1025,4 +1025,4 @@
     "Stats": "",
     "Conflicts": "Xenophile"
   }
-}
+]
