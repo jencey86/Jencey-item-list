@@ -273,7 +273,7 @@
 
             eventList = new List('events', options, eventData);
         });
-		let traitList = null;
+		
 		$.getJSON(traitListURL, function(data) {
 			var options = {
 				valueNames: ['Trait', 'Description', 'Stats', 'Conflicts'],
