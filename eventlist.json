@@ -2,13 +2,13 @@
 	"incitems" : [
 	{
 		"abr": "tornado",
-		"price": 1500,
-		"karmatype": "Bad"
+		"price": 1000,
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "tornados",
 		"price": 2600,
-		"karmatype": "Bad"
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "clearweather",
@@ -122,7 +122,7 @@
 	},
 	{
 		"abr": "resourcepodcrash",
-		"price": 300,
+		"price": 400,
 		"karmatype": "Good"
 	},
 	{
@@ -137,18 +137,18 @@
 	},
 	{
 		"abr": "orbitaltraderarrival",
-		"price": 350,
+		"price": 1000,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "meteor",
-		"price": 200,
+		"price": 150,
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "maninblack",
-		"price": 1000,
-		"karmatype": "Good"
+		"price": 1500,
+		"karmatype": "Neutral"
 	},
 	{
 		"abr": "madanimal",
@@ -211,6 +211,11 @@
 		"karmatype": "Good"
 	},
 	{
+		"abr": "party",
+		"price": 400,
+		"karmatype": "Good"
+	},
+	{
 		"abr": "alphabeavers",
 		"price": 600,
 		"karmatype": "Bad"
@@ -231,6 +236,31 @@
 		"karmatype": "Good"
 	},
 	{
+		"abr": "raid",
+		"price": 1500,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "dropraid",
+		"price": 1500,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "sapperraid",
+		"price": 1500,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "siegeraid",
+		"price": 2500,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "mechanoidraid",
+		"price": 2500,
+		"karmatype": "Bad"
+	},
+	{
 		"abr": "manhunterpack",
 		"price": 1500,
 		"karmatype": "Bad"
@@ -243,11 +273,11 @@
 	{
 		"abr": "randomdisease",
 		"price": 1500,
-		"karmatype": "Bad"
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "disease",
-		"price": 2000,
+		"price": 3000,
 		"karmatype": "Doom"
 	},
 	{
@@ -281,18 +311,8 @@
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "prisoner",
-		"price": 800,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "visitcolony",
 		"price": 300,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "berescued",
-		"price": 900,
 		"karmatype": "Good"
 	},
 	{
@@ -311,5 +331,5 @@
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 62
+	"total": 66
 }
