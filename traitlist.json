@@ -276,6 +276,12 @@
     "Stats": "Move speed +0.15, Global work speed +10%, Immunity gain speed +10%, Psychic sensitivity +50%, Mental break threshold +10%, Global learning factor +20%, Melee dodge +4, Mining speed -10%, Plant work speed -10%, Research speed -40%",
     "Conflicts": "Arcane mage, Bard, Bladedancer, Blademaster, Bladesman, Blood mage, Chaos mage, Chronomancer, Death Knight, Druid, Enchanter, Entertainer, Fire mage, Geomancer, Gladiator, Hunter, Ice mage, Legendary bladedancer, Legendary Sniper, Lich, Lightning mage, Magically gifted, Master sniper, Minstrel, Monk, Necromancer, Paladin, Performer, Psychically adept, Priest, Psionic, Ranger, Scout, Sharpshooter, Sniper, Succubus, Summoner, Technomancer, Undead, Wanderer, Warlock, Wayfarer, Woodsman"
   },
+    {
+    "Trait": "Faith",
+    "Description": "Their faith is firm. It allows them to move under any circumstances",
+    "Stats": "Plan shock threshold +10%, Mental break threshold -15%",
+    "Conflicts": "Careful shooter, Trigger-happy, Wimp"
+  },		
   {
     "Trait": "Fast learner",
     "Description": "They have a knack for learning. They pick things up much faster than others",
@@ -1027,6 +1033,12 @@
     "Conflicts": "Pack Rat, Strong back"
   },
   {
+    "Trait": "Smokeleaf Farmer",
+    "Description": "They have a passion for gardening and smokeleaf. They get a mood boos for every plant they sow",
+    "Stats": "Plants +5, Global work speed +15%",
+    "Conflicts": ""
+  },	  
+  {
     "Trait": "Smooth Talker",
     "Description": "Knows just what to say and when to say it, making negotiations a breeze",
     "Stats": "Social +2, Negotiation ability +10%, Social impact +15%, Trade price improvement +10%",
@@ -1056,6 +1068,12 @@
     "Stats": "Mental break threshold -9%",
     "Conflicts": "Iron-willed, Nervous, Volatile"
   },
+  {
+    "Trait": "Stoner",
+    "Description": "They have a high tolerance for smokeleaf. They rarely suffer any withdrawal effects.",
+    "Stats": "Mental break -10%",
+    "Conflicts": ""
+  },	  
   {
     "Trait": "Strong back",
     "Description": "They are pretty strong, and it helps them carry both materials and swing weapons with ease",
@@ -1217,36 +1235,6 @@
     "Description": "They are a wayfarer; a self-disciplined fighter that excels at tricks and dirty fighting. Their carefree personality has kept her from developing class abilities. Instead, they have learned to improve a vast number of utility abilities that allow them to adapt to any situation. Wayfarers prefer the open road and will gain a mood boost for being in a caravan, and any caravan with a wayfarer will travel 25% faster. However, wayfarers will suffer a mood penalty if they remain in a colony for too long",
     "Stats": "Move speed +0.2, Global work speed -10%, Immunity gain speed +20%, Psychic sensitivity -10%, Mental break threshold -3%, Max comfortable temp +5.4F [3C], Min comfortable temp +5.4F [3C]",
     "Conflicts": "Arcane mage, Bard, Bladedancer, Blademaster, Bladesman, Blood mage, Chaos mage, Chronomancer, Death Knight, Druid, Enchanter, Entertainer, Faceless, Fire mage, Geomancer, Gladiator, Hunter, Ice mage, Legendary bladedancer, Legendary Sniper, Lich, Lightning mage, Magically gifted, Master sniper, Minstrel, Monk, Necromancer, Paladin, Performer, Physically adept, Priest, Psionic, Ranger, Scout, Sharpshooter, Sniper, Succubus, Summoner, Technomancer, Undead, Wanderer, Warlock, Woodsman"
-  },
-  {
-    "Trait": "Werewolf",
-    "Description": "They are a shapeshifter that blends its form with that of a wolf",
-    "Stats": "",
-    "Conflicts": "Werewolf(?), Werewolf(Metis), Werewolf(Sworn), Werewolf(Unblooded)"
-  },
-  {
-    "Trait": "Werewolf (?)",
-    "Description": "They could be a shapshifter that blends forms between man and wolf. When a special moon rises, they may have their first horrific transformation, or something else may happen...",
-    "Stats": "",
-    "Conflicts": "Werewolf, Werewolf(Metis), Werewolf(Sworn), Werewolf(Unblooded)"
-  },
-  {
-    "Trait": "Werewolf (Metis)",
-    "Description": "There are a genetic abberation known as a Metis. Somewhere in their genetic line, a werewolf mated with a werewolf and forever corrupted their werewolf line. This werewolf can only transform into the Metis form",
-    "Stats": "",
-    "Conflicts": "Werewolf, Werewolf(?), Werewolf(Sworn), Werewolf(Unblooded)"
-  },
-  {
-    "Trait": "Werewolf (Sworn)",
-    "Description": "Having sworn a blood oath to their clan in good faith, They are a shapeshifter that blends their form with that of a wolf, and cannot be recruited",
-    "Stats": "",
-    "Conflicts": "Werewolf, Werewolf(?), Werewolf(Metis), Werewolf(Unblooded)"
-  },
-  {
-    "Trait": "Werewolf (Unblooded)",
-    "Description": "They are unknowingly a shapeshifter that blends forms between man and wolf. When a special moon rises, they will have their first horrific transformation",
-    "Stats": "",
-    "Conflicts": "Werewolf, Werewolf(?), Werewolf(Metis), Werewolf(Sworn)"
   },
   {
     "Trait": "Whiskey Rose",
