@@ -116,13 +116,8 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "wandererjoins",
-		"price": 2500,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "resourcepodcrash",
-		"price": 400,
+		"price": 300,
 		"karmatype": "Good"
 	},
 	{
@@ -137,7 +132,7 @@
 	},
 	{
 		"abr": "orbitaltraderarrival",
-		"price": 1000,
+		"price": 350,
 		"karmatype": "Good"
 	},
 	{
@@ -148,7 +143,7 @@
 	{
 		"abr": "maninblack",
 		"price": 1500,
-		"karmatype": "Neutral"
+		"karmatype": "Good"
 	},
 	{
 		"abr": "madanimal",
@@ -272,7 +267,7 @@
 	},
 	{
 		"abr": "randomdisease",
-		"price": 1500,
+		"price": 2500,
 		"karmatype": "Doom"
 	},
 	{
@@ -331,5 +326,5 @@
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 66
+	"total": 65
 }
