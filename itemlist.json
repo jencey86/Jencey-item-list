@@ -12074,7 +12074,7 @@
 	},
 	{
 		"abr": "luciferium",
-		"price": 200,
+		"price": -10,
 		"category": "Drugs",
 		"defname": "Luciferium"
 	},
@@ -12422,13 +12422,13 @@
 	},
 	{
 		"abr": "m7mechanisedinfantry",
-		"price": 30000,
+		"price": -10,
 		"category": "Animal",
 		"defname": "M7Mech"
 	},
 	{
 		"abr": "m7pod",
-		"price": 1483,
+		"price": -10,
 		"category": "Misc",
 		"defname": "ATPP_AndroidPodMech"
 	},
@@ -19987,84 +19987,6 @@
 		"defname": "RNGun_SR25DMR"
 	},
 	{
-		"abr": "sraf:canary",
-		"price": 46108,
-		"category": "Buildings",
-		"defname": "SRTF"
-	},
-	{
-		"abr": "srtsmk.i:skip",
-		"price": 9542,
-		"category": "Buildings",
-		"defname": "SRTSSkip"
-	},
-	{
-		"abr": "srtsmk.ii:albatross",
-		"price": 61842,
-		"category": "Buildings",
-		"defname": "SRTSMkII"
-	},
-	{
-		"abr": "srtsmk.iii:phoenix",
-		"price": 130775,
-		"category": "Buildings",
-		"defname": "SRTSMkIII"
-	},
-	{
-		"abr": "srtsmk.iv:genesis",
-		"price": 265267,
-		"category": "Buildings",
-		"defname": "SRTSMkIV"
-	},
-	{
-		"abr": "srts:dimensionalcomponents",
-		"price": 40000,
-		"category": "Shuttle components",
-		"defname": "ShuttleComp_DimShift"
-	},
-	{
-		"abr": "srts:electricalcomponents",
-		"price": 1583,
-		"category": "Shuttle components",
-		"defname": "ShuttleComp_ElectricSystem"
-	},
-	{
-		"abr": "srts:enginecomponents",
-		"price": 1583,
-		"category": "Shuttle components",
-		"defname": "ShuttleComp_Engines"
-	},
-	{
-		"abr": "srts:internalcomponents",
-		"price": 1583,
-		"category": "Shuttle components",
-		"defname": "ShuttleComp_Structural"
-	},
-	{
-		"abr": "srts:mechanicalcomponents",
-		"price": 1583,
-		"category": "Shuttle components",
-		"defname": "ShuttleComp_MechSystem"
-	},
-	{
-		"abr": "srts:neuralmeshplates",
-		"price": 7000,
-		"category": "Shuttle components",
-		"defname": "ShuttleComp_MeshPlate"
-	},
-	{
-		"abr": "srts:nuclearreactorcomponents",
-		"price": 40000,
-		"category": "Shuttle components",
-		"defname": "ShuttleComp_Reactor"
-	},
-	{
-		"abr": "srts:steelplates",
-		"price": 1583,
-		"category": "Shuttle components",
-		"defname": "ShuttleComp_Plates"
-	},
-	{
 		"abr": "ssg08",
 		"price": 883,
 		"category": "Bolt action",
@@ -20495,12 +20417,6 @@
 		"price": 425,
 		"category": "Shotgun",
 		"defname": "RNGun_Supernova"
-	},
-	{
-		"abr": "superpod",
-		"price": 4150,
-		"category": "Buildings",
-		"defname": "SRTSSuperpod"
 	},
 	{
 		"abr": "super-shorty",
@@ -23299,281 +23215,767 @@
 		"defname": "PRFWeakAIChip"
 	},
 	{
+		"abr": "anchovy",
+		"price": 2,
+		"category": "Raw fish",
+		"defname": "VCEF_RawAnchovy"
+	},
+	{
+		"abr": "andesitebox",
+		"price": 58,
+		"category": "Manufactured",
+		"defname": "AndesiteChunkBox"
+	},
+	{
+		"abr": "andesitecrate",
+		"price": 58,
+		"category": "Manufactured",
+		"defname": "AndesiteChunkCrate"
+	},
+	{
+		"abr": "angelfish",
+		"price": 5,
+		"category": "Raw fish",
+		"defname": "VCEF_RawAngelfish"
+	},
+	{
+		"abr": "anglerfish",
+		"price": 2,
+		"category": "Raw fish",
+		"defname": "VCEF_RawAnglerfish"
+	},
+	{
+		"abr": "arm",
+		"price": 333,
+		"category": "Natural",
+		"defname": "QE_Organ_Arm"
+	},
+	{
+		"abr": "bass",
+		"price": 3,
+		"category": "Raw fish",
+		"defname": "VCEF_RawBass"
+	},
+	{
+		"abr": "book",
+		"price": 38,
+		"category": "Items",
+		"defname": "Jecrell_Book"
+	},
+	{
+		"abr": "brainscantemplate",
+		"price": 167,
+		"category": "Items",
+		"defname": "QE_BrainScannerFilled"
+	},
+	{
+		"abr": "brainscanner",
+		"price": 167,
+		"category": "Manufactured",
+		"defname": "QE_BrainScanner"
+	},
+	{
+		"abr": "catfish",
+		"price": 7,
+		"category": "Raw fish",
+		"defname": "VCEF_RawCatfish"
+	},
+	{
+		"abr": "chthonianchitin",
+		"price": 13,
+		"category": "Leathers",
+		"defname": "CH_Leather_Chthonian"
+	},
+	{
+		"abr": "chthonianstrips",
+		"price": 3,
+		"category": "Raw strange meat",
+		"defname": "ROM_RawCHFood_ChthonianMeat"
+	},
+	{
+		"abr": "claystonebox",
+		"price": 58,
+		"category": "Manufactured",
+		"defname": "ClaystoneChunkBox"
+	},
+	{
+		"abr": "claystonecrate",
+		"price": 58,
+		"category": "Manufactured",
+		"defname": "ClaystoneChunkCrate"
+	},
+	{
+		"abr": "clonevat",
+		"price": 3592,
+		"category": "Production",
+		"defname": "QE_PawnVat"
+	},
+	{
+		"abr": "clownfish",
+		"price": 2,
+		"category": "Raw fish",
+		"defname": "VCEF_RawClownfish"
+	},
+	{
+		"abr": "cod",
+		"price": 7,
+		"category": "Raw fish",
+		"defname": "VCEF_RawCod"
+	},
+	{
+		"abr": "cthulhidmeat",
+		"price": 2,
+		"category": "Raw strange meat",
+		"defname": "ROM_RawCHFood_CthulhidMeat"
+	},
+	{
+		"abr": "darkyoungmeat",
+		"price": 2,
+		"category": "Raw strange meat",
+		"defname": "ROM_RawCHFood_DarkYoungMeat"
+	},
+	{
+		"abr": "darkyoungsap",
+		"price": 5,
+		"category": "Animal products",
+		"defname": "ROM_DarkYoungSap"
+	},
+	{
+		"abr": "dark-youngbark",
+		"price": 12,
+		"category": "Leathers",
+		"defname": "CH_Leather_DarkYoung"
+	},
+	{
+		"abr": "deeponemeat",
+		"price": 2,
+		"category": "Raw strange meat",
+		"defname": "ROM_RawCHFood_DeepOneMeat"
+	},
+	{
+		"abr": "deephide",
+		"price": 12,
+		"category": "Leathers",
+		"defname": "CH_Leather_DeepOne"
+	},
+	{
+		"abr": "dioritebox",
+		"price": 58,
+		"category": "Manufactured",
+		"defname": "DioriteChunkBox"
+	},
+	{
+		"abr": "dioritecrate",
+		"price": 58,
+		"category": "Manufactured",
+		"defname": "DioriteChunkCrate"
+	},
+	{
+		"abr": "dunitebox",
+		"price": 58,
+		"category": "Manufactured",
+		"defname": "DuniteChunkBox"
+	},
+	{
+		"abr": "dunitecrate",
+		"price": 58,
+		"category": "Manufactured",
+		"defname": "DuniteChunkCrate"
+	},
+	{
+		"abr": "ear",
+		"price": 167,
+		"category": "Natural",
+		"defname": "QE_Organ_Ear"
+	},
+	{
+		"abr": "eel",
+		"price": 3,
+		"category": "Raw fish",
+		"defname": "VCEF_RawEel"
+	},
+	{
+		"abr": "electricpapermakingstation",
+		"price": 408,
+		"category": "Production",
+		"defname": "RimWriter_PapermakingBenchElectric"
+	},
+	{
+		"abr": "eye",
+		"price": 500,
+		"category": "Natural",
+		"defname": "QE_Organ_Eye"
+	},
+	{
+		"abr": "foot",
+		"price": 167,
+		"category": "Natural",
+		"defname": "QE_Organ_Foot"
+	},
+	{
+		"abr": "gabbrobox",
+		"price": 58,
+		"category": "Manufactured",
+		"defname": "GabbroChunkBox"
+	},
+	{
+		"abr": "gabbrocrate",
+		"price": 58,
+		"category": "Manufactured",
+		"defname": "GabbroChunkCrate"
+	},
+	{
+		"abr": "genomesequencetemplate",
+		"price": 167,
+		"category": "Items",
+		"defname": "QE_GenomeSequencerFilled"
+	},
+	{
+		"abr": "genomesequencer",
+		"price": 167,
+		"category": "Manufactured",
+		"defname": "QE_GenomeSequencer"
+	},
+	{
+		"abr": "gneissbox",
+		"price": 58,
+		"category": "Manufactured",
+		"defname": "GneissChunkBox"
+	},
+	{
+		"abr": "gneisscrate",
+		"price": 58,
+		"category": "Manufactured",
+		"defname": "GneissChunkCrate"
+	},
+	{
+		"abr": "goldfish",
+		"price": 17,
+		"category": "Raw fish",
+		"defname": "VCEF_RawGoldfish"
+	},
+	{
+		"abr": "granitebox",
+		"price": 58,
+		"category": "Manufactured",
+		"defname": "GraniteChunkBox"
+	},
+	{
+		"abr": "granitecrate",
+		"price": 58,
+		"category": "Manufactured",
+		"defname": "GraniteChunkCrate"
+	},
+	{
+		"abr": "guppy",
+		"price": 2,
+		"category": "Raw fish",
+		"defname": "VCEF_RawGuppy"
+	},
+	{
+		"abr": "haddock",
+		"price": 3,
+		"category": "Raw fish",
+		"defname": "VCEF_RawHaddock"
+	},
+	{
+		"abr": "halibut",
+		"price": 12,
+		"category": "Raw fish",
+		"defname": "VCEF_RawHalibut"
+	},
+	{
+		"abr": "hand",
+		"price": 167,
+		"category": "Natural",
+		"defname": "QE_Organ_Hand"
+	},
+	{
+		"abr": "herring",
+		"price": 3,
+		"category": "Raw fish",
+		"defname": "VCEF_RawHerring"
+	},
+	{
+		"abr": "jaw",
+		"price": 167,
+		"category": "Natural",
+		"defname": "QE_Organ_Jaw"
+	},
+	{
+		"abr": "journal",
+		"price": 38,
+		"category": "Items",
+		"defname": "Jecrell_BookJournal"
+	},
+	{
+		"abr": "koi",
+		"price": 7,
+		"category": "Raw fish",
+		"defname": "VCEF_RawKoi"
+	},
+	{
+		"abr": "leg",
+		"price": 333,
+		"category": "Natural",
+		"defname": "QE_Organ_Leg"
+	},
+	{
+		"abr": "limestonebox",
+		"price": 58,
+		"category": "Manufactured",
+		"defname": "LimestoneChunkBox"
+	},
+	{
+		"abr": "limestonecrate",
+		"price": 58,
+		"category": "Manufactured",
+		"defname": "LimestoneChunkCrate"
+	},
+	{
+		"abr": "lobster",
+		"price": 20,
+		"category": "Raw fish",
+		"defname": "VCEF_RawLobster"
+	},
+	{
+		"abr": "mackerel",
+		"price": 3,
+		"category": "Raw fish",
+		"defname": "VCEF_RawMackerel"
+	},
+	{
+		"abr": "magneticshield",
+		"price": 1633,
+		"category": "Power",
+		"defname": "Building_RTMagneticShield"
+	},
+	{
+		"abr": "marblebox",
+		"price": 58,
+		"category": "Manufactured",
+		"defname": "MarbleChunkBox"
+	},
+	{
+		"abr": "marblecrate",
+		"price": 58,
+		"category": "Manufactured",
+		"defname": "MarbleChunkCrate"
+	},
+	{
+		"abr": "medicbag",
+		"price": 708,
+		"category": "Apparel",
+		"defname": "Apparel_flyfire2002_MedicBag"
+	},
+	{
+		"abr": "migomatter",
+		"price": 3,
+		"category": "Leathers",
+		"defname": "CH_Leather_MiGo"
+	},
+	{
+		"abr": "migomeat",
+		"price": 2,
+		"category": "Raw strange meat",
+		"defname": "ROM_RawCHFood_MiGoMeat"
+	},
+	{
+		"abr": "minnow",
+		"price": 2,
+		"category": "Raw fish",
+		"defname": "VCEF_RawMinnow"
+	},
+	{
+		"abr": "nervestaples",
+		"price": 500,
+		"category": "Artificial",
+		"defname": "QE_NerveStaple"
+	},
+	{
+		"abr": "nose",
+		"price": 167,
+		"category": "Natural",
+		"defname": "QE_Organ_Nose"
+	},
+	{
+		"abr": "nutrientsolution",
+		"price": 3,
+		"category": "Manufactured",
+		"defname": "QE_NutrientSolution"
+	},
+	{
+		"abr": "organvat",
+		"price": 1075,
+		"category": "Production",
+		"defname": "QE_Building_OrganVat"
+	},
+	{
+		"abr": "organvat(legacy)",
+		"price": 1075,
+		"category": "Production",
+		"defname": "QE_OrganVat"
+	},
+	{
+		"abr": "papermakingtable",
+		"price": 358,
+		"category": "Production",
+		"defname": "RimWriter_PapermakingBench"
+	},
+	{
+		"abr": "pegmatitebox",
+		"price": 58,
+		"category": "Manufactured",
+		"defname": "PegmatiteChunkBox"
+	},
+	{
+		"abr": "pegmatitecrate",
+		"price": 58,
+		"category": "Manufactured",
+		"defname": "PegmatiteChunkCrate"
+	},
+	{
+		"abr": "pelvis",
+		"price": 333,
+		"category": "Natural",
+		"defname": "QE_Organ_Pelvis"
+	},
+	{
+		"abr": "perch",
+		"price": 3,
+		"category": "Raw fish",
+		"defname": "VCEF_RawPerch"
+	},
+	{
+		"abr": "piranha",
+		"price": 5,
+		"category": "Raw fish",
+		"defname": "VCEF_RawPiranha"
+	},
+	{
+		"abr": "proteinmash",
+		"price": 3,
+		"category": "Manufactured",
+		"defname": "QE_ProteinMash"
+	},
+	{
+		"abr": "pufferfish",
+		"price": 5,
+		"category": "Raw fish",
+		"defname": "VCEF_RawPufferfish"
+	},
+	{
+		"abr": "quartzitebox",
+		"price": 58,
+		"category": "Manufactured",
+		"defname": "QuartziteChunkBox"
+	},
+	{
+		"abr": "quartzitecrate",
+		"price": 58,
+		"category": "Manufactured",
+		"defname": "QuartziteChunkCrate"
+	},
+	{
+		"abr": "salmon",
+		"price": 17,
+		"category": "Raw fish",
+		"defname": "VCEF_RawSalmon"
+	},
+	{
+		"abr": "sandstonebox",
+		"price": 58,
+		"category": "Manufactured",
+		"defname": "SandstoneChunkBox"
+	},
+	{
+		"abr": "sandstonecrate",
+		"price": 58,
+		"category": "Manufactured",
+		"defname": "SandstoneChunkCrate"
+	},
+	{
+		"abr": "schistbox",
+		"price": 58,
+		"category": "Manufactured",
+		"defname": "SchistChunkBox"
+	},
+	{
+		"abr": "schistcrate",
+		"price": 58,
+		"category": "Manufactured",
+		"defname": "SchistChunkCrate"
+	},
+	{
+		"abr": "scroll",
+		"price": 41,
+		"category": "Items",
+		"defname": "Jecrell_LeatherScroll"
+	},
+	{
+		"abr": "shoggothmeat",
+		"price": 2,
+		"category": "Raw strange meat",
+		"defname": "ROM_RawCHFood_ShoggothMeat"
+	},
+	{
+		"abr": "skillbook",
+		"price": 6667,
+		"category": "Items",
+		"defname": "Jecrell_Guidebook"
+	},
+	{
+		"abr": "skillbook",
+		"price": 6667,
+		"category": "Items",
+		"defname": "Jecrell_Skillbook"
+	},
+	{
+		"abr": "slagscrapbox",
+		"price": 202,
+		"category": "Manufactured",
+		"defname": "SlagBox"
+	},
+	{
+		"abr": "slagscrapcrate",
+		"price": 202,
+		"category": "Manufactured",
+		"defname": "SlagCrate"
+	},
+	{
+		"abr": "slatebox",
+		"price": 58,
+		"category": "Manufactured",
+		"defname": "SlateChunkBox"
+	},
+	{
+		"abr": "slatecrate",
+		"price": 58,
+		"category": "Manufactured",
+		"defname": "SlateChunkCrate"
+	},
+	{
+		"abr": "spine",
+		"price": 500,
+		"category": "Natural",
+		"defname": "QE_Organ_Spine"
+	},
+	{
+		"abr": "sprat",
+		"price": 3,
+		"category": "Raw fish",
+		"defname": "VCEF_RawSprat"
+	},
+	{
+		"abr": "starvampiremeat",
+		"price": 2,
+		"category": "Raw strange meat",
+		"defname": "ROM_RawCHFood_StarVampireMeat"
+	},
+	{
+		"abr": "star-spawnskin",
+		"price": 6,
+		"category": "Leathers",
+		"defname": "CH_Leather_Cthulhid"
+	},
+	{
+		"abr": "star-vampireleather",
+		"price": 8,
+		"category": "Leathers",
+		"defname": "CH_Leather_StarVampire"
+	},
+	{
+		"abr": "stomach",
+		"price": 667,
+		"category": "Natural",
+		"defname": "QE_Organ_Stomach"
+	},
+	{
+		"abr": "stoneshelf",
+		"price": 171,
+		"category": "Furniture",
+		"defname": "Jecrell_StoneShelf"
+	},
+	{
+		"abr": "strangefinemeal",
+		"price": 47,
+		"category": "Meals",
+		"defname": "ROM_StrangeMealFine"
+	},
+	{
+		"abr": "strangekibble",
+		"price": 2,
+		"category": "Foods",
+		"defname": "ROM_StrangeKibble"
+	},
+	{
+		"abr": "strangelavishmeal",
+		"price": 67,
+		"category": "Meals",
+		"defname": "ROM_StrangeMealLavish"
+	},
+	{
+		"abr": "strangesimplemeal",
+		"price": 42,
+		"category": "Meals",
+		"defname": "ROM_StrangeMealSimple"
+	},
+	{
+		"abr": "swordfish",
+		"price": 25,
+		"category": "Raw fish",
+		"defname": "VCEF_RawSwordfish"
+	},
+	{
+		"abr": "syenitebox",
+		"price": 58,
+		"category": "Manufactured",
+		"defname": "SyeniteChunkBox"
+	},
+	{
+		"abr": "syenitecrate",
+		"price": 58,
+		"category": "Manufactured",
+		"defname": "SyeniteChunkCrate"
+	},
+	{
+		"abr": "syntheticmeat",
+		"price": 2,
+		"category": "Meat",
+		"defname": "Meat_QESynthMeat"
+	},
+	{
+		"abr": "tablet",
+		"price": 41,
+		"category": "Items",
+		"defname": "Jecrell_Tablet"
+	},
+	{
+		"abr": "trout",
+		"price": 3,
+		"category": "Raw fish",
+		"defname": "VCEF_RawTrout"
+	},
+	{
+		"abr": "tuna",
+		"price": 7,
+		"category": "Raw fish",
+		"defname": "VCEF_RawTuna"
+	},
+	{
+		"abr": "typewritingtable",
+		"price": 467,
+		"category": "Production",
+		"defname": "RimWriter_TableTypewriter"
+	},
+	{
+		"abr": "untouchablemeat",
+		"price": 2,
+		"category": "Raw strange meat",
+		"defname": "ROM_RawCHFood_Meat"
+	},
+	{
+		"abr": "writer'stable",
+		"price": 542,
+		"category": "Production",
+		"defname": "RimWriter_TableWriting"
+	},
+	{
+		"abr": "sraf:canary",
+		"price": 46108,
+		"category": "Buildings",
+		"defname": "SRTF"
+	},
+	{
+		"abr": "srtsmk.i:skip",
+		"price": 9542,
+		"category": "Buildings",
+		"defname": "SRTSSkip"
+	},
+	{
+		"abr": "srtsmk.ii:albatross",
+		"price": 61842,
+		"category": "Buildings",
+		"defname": "SRTSMkII"
+	},
+	{
+		"abr": "srtsmk.iii:phoenix",
+		"price": 130775,
+		"category": "Buildings",
+		"defname": "SRTSMkIII"
+	},
+	{
 		"abr": "srtsmk.iiip:pelican",
 		"price": 101692,
 		"category": "Buildings",
 		"defname": "SRTSMkIIIp"
 	},
 	{
-		"abr": "blastdoor(2x1)",
-		"price": 1525,
+		"abr": "srtsmk.iv:genesis",
+		"price": 351933,
 		"category": "Buildings",
-		"defname": "PH_DoorBlastDoor"
+		"defname": "SRTSMkIV"
 	},
 	{
-		"abr": "blastdoor(3x2)",
-		"price": 2467,
+		"abr": "srts:dimensionalcomponents",
+		"price": 40000,
+		"category": "Shuttle components",
+		"defname": "ShuttleComp_DimShift"
+	},
+	{
+		"abr": "srts:electricalcomponents",
+		"price": 1583,
+		"category": "Shuttle components",
+		"defname": "ShuttleComp_ElectricSystem"
+	},
+	{
+		"abr": "srts:enginecomponents",
+		"price": 1583,
+		"category": "Shuttle components",
+		"defname": "ShuttleComp_Engines"
+	},
+	{
+		"abr": "srts:internalcomponents",
+		"price": 1583,
+		"category": "Shuttle components",
+		"defname": "ShuttleComp_Structural"
+	},
+	{
+		"abr": "srts:mechanicalcomponents",
+		"price": 1583,
+		"category": "Shuttle components",
+		"defname": "ShuttleComp_MechSystem"
+	},
+	{
+		"abr": "srts:neuralmeshplates",
+		"price": 7000,
+		"category": "Shuttle components",
+		"defname": "ShuttleComp_MeshPlate"
+	},
+	{
+		"abr": "srts:nuclearreactorcomponents",
+		"price": 40000,
+		"category": "Shuttle components",
+		"defname": "ShuttleComp_Reactor"
+	},
+	{
+		"abr": "srts:steelplates",
+		"price": 1583,
+		"category": "Shuttle components",
+		"defname": "ShuttleComp_Plates"
+	},
+	{
+		"abr": "superpod",
+		"price": 4150,
 		"category": "Buildings",
-		"defname": "PH_DoorThickBlastDoor"
+		"defname": "SRTSSuperpod"
 	},
 	{
-		"abr": "curtain(tribal)",
-		"price": 172,
-		"category": "Buildings",
-		"defname": "HeronCurtainTribal"
-	},
-	{
-		"abr": "door(1x2)",
-		"price": 172,
-		"category": "Buildings",
-		"defname": "PH_DoorDouble"
-	},
-	{
-		"abr": "door(3x1)",
-		"price": 260,
-		"category": "Buildings",
-		"defname": "PH_DoorTriple"
-	},
-	{
-		"abr": "empathicresonator",
-		"price": 4667,
-		"category": "Artificial",
-		"defname": "EmpathicResonator"
-	},
-	{
-		"abr": "evolvedarm",
-		"price": 4667,
-		"category": "Artificial",
-		"defname": "EvolvedArm"
-	},
-	{
-		"abr": "evolvedarmclaw",
-		"price": 4667,
-		"category": "Artificial",
-		"defname": "EvolvedArmClaw"
-	},
-	{
-		"abr": "evolvedarmmace",
-		"price": 4667,
-		"category": "Artificial",
-		"defname": "EvolvedArmMace"
-	},
-	{
-		"abr": "evolvedarmsabre",
-		"price": 4667,
-		"category": "Artificial",
-		"defname": "EvolvedArmSabre"
-	},
-	{
-		"abr": "evolvedarmshield",
-		"price": 4667,
-		"category": "Artificial",
-		"defname": "EvolvedArmShield"
-	},
-	{
-		"abr": "evolvedarmtentacle",
-		"price": 4667,
-		"category": "Artificial",
-		"defname": "EvolvedArmTentacle"
-	},
-	{
-		"abr": "evolvedbrain",
-		"price": 4667,
-		"category": "Artificial",
-		"defname": "EvolvedBrain"
-	},
-	{
-		"abr": "evolvedcombatglands",
-		"price": 4667,
-		"category": "Artificial",
-		"defname": "EvolvedCombatGlands"
-	},
-	{
-		"abr": "evolvedear",
-		"price": 4667,
-		"category": "Artificial",
-		"defname": "EvolvedEar"
-	},
-	{
-		"abr": "evolvedextralegcluster",
-		"price": 4667,
-		"category": "Artificial",
-		"defname": "EvolvedSpider"
-	},
-	{
-		"abr": "evolvedeye",
-		"price": 4667,
-		"category": "Artificial",
-		"defname": "EvolvedEye"
-	},
-	{
-		"abr": "evolvedjaw",
-		"price": 4667,
-		"category": "Artificial",
-		"defname": "EvolvedJaw"
-	},
-	{
-		"abr": "evolvedkidney",
-		"price": 4667,
-		"category": "Artificial",
-		"defname": "EvolvedKidney"
-	},
-	{
-		"abr": "evolvedlarnyx",
-		"price": 4667,
-		"category": "Artificial",
-		"defname": "EvolvedLarnyx"
-	},
-	{
-		"abr": "evolvedleg",
-		"price": 4667,
-		"category": "Artificial",
-		"defname": "EvolvedLeg"
-	},
-	{
-		"abr": "evolvedliver",
-		"price": 4667,
-		"category": "Artificial",
-		"defname": "EvolvedLiver"
-	},
-	{
-		"abr": "evolvedlung",
-		"price": 4667,
-		"category": "Artificial",
-		"defname": "EvolvedLung"
-	},
-	{
-		"abr": "evolvedmeat",
-		"price": 167,
-		"category": "Manufactured",
-		"defname": "EvolvedChunk"
-	},
-	{
-		"abr": "evolvednose",
-		"price": 4667,
-		"category": "Artificial",
-		"defname": "EvolvedNose"
-	},
-	{
-		"abr": "evolvedpelt",
-		"price": 4667,
-		"category": "Artificial",
-		"defname": "EvolvedPelt"
-	},
-	{
-		"abr": "evolvedpinions",
-		"price": 4667,
-		"category": "Artificial",
-		"defname": "EvolvedPinions"
-	},
-	{
-		"abr": "evolvedprimaryheart",
-		"price": 4667,
-		"category": "Artificial",
-		"defname": "EvolvedPrimaryHeart"
-	},
-	{
-		"abr": "evolvedpsychicfilter",
-		"price": 4667,
-		"category": "Artificial",
-		"defname": "EvolvedFilter"
-	},
-	{
-		"abr": "evolvedreproductiveorgans",
-		"price": 4667,
-		"category": "Artificial",
-		"defname": "EvolvedReproductiveOrgans"
-	},
-	{
-		"abr": "evolvedribcage",
-		"price": 4667,
-		"category": "Artificial",
-		"defname": "EvolvedRibcage"
-	},
-	{
-		"abr": "evolvedsecondaryheart",
-		"price": 4667,
-		"category": "Artificial",
-		"defname": "EvolvedSecondHeart"
-	},
-	{
-		"abr": "evolvedskin",
-		"price": 4667,
-		"category": "Artificial",
-		"defname": "EvolvedCarapace"
-	},
-	{
-		"abr": "evolvedspine",
-		"price": 4667,
-		"category": "Artificial",
-		"defname": "EvolvedSpine"
-	},
-	{
-		"abr": "evolvedstomach",
-		"price": 4667,
-		"category": "Artificial",
-		"defname": "EvolvedStomach"
-	},
-	{
-		"abr": "evolvedtail",
-		"price": 4667,
-		"category": "Artificial",
-		"defname": "EvolvedTail"
-	},
-	{
-		"abr": "evolvedthirdlung",
-		"price": 4667,
-		"category": "Artificial",
-		"defname": "EvolvedThirdLung"
-	},
-	{
-		"abr": "gate(2x1)",
-		"price": 608,
-		"category": "Buildings",
-		"defname": "PH_GateDoubleThick"
-	},
-	{
-		"abr": "humanoidprotein",
-		"price": 17,
-		"category": "Manufactured",
-		"defname": "EVO_Humanoid_Protein"
-	},
-	{
-		"abr": "jaildoor",
-		"price": 542,
-		"category": "Buildings",
-		"defname": "PH_DoorJail"
-	},
-	{
-		"abr": "lymphaticproliferator",
-		"price": 4667,
-		"category": "Artificial",
-		"defname": "LymphaticProliferator"
-	},
-	{
-		"abr": "organevolverworksbench",
-		"price": 5583,
-		"category": "Production",
-		"defname": "EvolvedWorkbench"
-	},
-	{
-		"abr": "ra'svacuole",
-		"price": 4667,
-		"category": "Artificial",
-		"defname": "ImmortalOrgan"
-	},
-	{
-		"abr": "remotedoor(1x1)",
-		"price": 241,
-		"category": "Buildings",
-		"defname": "PH_DoorRemoteSingle"
-	},
-	{
-		"abr": "remotedoor(2x1)",
-		"price": 475,
-		"category": "Buildings",
-		"defname": "PH_DoorRemoteDouble"
+		"abr": "methadone",
+		"price": 27,
+		"category": "Drugs",
+		"defname": "Methadone"
 	}
 	],
-	"total": 4101
+	"total": 4289
 }
