@@ -106,8 +106,18 @@
 		"karmatype": "Bad"
 	},
 	{
+		"abr": "refugeechased",
+		"price": 650,
+		"karmatype": "Neutral"
+	},
+	{
 		"abr": "animaltame",
 		"price": 150,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "wandererjoins",
+		"price": 1200,
 		"karmatype": "Good"
 	},
 	{
@@ -118,6 +128,11 @@
 	{
 		"abr": "transportpodcrash",
 		"price": 1500,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "tradercaravan",
+		"price": 275,
 		"karmatype": "Good"
 	},
 	{
@@ -186,6 +201,11 @@
 		"karmatype": "Good"
 	},
 	{
+		"abr": "visitorgroup",
+		"price": 200,
+		"karmatype": "Good"
+	},
+	{
 		"abr": "skillincrease",
 		"price": 200,
 		"karmatype": "Good"
@@ -209,6 +229,11 @@
 		"abr": "shippartpsychic",
 		"price": 2400,
 		"karmatype": "Bad"
+	},
+	{
+		"abr": "militaryaid",
+		"price": 700,
+		"karmatype": "Good"
 	},
 	{
 		"abr": "manhunterpack",
@@ -261,6 +286,11 @@
 		"karmatype": "Neutral"
 	},
 	{
+		"abr": "prisoner",
+		"price": 1500,
+		"karmatype": "Good"
+	},
+	{
 		"abr": "visitcolony",
 		"price": 300,
 		"karmatype": "Good"
@@ -279,7 +309,47 @@
 		"abr": "hodlbotvote",
 		"price": 600,
 		"karmatype": "Neutral"
+	},
+	{
+		"abr": "supernova",
+		"price": 1500,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "superheatwave",
+		"price": 1800,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "bouldermasshit",
+		"price": 500,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "leanatmosphere",
+		"price": 6000,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "icestorm",
+		"price": 2400,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "heavyair",
+		"price": 6000,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "mechanoidportal",
+		"price": 3200,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "beetlerush",
+		"price": 12000,
+		"karmatype": "Bad"
 	}
 	],
-	"total": 56
+	"total": 70
 }
