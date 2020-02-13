@@ -231,11 +231,6 @@
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "militaryaid",
-		"price": 700,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "manhunterpack",
 		"price": 1500,
 		"karmatype": "Bad"
@@ -351,5 +346,5 @@
 		"karmatype": "Bad"
 	}
 	],
-	"total": 70
+	"total": 69
 }
