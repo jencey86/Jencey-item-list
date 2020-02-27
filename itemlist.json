@@ -8183,7 +8183,31 @@
 		"price": 3333,
 		"category": "Melee weapons",
 		"defname": "MeleeWeapon_Zeushammer"
+	},
+	{
+		"abr": "housekeepercat",
+		"price": -10,
+		"category": "Animal",
+		"defname": "HousekeeperCat"
+	},
+	{
+		"abr": "housekeepercatfur",
+		"price": 23,
+		"category": "Leathers",
+		"defname": "Leather_HKCat"
+	},
+	{
+		"abr": "housekeepercatmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_HousekeeperCat"
+	},
+	{
+		"abr": "housekeepercatwool",
+		"price": 12,
+		"category": "Textiles",
+		"defname": "Wool_HKCat"
 	}
 	],
-	"total": 1364
+	"total": 1368
 }
