@@ -2,7 +2,7 @@
 	"incitems" : [
 	{
 		"abr": "tornado",
-		"price": 1000,
+		"price": 800,
 		"karmatype": "Doom"
 	},
 	{
@@ -107,12 +107,7 @@
 	},
 	{
 		"abr": "animaltame",
-		"price": 150,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "wandererjoins",
-		"price": 1200,
+		"price": 500,
 		"karmatype": "Good"
 	},
 	{
@@ -122,7 +117,7 @@
 	},
 	{
 		"abr": "transportpodcrash",
-		"price": 1500,
+		"price": 600,
 		"karmatype": "Good"
 	},
 	{
@@ -147,7 +142,7 @@
 	},
 	{
 		"abr": "madanimal",
-		"price": 200,
+		"price": 400,
 		"karmatype": "Bad"
 	},
 	{
@@ -177,7 +172,7 @@
 	},
 	{
 		"abr": "wildman",
-		"price": 300,
+		"price": 1000,
 		"karmatype": "Good"
 	},
 	{
@@ -206,11 +201,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "party",
-		"price": 400,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "alphabeavers",
 		"price": 600,
 		"karmatype": "Bad"
@@ -226,11 +216,6 @@
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "militaryaid",
-		"price": 700,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "manhunterpack",
 		"price": 1500,
 		"karmatype": "Bad"
@@ -242,13 +227,13 @@
 	},
 	{
 		"abr": "randomdisease",
-		"price": 2500,
-		"karmatype": "Doom"
+		"price": 1000,
+		"karmatype": "Bad"
 	},
 	{
 		"abr": "disease",
-		"price": 3000,
-		"karmatype": "Doom"
+		"price": 1000,
+		"karmatype": "Bad"
 	},
 	{
 		"abr": "reviveanypawn",
@@ -282,7 +267,7 @@
 	},
 	{
 		"abr": "prisoner",
-		"price": 1500,
+		"price": 800,
 		"karmatype": "Good"
 	},
 	{
@@ -304,6 +289,21 @@
 		"abr": "hodlbotvote",
 		"price": 600,
 		"karmatype": "Neutral"
+	},
+	{
+		"abr": "reviveall",
+		"price": 5000,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "reviveme",
+		"price": 1500,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "healme",
+		"price": 2167,
+		"karmatype": "Good"
 	}
 	],
 	"total": 61
