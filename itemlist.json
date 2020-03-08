@@ -6697,12 +6697,6 @@
 		"defname": "CNBrainDamageRepairSystem"
 	},
 	{
-		"abr": "braincrystal",
-		"price": 33,
-		"category": "Drugs",
-		"defname": "RB_Braincrystal"
-	},
-	{
 		"abr": "bread",
 		"price": 25,
 		"category": "Simple Meals",
@@ -7430,7 +7424,7 @@
 	},
 	{
 		"abr": "chaosdreadnought",
-		"price": 2917,
+		"price": -10,
 		"category": "Animal",
 		"defname": "IG_CMDreadnoughtRace"
 	},
@@ -11330,7 +11324,7 @@
 	},
 	{
 		"abr": "forsaken",
-		"price": -10,
+		"price": 3167,
 		"category": "Animal",
 		"defname": "Alien_Forsaken"
 	},
@@ -14749,18 +14743,6 @@
 		"defname": "LuijaBoard"
 	},
 	{
-		"abr": "lunarmachiningtable",
-		"price": 758,
-		"category": "Production",
-		"defname": "RB_MoonTableMachining"
-	},
-	{
-		"abr": "lunartailoringbench",
-		"price": 517,
-		"category": "Production",
-		"defname": "RB_MoonTailoringBench"
-	},
-	{
 		"abr": "lvoa-c",
 		"price": 800,
 		"category": "AR style rifle",
@@ -16333,12 +16315,6 @@
 		"defname": "IG_Aug_MOOD"
 	},
 	{
-		"abr": "moonthread",
-		"price": 8,
-		"category": "Textiles",
-		"defname": "Moonthread"
-	},
-	{
 		"abr": "moose",
 		"price": -10,
 		"category": "Animal",
@@ -17677,12 +17653,6 @@
 		"defname": "VWE_Gun_PDW"
 	},
 	{
-		"abr": "pdwsubmachinegun",
-		"price": 458,
-		"category": "Ranged weapons",
-		"defname": "RB_F_PDW"
-	},
-	{
 		"abr": "peach",
 		"price": 2,
 		"category": "Fruits",
@@ -17951,18 +17921,6 @@
 		"price": 300,
 		"category": "Casual",
 		"defname": "RNApparel_Plaid_Tan"
-	},
-	{
-		"abr": "planetariumtea",
-		"price": 100,
-		"category": "Drugs",
-		"defname": "PlanetariumTea"
-	},
-	{
-		"abr": "planetariumwindfarm",
-		"price": 650,
-		"category": "Misc",
-		"defname": "Planetariumrefinery"
 	},
 	{
 		"abr": "plantgrowingwalllight",
@@ -18721,246 +18679,6 @@
 		"defname": "VAE_Apparel_QuiltedVest"
 	},
 	{
-		"abr": "rabbie",
-		"price": 3333,
-		"category": "Animal",
-		"defname": "Rabbie"
-	},
-	{
-		"abr": "rabbieapron",
-		"price": 209,
-		"category": "Rabbie Apparel",
-		"defname": "RB_Apron"
-	},
-	{
-		"abr": "rabbieberet",
-		"price": 113,
-		"category": "Rabbie Apparel",
-		"defname": "RB_Fashionhat"
-	},
-	{
-		"abr": "rabbieblazer",
-		"price": 330,
-		"category": "Rabbie Apparel",
-		"defname": "RB_Blazer"
-	},
-	{
-		"abr": "rabbiecamisole",
-		"price": 39,
-		"category": "Rabbie Apparel",
-		"defname": "RB_Camisole"
-	},
-	{
-		"abr": "rabbiecasualt-shirt",
-		"price": 286,
-		"category": "Rabbie Apparel",
-		"defname": "RB_CasualTshirt"
-	},
-	{
-		"abr": "rabbiechefapron",
-		"price": 750,
-		"category": "Rabbie Apparel",
-		"defname": "RB_Cookwear"
-	},
-	{
-		"abr": "rabbiechefhat",
-		"price": 206,
-		"category": "Rabbie Apparel",
-		"defname": "RB_Cookhat"
-	},
-	{
-		"abr": "rabbiedoctorcoat",
-		"price": 508,
-		"category": "Rabbie Apparel",
-		"defname": "RB_Inteligown"
-	},
-	{
-		"abr": "rabbieformalshirt",
-		"price": 625,
-		"category": "Rabbie Apparel",
-		"defname": "RB_Energymanager"
-	},
-	{
-		"abr": "rabbieglasses",
-		"price": 105,
-		"category": "Rabbie Apparel",
-		"defname": "RB_Glasses"
-	},
-	{
-		"abr": "rabbiehardhat",
-		"price": 152,
-		"category": "Rabbie Apparel",
-		"defname": "RB_Safehelmet"
-	},
-	{
-		"abr": "rabbiehood",
-		"price": 110,
-		"category": "Rabbie Apparel",
-		"defname": "RB_Winterhat"
-	},
-	{
-		"abr": "rabbiehoodie",
-		"price": 392,
-		"category": "Rabbie Apparel",
-		"defname": "RB_Earjacket"
-	},
-	{
-		"abr": "rabbieinfantryfatigues(cargo)",
-		"price": 1225,
-		"category": "Rabbie Apparel",
-		"defname": "RB_Infantryuniform"
-	},
-	{
-		"abr": "rabbieinfantryfatigues(tights)",
-		"price": 1225,
-		"category": "Rabbie Apparel",
-		"defname": "RB_Infantrynewuniform"
-	},
-	{
-		"abr": "rabbieinfantryhelmet",
-		"price": 583,
-		"category": "Rabbie Apparel",
-		"defname": "RB_Infantryhelmet"
-	},
-	{
-		"abr": "rabbieinfantryvest",
-		"price": 783,
-		"category": "Rabbie Apparel",
-		"defname": "RB_Infantryvest"
-	},
-	{
-		"abr": "rabbiejacket",
-		"price": 392,
-		"category": "Rabbie Apparel",
-		"defname": "RB_Starjacket"
-	},
-	{
-		"abr": "rabbiejumpsuit",
-		"price": 533,
-		"category": "Rabbie Apparel",
-		"defname": "RB_Technician"
-	},
-	{
-		"abr": "rabbielabcoat",
-		"price": 500,
-		"category": "Rabbie Apparel",
-		"defname": "RB_Energygown"
-	},
-	{
-		"abr": "rabbiemeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Rabbie"
-	},
-	{
-		"abr": "rabbiemetalpot",
-		"price": 62,
-		"category": "Rabbie Apparel",
-		"defname": "RB_Metalpot"
-	},
-	{
-		"abr": "rabbieofficerberet",
-		"price": 260,
-		"category": "Rabbie Apparel",
-		"defname": "RB_Subofficerhat"
-	},
-	{
-		"abr": "rabbieofficercap",
-		"price": 392,
-		"category": "Rabbie Apparel",
-		"defname": "RB_SeniorOfficerhat"
-	},
-	{
-		"abr": "rabbieofficercoat",
-		"price": 633,
-		"category": "Rabbie Apparel",
-		"defname": "RB_Subofficer"
-	},
-	{
-		"abr": "rabbieofficerjacket",
-		"price": 508,
-		"category": "Rabbie Apparel",
-		"defname": "RB_HighCloak"
-	},
-	{
-		"abr": "rabbieofficeruniform",
-		"price": 900,
-		"category": "Rabbie Apparel",
-		"defname": "RB_SeniorOfficer"
-	},
-	{
-		"abr": "rabbieoveralls",
-		"price": 533,
-		"category": "Rabbie Apparel",
-		"defname": "RB_Handygirl"
-	},
-	{
-		"abr": "rabbieparka",
-		"price": 425,
-		"category": "Rabbie Apparel",
-		"defname": "RB_Winterouter"
-	},
-	{
-		"abr": "rabbiepowerarmor",
-		"price": 4583,
-		"category": "Rabbie Apparel",
-		"defname": "RB_RegularInfantrySuit"
-	},
-	{
-		"abr": "rabbiepoweredhelmet",
-		"price": 1758,
-		"category": "Rabbie Apparel",
-		"defname": "RB_RegularInfantryhelmet"
-	},
-	{
-		"abr": "rabbieribbon(head)",
-		"price": 59,
-		"category": "Rabbie Apparel",
-		"defname": "RB_Headribbon"
-	},
-	{
-		"abr": "rabbieribbonedshirt",
-		"price": 342,
-		"category": "Rabbie Apparel",
-		"defname": "RB_Casualribbonshirt"
-	},
-	{
-		"abr": "rabbiescarf",
-		"price": 130,
-		"category": "Rabbie Apparel",
-		"defname": "RB_Neckscarf"
-	},
-	{
-		"abr": "rabbiesummercardigan",
-		"price": 683,
-		"category": "Rabbie Apparel",
-		"defname": "RB_Summerouter"
-	},
-	{
-		"abr": "rabbiesummerclothes",
-		"price": 342,
-		"category": "Rabbie Apparel",
-		"defname": "RB_Summerfit"
-	},
-	{
-		"abr": "rabbiesummerhat",
-		"price": 617,
-		"category": "Rabbie Apparel",
-		"defname": "RB_Summerhat"
-	},
-	{
-		"abr": "rabbiesweater",
-		"price": 375,
-		"category": "Rabbie Apparel",
-		"defname": "RB_Winterknit"
-	},
-	{
-		"abr": "rabbietieshirt",
-		"price": 342,
-		"category": "Rabbie Apparel",
-		"defname": "RB_Casualtieshirt"
-	},
-	{
 		"abr": "radiator",
 		"price": 85,
 		"category": "Hygiene",
@@ -19583,12 +19301,6 @@
 		"price": 33,
 		"category": "Imperial Manufactured Resources",
 		"defname": "IG_RefinedKalma"
-	},
-	{
-		"abr": "refinedplanetarium",
-		"price": 100,
-		"category": "Drugs",
-		"defname": "RefinedPlanetarium"
 	},
 	{
 		"abr": "reflactorcarapace",
@@ -20737,18 +20449,6 @@
 		"defname": "ShardSentry"
 	},
 	{
-		"abr": "shek",
-		"price": 1667,
-		"category": "Animal",
-		"defname": "Kenshi_Shek"
-	},
-	{
-		"abr": "shekmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Kenshi_Shek"
-	},
-	{
 		"abr": "shelf",
 		"price": 154,
 		"category": "Furniture",
@@ -21085,12 +20785,6 @@
 		"defname": "SITTSLABChair"
 	},
 	{
-		"abr": "skeleton",
-		"price": -10,
-		"category": "Animal",
-		"defname": "Kenshi_Skeleton"
-	},
-	{
 		"abr": "skeletonlichmeat",
 		"price": 3,
 		"category": "Meat",
@@ -21101,12 +20795,6 @@
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_TM_SkeletonR"
-	},
-	{
-		"abr": "skeletonmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Kenshi_Skeleton"
 	},
 	{
 		"abr": "skirt",
@@ -25051,28 +24739,10 @@
 		"defname": "AnimalMindImplant"
 	},
 	{
-		"abr": "acidgland",
-		"price": 833,
-		"category": "Natural",
-		"defname": "AcidGland"
-	},
-	{
 		"abr": "azerothianhuman",
 		"price": 3333,
 		"category": "Animal",
 		"defname": "WoW_Human"
-	},
-	{
-		"abr": "bioalchemybench",
-		"price": 1008,
-		"category": "Production",
-		"defname": "MutagensBenchManto"
-	},
-	{
-		"abr": "biologicalturret",
-		"price": 650,
-		"category": "Security",
-		"defname": "BioTurretGun"
 	},
 	{
 		"abr": "bloodelf",
@@ -25085,24 +24755,6 @@
 		"price": 7,
 		"category": "Leathers",
 		"defname": "Leather_WoWBloodElf"
-	},
-	{
-		"abr": "bluejelly",
-		"price": 83,
-		"category": "Drugs",
-		"defname": "BlueJelly"
-	},
-	{
-		"abr": "breathingsac",
-		"price": 667,
-		"category": "Natural",
-		"defname": "BreathingSac"
-	},
-	{
-		"abr": "chemicalrefinery",
-		"price": 1050,
-		"category": "Production",
-		"defname": "RefineryManto"
 	},
 	{
 		"abr": "darkirondwarf",
@@ -25160,7 +24812,7 @@
 	},
 	{
 		"abr": "forsaken",
-		"price": 3333,
+		"price": -10,
 		"category": "Animal",
 		"defname": "WoW_Forsaken"
 	},
@@ -25232,15 +24884,9 @@
 	},
 	{
 		"abr": "goblin",
-		"price": 3333,
+		"price": -10,
 		"category": "Animal",
 		"defname": "WoW_Goblin"
-	},
-	{
-		"abr": "groundnest",
-		"price": 7,
-		"category": "Misc",
-		"defname": "BedManto"
 	},
 	{
 		"abr": "highelf",
@@ -25259,18 +24905,6 @@
 		"price": 6667,
 		"category": "Animal",
 		"defname": "WoW_HighMountainTauren"
-	},
-	{
-		"abr": "hivedoor",
-		"price": 88,
-		"category": "Misc",
-		"defname": "MantoHiveDoor"
-	},
-	{
-		"abr": "hivewall",
-		"price": 18,
-		"category": "Misc",
-		"defname": "HiveWall"
 	},
 	{
 		"abr": "hordegladius",
@@ -25301,24 +24935,6 @@
 		"price": 833,
 		"category": "Melee weapons",
 		"defname": "WoWM_Horde_WarCleaver"
-	},
-	{
-		"abr": "insectjellymaker",
-		"price": 483,
-		"category": "Production",
-		"defname": "MantoJellyMaker"
-	},
-	{
-		"abr": "jellyseat",
-		"price": 86,
-		"category": "Furniture",
-		"defname": "StoolManto"
-	},
-	{
-		"abr": "jellytable(2x2)",
-		"price": 176,
-		"category": "Furniture",
-		"defname": "Table2x2cManto"
 	},
 	{
 		"abr": "kaldoreihalberd",
@@ -25352,13 +24968,13 @@
 	},
 	{
 		"abr": "kultiranhuman",
-		"price": 6667,
+		"price": -10,
 		"category": "Animal",
 		"defname": "WoW_KulTiranHuman"
 	},
 	{
 		"abr": "lightforgeddraenei",
-		"price": 6667,
+		"price": -10,
 		"category": "Animal",
 		"defname": "WoW_LightforgedDraenei"
 	},
@@ -25373,96 +24989,6 @@
 		"price": 7,
 		"category": "Leathers",
 		"defname": "Leather_WoWMagharOrc"
-	},
-	{
-		"abr": "mantodean",
-		"price": 833,
-		"category": "Animal",
-		"defname": "Alien_Mantodean"
-	},
-	{
-		"abr": "mantodeanacidlauncher",
-		"price": 270,
-		"category": "Ranged weapons",
-		"defname": "Gun_MantoLauncher"
-	},
-	{
-		"abr": "mantodeanashenmutagen",
-		"price": 1500,
-		"category": "Bionic",
-		"defname": "MutatedMarrowLight"
-	},
-	{
-		"abr": "mantodeanblackmutagen",
-		"price": 2500,
-		"category": "Bionic",
-		"defname": "MutatedEyeSet"
-	},
-	{
-		"abr": "mantodeanbluemutagen",
-		"price": 2167,
-		"category": "Bionic",
-		"defname": "MutatedPedipalp"
-	},
-	{
-		"abr": "mantodeanglowpod",
-		"price": 68,
-		"category": "Furniture",
-		"defname": "MantoGlowPod"
-	},
-	{
-		"abr": "mantodeangreenmutagen",
-		"price": 1500,
-		"category": "Bionic",
-		"defname": "MutatedPincer"
-	},
-	{
-		"abr": "mantodeangreymutagen",
-		"price": 1833,
-		"category": "Bionic",
-		"defname": "MutatedMarrowHeavy"
-	},
-	{
-		"abr": "mantodeanhide",
-		"price": 4,
-		"category": "Leathers",
-		"defname": "Leather_Manto"
-	},
-	{
-		"abr": "mantodeanmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Alien_Mantodean"
-	},
-	{
-		"abr": "mantodeanorangemutagen",
-		"price": 2500,
-		"category": "Bionic",
-		"defname": "MutatedBreathingSac"
-	},
-	{
-		"abr": "mantodeanpurplemutagen",
-		"price": 1500,
-		"category": "Bionic",
-		"defname": "MutatedMantoLeg"
-	},
-	{
-		"abr": "mantodeanredmutagen",
-		"price": 1833,
-		"category": "Bionic",
-		"defname": "MutatedCombatPincer"
-	},
-	{
-		"abr": "mantodeanwhitemutagen",
-		"price": 2500,
-		"category": "Bionic",
-		"defname": "MutatedAcidGland"
-	},
-	{
-		"abr": "matingnest",
-		"price": 276,
-		"category": "Furniture",
-		"defname": "MatingNestManto"
 	},
 	{
 		"abr": "nightelf",
@@ -25499,18 +25025,6 @@
 		"price": 7,
 		"category": "Leathers",
 		"defname": "Leather_WoWOrc"
-	},
-	{
-		"abr": "poisontrap",
-		"price": 111,
-		"category": "Security",
-		"defname": "TrapManto_Poison"
-	},
-	{
-		"abr": "prostheticmantodeanleg",
-		"price": 167,
-		"category": "Bionic",
-		"defname": "ProstheticMantoLeg"
 	},
 	{
 		"abr": "silvercovenantdagger",
@@ -25682,7 +25196,7 @@
 	},
 	{
 		"abr": "vulpera",
-		"price": 6667,
+		"price": -10,
 		"category": "Animal",
 		"defname": "WoW_Vulpera"
 	},
@@ -25706,7 +25220,7 @@
 	},
 	{
 		"abr": "nanotechbed",
-		"price": -10,
+		"price": 583,
 		"category": "Furniture",
 		"defname": "RGK_bedSingleB_NanoBed"
 	},
@@ -25781,7 +25295,31 @@
 		"price": 700,
 		"category": "Furniture",
 		"defname": "SNOREGGSingle_NanoBed"
+	},
+	{
+		"abr": "housekeepercat",
+		"price": -10,
+		"category": "Animal",
+		"defname": "HousekeeperCat"
+	},
+	{
+		"abr": "housekeepercatfur",
+		"price": 23,
+		"category": "Leathers",
+		"defname": "Leather_HKCat"
+	},
+	{
+		"abr": "housekeepercatmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_HousekeeperCat"
+	},
+	{
+		"abr": "housekeepercatwool",
+		"price": 12,
+		"category": "Textiles",
+		"defname": "Wool_HKCat"
 	}
 	],
-	"total": 4297
+	"total": 4315
 }
