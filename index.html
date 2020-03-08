@@ -308,6 +308,21 @@
 			
 			traitList = new List('traits', options, traitData);
 		});		
+		
+		let raceList = null;
+		$.getJSON(raceListURL, function(data) {
+			var options = {
+				valueNames: ['abr', 'price'],
+				item: '<tr><td class="abr" scope="row"></td><td class="price"></td></tr>'
+			};
+			
+			var raceData = [];
+			$.each(data.traits, function(index,value) {
+				careData.push(value);
+			});		
+			
+			raceList = new List('races', options, raceData);
+		});
 
         $("#item-price-min").keyup(function() {
             updateItemFilter();
