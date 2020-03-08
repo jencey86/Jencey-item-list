@@ -15,6 +15,7 @@
         const itemListURL = "https://raw.githubusercontent.com/jencey86/Jencey-item-list/master/itemlist.json";
         const eventListURL = "https://raw.githubusercontent.com/jencey86/Jencey-item-list/master/eventlist.json";
 		const traitListURL = "https://raw.githubusercontent.com/jencey86/Jencey-item-list/master/traitlist.json";
+		const raceListURL = "https://raw.githubusercontent.com/jencey86/Jencey-item-list/master/racelist.json";
     </script>
 </head>
 
@@ -53,17 +54,8 @@
                     <li class="list-group-item">!joinqueue - join the viewer name queue</li>
                     <li class="list-group-item">!mypawnstory - view information about your pawn's backstory</li>
                     <li class="list-group-item">!mypawnskills - view information about your pawn's skills</li>
-		    <li class="list-group-item">!mypawngear - view information about your pawn's clothing</li>
-		    <li class="list-group-item">!mypawnhealth - view information about your pawn's health</li>
-		    <li class="list-group-item">!mypawnwork - Shows your pawn's current work priorities</li>	
-		    <li class="list-group-item">!mypawnbody - Shows your pawn's overview </li>
-		    <li class="list-group-item">!mypawnneeds - Shows your pawn's current needs</li>
-		    <li class="list-group-item">!fixmypawn - Attempts to relink your pawn if you're disconnected </li>
-		    <li class="list-group-item">!buy reviveme - revives your pawn </li>
-		    <li class="list-group-item">!buy healme - buys a healer mech serum for yourself </li>
-		    <li class="list-group-item">!research {name} - Shows the current research progress for the specified project. If the research has missing prereqs, they will be appended to the response</li>
-		    <li class="list-group-item">!factions - Shows the colony's current faction relations</li>
-		    <li class="list-group-item">!buy reviveall - revives all pawns at once</li>
+					<li class="list-group-item">!mypawngear - view information about your pawn's clothing</li>
+					<li class="list-group-item">!mypawnhealth - view information about your pawn's health</li>
                 </ul>
             </div>
         </div>
@@ -80,9 +72,12 @@
                                     <button class="btn btn-success" ng-class="{'active': (selected == '2')}" ng-click='selected=2'>
                                         Events
                                     </button>
-				    <!--button class="btn btn-success" ng-class="{'active': (selected == '3')}" ng-click='selected=3'>
-					Traits
-				    </button-->	
+									<button class="btn btn-success" ng-class="{'active': (selected == '3')}" ng-click='selected=3'>
+										Traits
+									</button>	
+									<button class="btn btn-success" ng-class="{'active': (selected == '4')}" ng-click='selected=4'>
+										Races
+									</button>
                                 </div>
                                 <div class="form-group row">
                                     <label class="col-sm-2 col-form-label" for="">Price Between:</label>
@@ -162,7 +157,7 @@
 					<div class="col-md-12">
 						<div id="traits">
 							<div class="input-group input-group-sm mb-3">
-								<div class = input-group-prepend">
+								<div class = "input-group-prepend">
 									<span class="input-group-text" id="inputGroup-sizing-sm"> Search</span>
 								</div>
 								<input type="text" class="form-control search" aria-label="Search" aria-describedby="inputGroup-sizing-sm">
@@ -179,7 +174,27 @@
 							</table>
 						</div>
 					</div>
-				</div>		
+				</div>
+				<div class="row" ng-show='selected == 4'>
+					<div class="col-md-12">
+						<div id="races">
+							<div class="input-group input-group-sm mb-3">
+								<div class = "input-group-prepend">
+									<span class="input-group-text" id-"inputGroup-sizing-sm"> Search</span>
+								</div>
+								<input type="text" class="form-control search" aria-label"Search" aria-describedby="inputGroup-sizing-sm">
+							</div>
+							<table class="table races">
+								<tr>
+									<th scope="col">Race</th>
+									<th scope="col">Price</th>
+								</tr>
+								<tbody class="list">
+								</tbody>
+							</table>
+						</div>
+					</div>
+				</div>	
             </div>
         </div>
         <div class="container">
