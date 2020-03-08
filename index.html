@@ -294,6 +294,7 @@
 
             eventList = new List('events', options, eventData);
         });
+		
 		let traitList = null;
 		$.getJSON(traitListURL, function(data) {
 			var options = {
@@ -317,11 +318,11 @@
 			};
 			
 			var raceData = [];
-			$.each(data.races, function(index,value) {
+			$.each(data.race, function(index,value); {
 				raceData.push(value);
 			});		
 			
-			raceList = new List('races', options, raceData);
+			raceList = new List('race', options, raceData);
 		});
 
         $("#item-price-min").keyup(function() {
