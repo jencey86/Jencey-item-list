@@ -2,13 +2,13 @@
 	"incitems" : [
 	{
 		"abr": "tornado",
-		"price": 800,
-		"karmatype": "Doom"
+		"price": 1500,
+		"karmatype": "Bad"
 	},
 	{
 		"abr": "tornados",
-		"price": 2600,
-		"karmatype": "Doom"
+		"price": 3000,
+		"karmatype": "Bad"
 	},
 	{
 		"abr": "clearweather",
@@ -107,7 +107,7 @@
 	},
 	{
 		"abr": "animaltame",
-		"price": 500,
+		"price": 150,
 		"karmatype": "Good"
 	},
 	{
@@ -137,12 +137,12 @@
 	},
 	{
 		"abr": "maninblack",
-		"price": 1500,
+		"price": 1400,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "madanimal",
-		"price": 400,
+		"price": 200,
 		"karmatype": "Bad"
 	},
 	{
@@ -172,7 +172,7 @@
 	},
 	{
 		"abr": "wildman",
-		"price": 1000,
+		"price": 300,
 		"karmatype": "Good"
 	},
 	{
@@ -216,9 +216,34 @@
 		"karmatype": "Bad"
 	},
 	{
+		"abr": "raid",
+		"price": 1500,
+		"karmatype": "Doom"
+	},
+	{
+		"abr": "dropraid",
+		"price": 1500,
+		"karmatype": "Doom"
+	},
+	{
+		"abr": "sapperraid",
+		"price": 1500,
+		"karmatype": "Doom"
+	},
+	{
+		"abr": "siegeraid",
+		"price": 2500,
+		"karmatype": "Doom"
+	},
+	{
+		"abr": "mechanoidraid",
+		"price": 2500,
+		"karmatype": "Doom"
+	},
+	{
 		"abr": "manhunterpack",
 		"price": 1500,
-		"karmatype": "Bad"
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "predators",
@@ -228,7 +253,7 @@
 	{
 		"abr": "randomdisease",
 		"price": 1000,
-		"karmatype": "Bad"
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "disease",
@@ -292,12 +317,12 @@
 	},
 	{
 		"abr": "reviveall",
-		"price": 5000,
+		"price": 8000,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "reviveme",
-		"price": 1500,
+		"price": 2833,
 		"karmatype": "Good"
 	},
 	{
@@ -306,5 +331,5 @@
 		"karmatype": "Good"
 	}
 	],
-	"total": 61
+	"total": 66
 }
