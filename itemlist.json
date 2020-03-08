@@ -10490,7 +10490,7 @@
 	},
 	{
 		"abr": "fertilizedtopsoil",
-		"price": 12,
+		"price": -10,
 		"category": "Misc",
 		"defname": "Terraform_Topsoil-DirtFert"
 	},
@@ -15482,37 +15482,37 @@
 	},
 	{
 		"abr": "marshfrommarshysoil",
-		"price": 8,
+		"price": -10,
 		"category": "Misc",
 		"defname": "Terraform_SoilMarshy-Marsh"
 	},
 	{
 		"abr": "marshfromshallowwater",
-		"price": 24,
+		"price": -10,
 		"category": "Misc",
 		"defname": "Terraform_WaterShallow-Marsh"
 	},
 	{
 		"abr": "marshfromsoil",
-		"price": 8,
+		"price": -10,
 		"category": "Misc",
 		"defname": "Terraform_SoilF-Marsh"
 	},
 	{
 		"abr": "marshysoilfrommarsh",
-		"price": 9,
+		"price": -10,
 		"category": "Misc",
 		"defname": "Terraform_Marsh-SoilMarshy"
 	},
 	{
 		"abr": "marshysoilfrommud",
-		"price": 3,
+		"price": -10,
 		"category": "Misc",
 		"defname": "Terraform_Mud-SoilMarshy"
 	},
 	{
 		"abr": "marshysoilfromsoil",
-		"price": 4,
+		"price": -10,
 		"category": "Misc",
 		"defname": "Terraform_SoilF-SoilMarshy"
 	},
@@ -16478,13 +16478,13 @@
 	},
 	{
 		"abr": "mudfrommarshysoil",
-		"price": 6,
+		"price": -10,
 		"category": "Misc",
 		"defname": "Terraform_SoilMarshy-Mud"
 	},
 	{
 		"abr": "mudfromsoil",
-		"price": 3,
+		"price": -10,
 		"category": "Misc",
 		"defname": "Terraform_SoilF-Mud"
 	},
@@ -17534,7 +17534,7 @@
 	},
 	{
 		"abr": "packeddirtfromsoil",
-		"price": 4,
+		"price": -10,
 		"category": "Misc",
 		"defname": "Terraform_SoilF-PackedDirt"
 	},
@@ -18086,7 +18086,7 @@
 	},
 	{
 		"abr": "plowedsoil",
-		"price": 13,
+		"price": -10,
 		"category": "Misc",
 		"defname": "Terraform_SoilRich-SoilTilled"
 	},
@@ -18656,13 +18656,13 @@
 	},
 	{
 		"abr": "quarry",
-		"price": -10,
+		"price": 617,
 		"category": "Misc",
 		"defname": "QRY_Quarry"
 	},
 	{
 		"abr": "quarryplatform",
-		"price": -10,
+		"price": 168,
 		"category": "Misc",
 		"defname": "QRY_Platform"
 	},
@@ -21194,193 +21194,193 @@
 	},
 	{
 		"abr": "smoothedandesite",
-		"price": -10,
+		"price": 33,
 		"category": "Misc",
 		"defname": "SmoothedAndesite"
 	},
 	{
 		"abr": "smoothedanorthosite",
-		"price": -10,
+		"price": 33,
 		"category": "Misc",
 		"defname": "SmoothedAnorthosite"
 	},
 	{
 		"abr": "smoothedbasalt",
-		"price": -10,
+		"price": 37,
 		"category": "Misc",
 		"defname": "SmoothedBasalt"
 	},
 	{
 		"abr": "smoothedblueschist",
-		"price": -10,
+		"price": 33,
 		"category": "Misc",
 		"defname": "SmoothedBlueschist"
 	},
 	{
 		"abr": "smoothedchalk",
-		"price": -10,
+		"price": 38,
 		"category": "Misc",
 		"defname": "SmoothedChalk"
 	},
 	{
 		"abr": "smoothedcharnockite",
-		"price": -10,
+		"price": 30,
 		"category": "Misc",
 		"defname": "SmoothedCharnockite"
 	},
 	{
 		"abr": "smoothedcopper",
-		"price": -10,
+		"price": 20,
 		"category": "Misc",
 		"defname": "Ind_SmoothedMineableCopper"
 	},
 	{
 		"abr": "smoothedcreolemarble",
-		"price": -10,
+		"price": 42,
 		"category": "Misc",
 		"defname": "SmoothedCreoleMarble"
 	},
 	{
 		"abr": "smootheddacite",
-		"price": -10,
+		"price": 33,
 		"category": "Misc",
 		"defname": "SmoothedDacite"
 	},
 	{
 		"abr": "smootheddunite",
-		"price": -10,
+		"price": 32,
 		"category": "Misc",
 		"defname": "SmoothedDunite"
 	},
 	{
 		"abr": "smoothedemperadordark",
-		"price": -10,
+		"price": 42,
 		"category": "Misc",
 		"defname": "SmoothedEmperadordark"
 	},
 	{
 		"abr": "smoothedetowahmarble",
-		"price": -10,
+		"price": 42,
 		"category": "Misc",
 		"defname": "SmoothedEtowahMarble"
 	},
 	{
 		"abr": "smoothedgabbro",
-		"price": -10,
+		"price": 30,
 		"category": "Misc",
 		"defname": "SmoothedGabbro"
 	},
 	{
 		"abr": "smoothedgranite",
-		"price": -10,
+		"price": 33,
 		"category": "Misc",
 		"defname": "SmoothedGranite"
 	},
 	{
 		"abr": "smoothedgreenschist",
-		"price": -10,
+		"price": 33,
 		"category": "Misc",
 		"defname": "SmoothedGreenSchist"
 	},
 	{
 		"abr": "smoothedjaspillite",
-		"price": -10,
+		"price": 40,
 		"category": "Misc",
 		"defname": "SmoothedJaspillite"
 	},
 	{
 		"abr": "smoothedlepidolite",
-		"price": -10,
+		"price": 45,
 		"category": "Misc",
 		"defname": "SmoothedLepidolite"
 	},
 	{
 		"abr": "smoothedlherzolite",
-		"price": -10,
+		"price": 40,
 		"category": "Misc",
 		"defname": "SmoothedLherzolite"
 	},
 	{
 		"abr": "smoothedlignite",
-		"price": -10,
+		"price": 28,
 		"category": "Misc",
 		"defname": "SmoothedLignite"
 	},
 	{
 		"abr": "smoothedlimestone",
-		"price": -10,
+		"price": 33,
 		"category": "Misc",
 		"defname": "SmoothedLimestone"
 	},
 	{
 		"abr": "smoothedmarble",
-		"price": -10,
+		"price": 42,
 		"category": "Misc",
 		"defname": "SmoothedMarble"
 	},
 	{
 		"abr": "smoothedmigmatite",
-		"price": -10,
+		"price": 35,
 		"category": "Misc",
 		"defname": "SmoothedMigmatite"
 	},
 	{
 		"abr": "smoothedmonzonite",
-		"price": -10,
+		"price": 28,
 		"category": "Misc",
 		"defname": "SmoothedMonzonite"
 	},
 	{
 		"abr": "smoothedobsidian",
-		"price": -10,
+		"price": 40,
 		"category": "Misc",
 		"defname": "SmoothedObsidian"
 	},
 	{
 		"abr": "smoothedrhyolite",
-		"price": -10,
+		"price": 33,
 		"category": "Misc",
 		"defname": "SmoothedRhyolite"
 	},
 	{
 		"abr": "smoothedsandstone",
-		"price": -10,
+		"price": 30,
 		"category": "Misc",
 		"defname": "SmoothedSandstone"
 	},
 	{
 		"abr": "smoothedscoria",
-		"price": -10,
+		"price": 30,
 		"category": "Misc",
 		"defname": "SmoothedScoria"
 	},
 	{
 		"abr": "smoothedserpentinite",
-		"price": -10,
+		"price": 33,
 		"category": "Misc",
 		"defname": "SmoothedSerpentinite"
 	},
 	{
 		"abr": "smoothedsiltstone",
-		"price": -10,
+		"price": 30,
 		"category": "Misc",
 		"defname": "SmoothedSiltstone"
 	},
 	{
 		"abr": "smoothedslate",
-		"price": -10,
+		"price": 33,
 		"category": "Misc",
 		"defname": "SmoothedSlate"
 	},
 	{
 		"abr": "smoothedsovite",
-		"price": -10,
+		"price": 28,
 		"category": "Misc",
 		"defname": "SmoothedSovite"
 	},
 	{
 		"abr": "smoothedthometzekite",
-		"price": -10,
+		"price": 45,
 		"category": "Misc",
 		"defname": "SmoothedThometzekite"
 	},
@@ -23894,7 +23894,7 @@
 	},
 	{
 		"abr": "ventwall",
-		"price": -10,
+		"price": 18,
 		"category": "Misc",
 		"defname": "RGK_VentWall"
 	},
@@ -24074,7 +24074,7 @@
 	},
 	{
 		"abr": "walllight",
-		"price": -10,
+		"price": 550,
 		"category": "Misc",
 		"defname": "WallLight_White"
 	},
@@ -25213,6 +25213,264 @@
 		"defname": "WoW_ZandalariTroll"
 	},
 	{
+		"abr": "housekeepercat",
+		"price": -10,
+		"category": "Animal",
+		"defname": "HousekeeperCat"
+	},
+	{
+		"abr": "housekeepercatfur",
+		"price": 23,
+		"category": "Leathers",
+		"defname": "Leather_HKCat"
+	},
+	{
+		"abr": "housekeepercatmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_HousekeeperCat"
+	},
+	{
+		"abr": "housekeepercatwool",
+		"price": 12,
+		"category": "Textiles",
+		"defname": "Wool_HKCat"
+	},
+	{
+		"abr": "auxilaryheart",
+		"price": 4667,
+		"category": "Evolved body parts",
+		"defname": "EVOR_Item_Abd_SecondHeart"
+	},
+	{
+		"abr": "butcher'snails",
+		"price": 4667,
+		"category": "Evolved body parts",
+		"defname": "EVOR_Item_Brain_Nails"
+	},
+	{
+		"abr": "calcium-alloyribcage",
+		"price": 4667,
+		"category": "Evolved body parts",
+		"defname": "EVOR_Item_Ribcage"
+	},
+	{
+		"abr": "combatserumgland",
+		"price": 4667,
+		"category": "Evolved body parts",
+		"defname": "EVOR_Item_Abd_Combat"
+	},
+	{
+		"abr": "cranialplating",
+		"price": 4667,
+		"category": "Evolved body parts",
+		"defname": "EVOR_Item_Skull_Plating"
+	},
+	{
+		"abr": "distendablejaw",
+		"price": 4667,
+		"category": "Evolved body parts",
+		"defname": "EVOR_Item_Jaw_Distend"
+	},
+	{
+		"abr": "efficientcopulationextremity",
+		"price": 4667,
+		"category": "Evolved body parts",
+		"defname": "EVOR_Item_ReproductiveOrgans"
+	},
+	{
+		"abr": "extranano-filterlung",
+		"price": 4667,
+		"category": "Evolved body parts",
+		"defname": "EVOR_Item_Abd_ThirdLung"
+	},
+	{
+		"abr": "extradextrousarm",
+		"price": 4667,
+		"category": "Evolved body parts",
+		"defname": "EVOR_Item_NormalArm"
+	},
+	{
+		"abr": "featheredwings",
+		"price": 4667,
+		"category": "Evolved body parts",
+		"defname": "EVOR_Item_Back_Wing"
+	},
+	{
+		"abr": "flameretardantskin",
+		"price": 4667,
+		"category": "Evolved body parts",
+		"defname": "EVOR_Item_Skin_Flame"
+	},
+	{
+		"abr": "graspingleg",
+		"price": 4667,
+		"category": "Evolved body parts",
+		"defname": "EVOR_Item_Leg_Hand"
+	},
+	{
+		"abr": "highpressurepincer",
+		"price": 4667,
+		"category": "Evolved body parts",
+		"defname": "EVOR_Item_HighPincer"
+	},
+	{
+		"abr": "hormoneregulator",
+		"price": 4667,
+		"category": "Evolved body parts",
+		"defname": "EVOR_Item_Abd_Hormone"
+	},
+	{
+		"abr": "interferenceshielding",
+		"price": 4667,
+		"category": "Evolved body parts",
+		"defname": "EVOR_Item_Skull_Shielding"
+	},
+	{
+		"abr": "lymphaticproliferator",
+		"price": 4667,
+		"category": "Evolved body parts",
+		"defname": "EVOR_Item_Abd_Lymph"
+	},
+	{
+		"abr": "manipulatortail",
+		"price": 4667,
+		"category": "Evolved body parts",
+		"defname": "EVOR_Item_Tail_Hand"
+	},
+	{
+		"abr": "micro-analyzernose",
+		"price": 4667,
+		"category": "Evolved body parts",
+		"defname": "EVOR_Item_Nose"
+	},
+	{
+		"abr": "multichamberstomach",
+		"price": 4667,
+		"category": "Evolved body parts",
+		"defname": "EVOR_Item_Stomach"
+	},
+	{
+		"abr": "multifrequencyear",
+		"price": 4667,
+		"category": "Evolved body parts",
+		"defname": "EVOR_Item_Ear"
+	},
+	{
+		"abr": "multilayereddermalplating",
+		"price": 4667,
+		"category": "Evolved body parts",
+		"defname": "EVOR_Item_Skin_Plating"
+	},
+	{
+		"abr": "multispectrumeye",
+		"price": 4667,
+		"category": "Evolved body parts",
+		"defname": "EVOR_Item_Eye"
+	},
+	{
+		"abr": "musculaturebraces",
+		"price": 4667,
+		"category": "Evolved body parts",
+		"defname": "EVOR_Item_Back_Muscle"
+	},
+	{
+		"abr": "nano-alveolilung",
+		"price": 4667,
+		"category": "Evolved body parts",
+		"defname": "EVOR_Item_Lung"
+	},
+	{
+		"abr": "neuralhyperthreader",
+		"price": 4667,
+		"category": "Evolved body parts",
+		"defname": "EVOR_Item_Brain_Hyper"
+	},
+	{
+		"abr": "neuro-acceleratedspine",
+		"price": 4667,
+		"category": "Evolved body parts",
+		"defname": "EVOR_Item_Spine"
+	},
+	{
+		"abr": "ossifiedbonesaber",
+		"price": 4667,
+		"category": "Evolved body parts",
+		"defname": "EVOR_Item_BoneSaber"
+	},
+	{
+		"abr": "pheromonereleasernose",
+		"price": 4667,
+		"category": "Evolved body parts",
+		"defname": "EVOR_Item_Nose_Pheromones"
+	},
+	{
+		"abr": "quadlobeliver",
+		"price": 4667,
+		"category": "Evolved body parts",
+		"defname": "EVOR_Item_Liver"
+	},
+	{
+		"abr": "reinforcedleg",
+		"price": 4667,
+		"category": "Evolved body parts",
+		"defname": "EVOR_Item_Leg_Normal"
+	},
+	{
+		"abr": "rendingclaws",
+		"price": 4667,
+		"category": "Evolved body parts",
+		"defname": "EVOR_Item_RendingClaw"
+	},
+	{
+		"abr": "serratedstingertail",
+		"price": 4667,
+		"category": "Evolved body parts",
+		"defname": "EVOR_Item_Tail_Blade"
+	},
+	{
+		"abr": "sonicimpactmace",
+		"price": 4667,
+		"category": "Evolved body parts",
+		"defname": "EVOR_Item_SonicMace"
+	},
+	{
+		"abr": "tentaclecluster",
+		"price": 4667,
+		"category": "Evolved body parts",
+		"defname": "EVOR_Item_Back_Hand"
+	},
+	{
+		"abr": "tri-platedlimb",
+		"price": 4667,
+		"category": "Evolved body parts",
+		"defname": "EVOR_Item_PlatedLimb"
+	},
+	{
+		"abr": "triplefilterpasskidney",
+		"price": 4667,
+		"category": "Evolved body parts",
+		"defname": "EVOR_Item_Kidney"
+	},
+	{
+		"abr": "triwovenprimaryheart",
+		"price": 4667,
+		"category": "Evolved body parts",
+		"defname": "EVOR_Item_Heart"
+	},
+	{
+		"abr": "variableinsulationskin",
+		"price": 4667,
+		"category": "Evolved body parts",
+		"defname": "EVOR_Item_Skin_Insulation"
+	},
+	{
+		"abr": "venomousfangs",
+		"price": 4667,
+		"category": "Evolved body parts",
+		"defname": "EVOR_Item_Jaw_Venom"
+	},
+	{
 		"abr": "nanotechbed",
 		"price": 583,
 		"category": "Furniture",
@@ -25295,31 +25553,7 @@
 		"price": 700,
 		"category": "Furniture",
 		"defname": "SNOREGGSingle_NanoBed"
-	},
-	{
-		"abr": "housekeepercat",
-		"price": -10,
-		"category": "Animal",
-		"defname": "HousekeeperCat"
-	},
-	{
-		"abr": "housekeepercatfur",
-		"price": 23,
-		"category": "Leathers",
-		"defname": "Leather_HKCat"
-	},
-	{
-		"abr": "housekeepercatmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_HousekeeperCat"
-	},
-	{
-		"abr": "housekeepercatwool",
-		"price": 12,
-		"category": "Textiles",
-		"defname": "Wool_HKCat"
 	}
 	],
-	"total": 4315
+	"total": 4368
 }
