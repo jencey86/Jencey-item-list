@@ -1,6 +1,5 @@
 Azerotian Human
 Blood Elf
-Chaos Space Marine
 DarkIron Dwarf
 Draenei
 Ferian
@@ -11,10 +10,7 @@ Ghoul
 Glowing One
 Gnome
 High Elf
-HighMountain Tauren
 Human
-Kul Tiran Human
-Lightforged Draenei
 Mag'har Orc
 Night Elf
 Nightborne
@@ -25,6 +21,5 @@ Tauren
 Thrumboian
 Trenchcat
 Void Elf
-Vulpera
 Worgen
 Zandalari Troll
