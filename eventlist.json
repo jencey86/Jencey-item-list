@@ -257,7 +257,7 @@
 	},
 	{
 		"abr": "pawn",
-		"price": 1,
+		"price": 4000,
 		"karmatype": "Good"
 	},
 	{
@@ -267,12 +267,12 @@
 	},
 	{
 		"abr": "trait",
-		"price": 1,
+		"price": 2500,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "removetrait",
-		"price": 1,
+		"price": 3000,
 		"karmatype": "Good"
 	},
 	{
