@@ -252,8 +252,8 @@
 	},
 	{
 		"abr": "pawn",
-		"price": 1,
-		"karmatype": "Good"
+		"price": 4000,
+		"karmatype": "Neutral"
 	},
 	{
 		"abr": "levelskill",
@@ -262,13 +262,13 @@
 	},
 	{
 		"abr": "trait",
-		"price": 1,
-		"karmatype": "Good"
+		"price": 2500,
+		"karmatype": "Neutral"
 	},
 	{
 		"abr": "removetrait",
-		"price": 1,
-		"karmatype": "Good"
+		"price": 3000,
+		"karmatype": "Neutral"
 	},
 	{
 		"abr": "genderswap",
