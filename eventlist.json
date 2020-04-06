@@ -161,11 +161,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "wildman",
-		"price": 300,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "rarethrumbos",
 		"price": 500,
 		"karmatype": "Good"
@@ -257,7 +252,7 @@
 	},
 	{
 		"abr": "pawn",
-		"price": 4000,
+		"price": 1,
 		"karmatype": "Good"
 	},
 	{
@@ -267,12 +262,12 @@
 	},
 	{
 		"abr": "trait",
-		"price": 2500,
+		"price": 1,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "removetrait",
-		"price": 3000,
+		"price": 1,
 		"karmatype": "Good"
 	},
 	{
@@ -331,5 +326,5 @@
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 66
+	"total": 65
 }
