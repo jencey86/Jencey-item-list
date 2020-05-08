@@ -3607,12 +3607,6 @@
 		"defname": "MSE_AdvancedFarmerAI"
 	},
 	{
-		"abr": "advancedgeothermalgenerator",
-		"price": 3333,
-		"category": "Furniture",
-		"defname": "sd_adv_powergen_adv_geothermal_generator"
-	},
-	{
 		"abr": "advancedgeothermalgenerator[glow]",
 		"price": 7925,
 		"category": "Misc",
@@ -3685,12 +3679,6 @@
 		"defname": "MSE_AdvancedMuscleStimulator"
 	},
 	{
-		"abr": "advancednuclearpowerplant",
-		"price": 8900,
-		"category": "Furniture",
-		"defname": "sd_adv_powergen_nuclear_power_plant"
-	},
-	{
 		"abr": "advancedpainstopper",
 		"price": 2167,
 		"category": "Implants",
@@ -3739,12 +3727,6 @@
 		"defname": "AdvancedRelaxationRib"
 	},
 	{
-		"abr": "advancedsolargenerator",
-		"price": 908,
-		"category": "Furniture",
-		"defname": "sd_adv_powergen_adv_solar_generator"
-	},
-	{
 		"abr": "advancedsolarpanel[glow]",
 		"price": 2100,
 		"category": "Misc",
@@ -3767,12 +3749,6 @@
 		"price": -10,
 		"category": "Apparel",
 		"defname": "VAE_Apparel_AdvancedVest"
-	},
-	{
-		"abr": "advancedwindturbine",
-		"price": 808,
-		"category": "Furniture",
-		"defname": "sd_adv_powergen_adv_wind_turbine"
 	},
 	{
 		"abr": "advancedwindturbine[glow]",
@@ -4149,7 +4125,7 @@
 	{
 		"abr": "antibiotics",
 		"price": 30,
-		"category": "Medicine",
+		"category": "Drugs",
 		"defname": "VG_antibiotics"
 	},
 	{
@@ -4169,12 +4145,6 @@
 		"price": 1667,
 		"category": "Bionic",
 		"defname": "AntitoxinKidney"
-	},
-	{
-		"abr": "anvilandforge",
-		"price": 608,
-		"category": "Production",
-		"defname": "RH_TET_TableSmithy"
 	},
 	{
 		"abr": "aoceilingsunlamp",
@@ -5101,12 +5071,6 @@
 		"defname": "RNGun_AW50Sn"
 	},
 	{
-		"abr": "axeofkhorne",
-		"price": -10,
-		"category": "Magic weapons",
-		"defname": "RH_TET_MeleeWeapon_KhorneAxe"
-	},
-	{
 		"abr": "backpackcivilian",
 		"price": -10,
 		"category": "Accessories",
@@ -5401,66 +5365,6 @@
 		"defname": "BasicArchotechWorkbench"
 	},
 	{
-		"abr": "basicdwarvenchainmail",
-		"price": -10,
-		"category": "Dwarven apparel",
-		"defname": "RH_TET_Dwarf_Armor_Low"
-	},
-	{
-		"abr": "basicdwarvendoor",
-		"price": -10,
-		"category": "Misc",
-		"defname": "RH_TET_Dwarf_BasicDoor"
-	},
-	{
-		"abr": "basicdwarvendouble-headedaxe",
-		"price": -10,
-		"category": "Melee weapons",
-		"defname": "RH_TET_Dwarf_GreatAxe_Low"
-	},
-	{
-		"abr": "basicdwarvendouble-headedpickaxe",
-		"price": -10,
-		"category": "Melee weapons",
-		"defname": "RH_TET_Dwarf_PickAxe_Low"
-	},
-	{
-		"abr": "basicdwarvengreathammer",
-		"price": -10,
-		"category": "Melee weapons",
-		"defname": "RH_TET_Dwarf_GreatHammer_Low"
-	},
-	{
-		"abr": "basicdwarvenhandaxe",
-		"price": -10,
-		"category": "Melee weapons",
-		"defname": "RH_TET_Dwarf_HandAxe_Low"
-	},
-	{
-		"abr": "basicdwarvenhandhammer",
-		"price": -10,
-		"category": "Melee weapons",
-		"defname": "RH_TET_Dwarf_HandHammer_Low"
-	},
-	{
-		"abr": "basicdwarvenhelmet",
-		"price": -10,
-		"category": "Headgear",
-		"defname": "RH_TET_Dwarf_Helmet_Low"
-	},
-	{
-		"abr": "basicdwarvenshirt",
-		"price": -10,
-		"category": "Dwarven apparel",
-		"defname": "RH_TET_Dwarf_Shirt_Low"
-	},
-	{
-		"abr": "basichelmet",
-		"price": -10,
-		"category": "Headgear",
-		"defname": "RH_TET_Helmet_Low"
-	},
-	{
 		"abr": "basiclaborai",
 		"price": 2000,
 		"category": "Implants",
@@ -5549,18 +5453,6 @@
 		"price": 236,
 		"category": "Security",
 		"defname": "VFES_BearTrap"
-	},
-	{
-		"abr": "beastmanshield",
-		"price": -10,
-		"category": "Melee weapons",
-		"defname": "RH_TET_Beastmen_Shield_Gor"
-	},
-	{
-		"abr": "beastmenresearchspot",
-		"price": 317,
-		"category": "Production",
-		"defname": "RH_TET_Beastmen_ResearchBench"
 	},
 	{
 		"abr": "bed(blue)",
@@ -5699,18 +5591,6 @@
 		"price": 17,
 		"category": "Alcohol precursor",
 		"defname": "CPD_WineMust"
-	},
-	{
-		"abr": "bestigorhorn",
-		"price": 333,
-		"category": "Natural",
-		"defname": "RH_TET_Beastmen_BestigorHorn"
-	},
-	{
-		"abr": "bestigortwo-handedaxe",
-		"price": -10,
-		"category": "Melee weapons",
-		"defname": "RH_TET_Beastmen_MeleeWeapon_GreatAxe"
 	},
 	{
 		"abr": "betapoly",
@@ -6073,12 +5953,6 @@
 		"defname": "Leather_BlackChitin"
 	},
 	{
-		"abr": "blackpowder",
-		"price": 8,
-		"category": "Manufactured",
-		"defname": "RH_TET_BlackPowder"
-	},
-	{
 		"abr": "blackscarab",
 		"price": -10,
 		"category": "Animal",
@@ -6115,22 +5989,10 @@
 		"defname": "PH_DoorThickBlastDoor"
 	},
 	{
-		"abr": "blastingwire",
-		"price": -10,
-		"category": "Misc",
-		"defname": "RH_TET_Dwarfs_BlastingWire"
-	},
-	{
 		"abr": "blendedwool",
 		"price": 4,
 		"category": "Textiles",
 		"defname": "VG_BlendedWool"
-	},
-	{
-		"abr": "blightdronemeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Mech_BlightDrone"
 	},
 	{
 		"abr": "blizzarisk",
@@ -6283,12 +6145,6 @@
 		"defname": "RNSci_BM003Razor"
 	},
 	{
-		"abr": "boltthrowerbolt",
-		"price": 17,
-		"category": "Dwarven artillery ammo",
-		"defname": "RH_TET_Dwarfs_BoltThrower_Bolt"
-	},
-	{
 		"abr": "boltasklamp",
 		"price": 95,
 		"category": "Furniture",
@@ -6335,12 +6191,6 @@
 		"price": -10,
 		"category": "Handwear and footwear",
 		"defname": "VAE_Footwear_Boots"
-	},
-	{
-		"abr": "boulder",
-		"price": -10,
-		"category": "Ranged weapons",
-		"defname": "RH_TET_Beastmen_Weapon_CygorRock"
 	},
 	{
 		"abr": "bouldermit",
@@ -6391,24 +6241,6 @@
 		"defname": "Brain"
 	},
 	{
-		"abr": "brayshaman",
-		"price": -10,
-		"category": "Animal",
-		"defname": "RH_TET_Beastmen_Alien_BrayGor"
-	},
-	{
-		"abr": "braystaff",
-		"price": -10,
-		"category": "Melee weapons",
-		"defname": "RH_TET_Beastmen_MeleeWeapon_BrayStaff"
-	},
-	{
-		"abr": "brazier",
-		"price": 96,
-		"category": "Buildings",
-		"defname": "RH_TET_Brazier"
-	},
-	{
 		"abr": "bread",
 		"price": 25,
 		"category": "Simple Meals",
@@ -6445,12 +6277,6 @@
 		"defname": "Apparello_Brocade"
 	},
 	{
-		"abr": "broodlordflesh",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Tyranid_Broodlord"
-	},
-	{
 		"abr": "brownale",
 		"price": 27,
 		"category": "Garden alcohol",
@@ -6467,18 +6293,6 @@
 		"price": -10,
 		"category": "Misc",
 		"defname": "Wall_SterileBrown"
-	},
-	{
-		"abr": "bugman'sxxx",
-		"price": 58,
-		"category": "Drugs",
-		"defname": "RH_TET_Dwarf_BugmansXXX"
-	},
-	{
-		"abr": "bugman'sxxxwort",
-		"price": 8,
-		"category": "Manufactured",
-		"defname": "RH_TET_Dwarf_BugmansXXXWort"
 	},
 	{
 		"abr": "builderai",
@@ -6559,18 +6373,6 @@
 		"defname": "BULDRESTStool"
 	},
 	{
-		"abr": "bulkcuringvat",
-		"price": 492,
-		"category": "Production",
-		"defname": "RH_TET_CuringPotBulk"
-	},
-	{
-		"abr": "bulkpicklingvat",
-		"price": 517,
-		"category": "Production",
-		"defname": "RH_TET_PicklingCrockBulk"
-	},
-	{
 		"abr": "bulletproofvest",
 		"price": -10,
 		"category": "Apparel",
@@ -6581,24 +6383,6 @@
 		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "Gun_BulletstormSW"
-	},
-	{
-		"abr": "bullgor",
-		"price": -10,
-		"category": "Animal",
-		"defname": "RH_TET_Beastmen_Alien_Bullgor"
-	},
-	{
-		"abr": "bullgorhelmet",
-		"price": -10,
-		"category": "Beastmen headgear",
-		"defname": "RH_TET_Beastmen_Apparel_BullgorHelm"
-	},
-	{
-		"abr": "bullgorshield",
-		"price": -10,
-		"category": "Melee weapons",
-		"defname": "RH_TET_Beastmen_Shield_Bullgor"
 	},
 	{
 		"abr": "bullpupdmr",
@@ -6775,12 +6559,6 @@
 		"defname": "WoolCamel"
 	},
 	{
-		"abr": "candle",
-		"price": 20,
-		"category": "Misc",
-		"defname": "RH_TET_Candle"
-	},
-	{
 		"abr": "cannedfruit",
 		"price": 10,
 		"category": "Fruits",
@@ -6821,18 +6599,6 @@
 		"price": 3858,
 		"category": "Security",
 		"defname": "CannisterTurret"
-	},
-	{
-		"abr": "cannonball",
-		"price": 25,
-		"category": "Dwarven artillery ammo",
-		"defname": "RH_TET_Dwarfs_Cannon_Ball"
-	},
-	{
-		"abr": "cannonshell",
-		"price": 30,
-		"category": "Dwarven artillery ammo",
-		"defname": "RH_TET_Dwarfs_Cannon_Shell"
 	},
 	{
 		"abr": "capacitorarray",
@@ -6897,7 +6663,7 @@
 	{
 		"abr": "cargoplatform",
 		"price": 2533,
-		"category": "Misc",
+		"category": "Automation",
 		"defname": "PRFCargoPlatform"
 	},
 	{
@@ -7093,12 +6859,6 @@
 		"defname": "Melee_Chainsword"
 	},
 	{
-		"abr": "chaliceofslaanesh",
-		"price": 1833,
-		"category": "Chaos artifacts",
-		"defname": "RH_TET_SlaaneshChalice"
-	},
-	{
 		"abr": "chalkblocks",
 		"price": 2,
 		"category": "Stone blocks",
@@ -7139,42 +6899,6 @@
 		"price": 4,
 		"category": "Textiles",
 		"defname": "AA_ChameleonYakWoolWinter"
-	},
-	{
-		"abr": "chaosdreadnought",
-		"price": -10,
-		"category": "Animal",
-		"defname": "IG_CMDreadnoughtRace"
-	},
-	{
-		"abr": "chaosdreadnoughtmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_IG_CMDreadnoughtRace"
-	},
-	{
-		"abr": "chaosmeat",
-		"price": 0,
-		"category": "Meat",
-		"defname": "Meat_RH_TET_ChaosSpawnRace"
-	},
-	{
-		"abr": "chaosspacemarine",
-		"price": -10,
-		"category": "Animal",
-		"defname": "IG_StdChaosMarineRace"
-	},
-	{
-		"abr": "chaosspacemarinemeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_IG_StdChaosMarineRace"
-	},
-	{
-		"abr": "chaosspawnhide",
-		"price": 5,
-		"category": "Leathers",
-		"defname": "RH_TET_Leather_ChaosSpawn"
 	},
 	{
 		"abr": "chaps",
@@ -7289,12 +7013,6 @@
 		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "AA_FeraliskSuperEggFertilized"
-	},
-	{
-		"abr": "charmofnurgle",
-		"price": 1500,
-		"category": "Chaos artifacts",
-		"defname": "RH_TET_NurgleCharm"
 	},
 	{
 		"abr": "charnockiteblocks",
@@ -7561,12 +7279,6 @@
 		"defname": "AIRobot_Cleaner_disabled"
 	},
 	{
-		"abr": "clearingblast",
-		"price": -10,
-		"category": "Dwarven blasting",
-		"defname": "RH_TET_Dwarfs_BlastingChargeClearing"
-	},
-	{
 		"abr": "cleaver",
 		"price": -10,
 		"category": "Melee weapons",
@@ -7627,12 +7339,6 @@
 		"defname": "CloudberrySoda"
 	},
 	{
-		"abr": "coal",
-		"price": 2,
-		"category": "Raw resources",
-		"defname": "RH_TET_Coal"
-	},
-	{
 		"abr": "coconut",
 		"price": 2,
 		"category": "Fruits",
@@ -7649,12 +7355,6 @@
 		"price": 7,
 		"category": "Plant matter",
 		"defname": "CPD_CoffeeBeans"
-	},
-	{
-		"abr": "coinoftzeentch",
-		"price": -10,
-		"category": "Chaos artifacts",
-		"defname": "RH_TET_TzeentchCoin"
 	},
 	{
 		"abr": "coldfusionreactor",
@@ -7909,12 +7609,6 @@
 		"defname": "RNApparel_Combats_Tanya"
 	},
 	{
-		"abr": "communehidepile",
-		"price": -10,
-		"category": "Misc",
-		"defname": "RH_TET_Beastmen_MeditationFurs"
-	},
-	{
 		"abr": "compactfissionreactor",
 		"price": 3367,
 		"category": "Misc",
@@ -7991,12 +7685,6 @@
 		"price": 33333,
 		"category": "Manufactured",
 		"defname": "darkmatter"
-	},
-	{
-		"abr": "cookedcure",
-		"price": 2,
-		"category": "Meals",
-		"defname": "RH_TET_CookedCure"
 	},
 	{
 		"abr": "cookie",
@@ -8179,12 +7867,6 @@
 		"defname": "AA_CrepuscularBeetleEggUnfertilized"
 	},
 	{
-		"abr": "crestedslayerbattlehelmet",
-		"price": -10,
-		"category": "Headgear",
-		"defname": "RH_TET_Dwarf_Helmet_Slayer"
-	},
-	{
 		"abr": "crittersleepcaskets(32)",
 		"price": 4275,
 		"category": "Misc",
@@ -8257,70 +7939,10 @@
 		"defname": "AD_Pacificator"
 	},
 	{
-		"abr": "crudeaxe",
-		"price": -10,
-		"category": "Melee weapons",
-		"defname": "RH_TET_Beastmen_MeleeWeapon_BigAxe"
-	},
-	{
-		"abr": "crudeaxe",
-		"price": -10,
-		"category": "Melee weapons",
-		"defname": "RH_TET_Beastmen_MeleeWeapon_SmallAxe"
-	},
-	{
-		"abr": "crudebed",
-		"price": 137,
-		"category": "Furniture",
-		"defname": "RH_TET_Beastmen_HidePile"
-	},
-	{
-		"abr": "crudecudgel",
-		"price": -10,
-		"category": "Melee weapons",
-		"defname": "RH_TET_Beastmen_MeleeWeapon_Cudgel"
-	},
-	{
-		"abr": "crudeflap",
-		"price": 33,
-		"category": "Misc",
-		"defname": "RH_TET_Beastmen_CrudeDoor"
-	},
-	{
-		"abr": "crudemaul",
-		"price": -10,
-		"category": "Melee weapons",
-		"defname": "RH_TET_Beastmen_MeleeWeapon_SmallMaul"
-	},
-	{
-		"abr": "crudemorningstar",
-		"price": -10,
-		"category": "Melee weapons",
-		"defname": "RH_TET_Beastmen_MeleeWeapon_MorningStar"
-	},
-	{
-		"abr": "crudepick",
-		"price": -10,
-		"category": "Melee weapons",
-		"defname": "RH_TET_Beastmen_MeleeWeapon_Pick"
-	},
-	{
 		"abr": "crudesmokeleafjoint",
 		"price": 12,
 		"category": "Smokeleaf Drugs",
 		"defname": "CrudeSmokeleafJoint"
-	},
-	{
-		"abr": "crudesword",
-		"price": -10,
-		"category": "Melee weapons",
-		"defname": "RH_TET_Beastmen_MeleeWeapon_Sword"
-	},
-	{
-		"abr": "crudewall",
-		"price": -10,
-		"category": "Misc",
-		"defname": "RH_TET_Beastmen_CrudeWall"
 	},
 	{
 		"abr": "cruisemissileturret",
@@ -8389,24 +8011,6 @@
 		"defname": "PoweredCultivationBench"
 	},
 	{
-		"abr": "curedmeat",
-		"price": 4,
-		"category": "Animal products",
-		"defname": "RH_TET_CuredMeat"
-	},
-	{
-		"abr": "curingcabinet",
-		"price": 107,
-		"category": "Production",
-		"defname": "RH_TET_CuringCabinet"
-	},
-	{
-		"abr": "curingpot",
-		"price": 99,
-		"category": "Production",
-		"defname": "RH_TET_CuringPot"
-	},
-	{
 		"abr": "curtain(tribal)",
 		"price": 172,
 		"category": "Buildings",
@@ -8455,12 +8059,6 @@
 		"defname": "GTStomach"
 	},
 	{
-		"abr": "cygor",
-		"price": -10,
-		"category": "Animal",
-		"defname": "RH_TET_Beastmen_Alien_Cygor"
-	},
-	{
 		"abr": "cz75b",
 		"price": -10,
 		"category": "Pistol",
@@ -8493,7 +8091,7 @@
 	{
 		"abr": "darkmattercombatpants",
 		"price": -10,
-		"category": "Apparel",
+		"category": "Noble apparel",
 		"defname": "Apparel_DarkPants"
 	},
 	{
@@ -8523,7 +8121,7 @@
 	{
 		"abr": "darkmattervest",
 		"price": -10,
-		"category": "Apparel",
+		"category": "Noble apparel",
 		"defname": "Apparel_DarkVest"
 	},
 	{
@@ -8569,12 +8167,6 @@
 		"defname": "RNGun_DDM4AR"
 	},
 	{
-		"abr": "deadgreatoak",
-		"price": 383,
-		"category": "Misc",
-		"defname": "RH_TET_Beastmen_GreatOakDead"
-	},
-	{
 		"abr": "decaydrake",
 		"price": -10,
 		"category": "Animal",
@@ -8587,12 +8179,6 @@
 		"defname": "Meat_AA_DecayDrake"
 	},
 	{
-		"abr": "decorativedwarvenchainmail",
-		"price": -10,
-		"category": "Dwarven apparel",
-		"defname": "RH_TET_Dwarf_Armor_Mid"
-	},
-	{
 		"abr": "decoy",
 		"price": 140,
 		"category": "Security",
@@ -8601,7 +8187,7 @@
 	{
 		"abr": "deepquarry",
 		"price": 1067,
-		"category": "Misc",
+		"category": "Automation",
 		"defname": "PRF_DeepQuarry"
 	},
 	{
@@ -8773,12 +8359,6 @@
 		"defname": "SNS_Hidden"
 	},
 	{
-		"abr": "diggingblast",
-		"price": -10,
-		"category": "Dwarven blasting",
-		"defname": "RH_TET_Dwarfs_BlastingChargeDigging"
-	},
-	{
 		"abr": "dioptase",
 		"price": 8,
 		"category": "Gems",
@@ -8917,18 +8497,6 @@
 		"defname": "RNGun_DragunovDMR"
 	},
 	{
-		"abr": "drakegun",
-		"price": -10,
-		"category": "Dwarven ranged weapons",
-		"defname": "RH_TET_Dwarf_Drakegun"
-	},
-	{
-		"abr": "driedcuredmeat",
-		"price": 7,
-		"category": "Preserved foods",
-		"defname": "RH_TET_DriedCuredMeat"
-	},
-	{
 		"abr": "driedfruit",
 		"price": 23,
 		"category": "Fruits",
@@ -9055,168 +8623,6 @@
 		"defname": "Meat_AA_DuskRat"
 	},
 	{
-		"abr": "dwarf",
-		"price": -10,
-		"category": "Animal",
-		"defname": "RH_TET_Dwarf_Race_Standard"
-	},
-	{
-		"abr": "dwarfleather",
-		"price": 7,
-		"category": "Leathers",
-		"defname": "RH_TET_Dwarf_Leather"
-	},
-	{
-		"abr": "dwarfmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_RH_TET_Dwarf_Race_Standard"
-	},
-	{
-		"abr": "dwarfresearchbench",
-		"price": 350,
-		"category": "Production",
-		"defname": "RH_TET_Dwarfs_ResearchBench"
-	},
-	{
-		"abr": "dwarvenale",
-		"price": 42,
-		"category": "Drugs",
-		"defname": "RH_TET_Dwarf_Ale"
-	},
-	{
-		"abr": "dwarvenalewort",
-		"price": 5,
-		"category": "Manufactured",
-		"defname": "RH_TET_Dwarf_AleWort"
-	},
-	{
-		"abr": "dwarvenboltthrower",
-		"price": 667,
-		"category": "Dwarven security",
-		"defname": "RH_TET_Dwarfs_BoltThrower"
-	},
-	{
-		"abr": "dwarvenbugman'sxxxfermentingbarrel",
-		"price": 131,
-		"category": "Dwarven production",
-		"defname": "RH_TET_Dwarfs_BugmansFermentingBarrel"
-	},
-	{
-		"abr": "dwarvencannon",
-		"price": 1142,
-		"category": "Dwarven security",
-		"defname": "RH_TET_Dwarfs_Cannon"
-	},
-	{
-		"abr": "dwarvencrossbow",
-		"price": -10,
-		"category": "Ranged weapons",
-		"defname": "RH_TET_Dwarf_Quarreller_Low"
-	},
-	{
-		"abr": "dwarvendoor(2x1)",
-		"price": -10,
-		"category": "Misc",
-		"defname": "RH_TET_Dwarf_BiggerDoor"
-	},
-	{
-		"abr": "dwarvenfermentingbarrel",
-		"price": 95,
-		"category": "Dwarven production",
-		"defname": "RH_TET_Dwarfs_FermentingBarrel"
-	},
-	{
-		"abr": "dwarvenflamecannon",
-		"price": 1592,
-		"category": "Dwarven security",
-		"defname": "RH_TET_Dwarfs_FlameCannon"
-	},
-	{
-		"abr": "dwarvengate(3x2)",
-		"price": -10,
-		"category": "Misc",
-		"defname": "RH_TET_Dwarf_BasicGate"
-	},
-	{
-		"abr": "dwarvengrandgate(3x2)",
-		"price": -10,
-		"category": "Misc",
-		"defname": "RH_TET_Dwarf_FancyGate"
-	},
-	{
-		"abr": "dwarvenironbreakerarmor",
-		"price": -10,
-		"category": "Dwarven apparel",
-		"defname": "RH_TET_Dwarf_Armor_IronBreaker"
-	},
-	{
-		"abr": "dwarvenironbreakerhelmet",
-		"price": -10,
-		"category": "Headgear",
-		"defname": "RH_TET_Dwarf_Helmet_IronBreaker"
-	},
-	{
-		"abr": "dwarvenleatherarmor",
-		"price": -10,
-		"category": "Dwarven apparel",
-		"defname": "RH_TET_Dwarf_Armor_Leather"
-	},
-	{
-		"abr": "dwarvenmassivegate(5x3)",
-		"price": -10,
-		"category": "Misc",
-		"defname": "RH_TET_Dwarf_MassiveGate"
-	},
-	{
-		"abr": "dwarvenminer'shelmet",
-		"price": -10,
-		"category": "Headgear",
-		"defname": "RH_TET_Dwarf_Helmet_Miner"
-	},
-	{
-		"abr": "dwarvenmunitionsbench",
-		"price": 533,
-		"category": "Buildings",
-		"defname": "RH_TET_Dwarfs_BlastingBench"
-	},
-	{
-		"abr": "dwarvenorgangun",
-		"price": 1392,
-		"category": "Dwarven security",
-		"defname": "RH_TET_Dwarfs_OrganGun"
-	},
-	{
-		"abr": "dwarvenpants",
-		"price": -10,
-		"category": "Dwarven apparel",
-		"defname": "RH_TET_Dwarf_Pants"
-	},
-	{
-		"abr": "dwarvenpillar",
-		"price": 517,
-		"category": "Art",
-		"defname": "RH_TET_Dwarfs_PillarSmall"
-	},
-	{
-		"abr": "dwarvenpillarsculpturespot",
-		"price": 81,
-		"category": "Production",
-		"defname": "RH_TET_DwarfPillarSculptingSpot"
-	},
-	{
-		"abr": "dwarvensarcophagus",
-		"price": -10,
-		"category": "Misc",
-		"defname": "RH_TET_Dwarf_Sarcophagus"
-	},
-	{
-		"abr": "dwarvenshield",
-		"price": -10,
-		"category": "Melee weapons",
-		"defname": "RH_TET_Dwarf_Shield_Low"
-	},
-	{
 		"abr": "dynamicrelaxationchair",
 		"price": 4950,
 		"category": "Misc",
@@ -9257,12 +8663,6 @@
 		"price": 8,
 		"category": "Gems",
 		"defname": "Ekanite"
-	},
-	{
-		"abr": "elaboratedwarvenshield",
-		"price": -10,
-		"category": "Melee weapons",
-		"defname": "RH_TET_Dwarf_ShieldHigh"
 	},
 	{
 		"abr": "electricboiler",
@@ -9703,12 +9103,6 @@
 		"defname": "Gun_ExitusSniper"
 	},
 	{
-		"abr": "exocrineflesh",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Tyranid_Exocrine"
-	},
-	{
 		"abr": "explorer'smorion",
 		"price": -10,
 		"category": "Rare equipment",
@@ -10135,76 +9529,10 @@
 		"defname": "Misc_FileCabinet"
 	},
 	{
-		"abr": "finedwarvenaxe",
-		"price": -10,
-		"category": "Melee weapons",
-		"defname": "RH_TET_Dwarf_HandAxe_High"
-	},
-	{
-		"abr": "finedwarvencrossbow",
-		"price": -10,
-		"category": "Ranged weapons",
-		"defname": "RH_TET_Dwarf_Quarreller_High"
-	},
-	{
-		"abr": "finedwarvendouble-headedaxe",
-		"price": -10,
-		"category": "Melee weapons",
-		"defname": "RH_TET_Dwarf_GreatAxe_High"
-	},
-	{
-		"abr": "finedwarvendouble-headedpickaxe",
-		"price": -10,
-		"category": "Melee weapons",
-		"defname": "RH_TET_Dwarf_PickAxe_High"
-	},
-	{
-		"abr": "finedwarvengreathammer",
-		"price": -10,
-		"category": "Melee weapons",
-		"defname": "RH_TET_Dwarf_GreatHammer_High"
-	},
-	{
-		"abr": "finedwarvenhandhammer",
-		"price": -10,
-		"category": "Melee weapons",
-		"defname": "RH_TET_Dwarf_HandHammer_High"
-	},
-	{
-		"abr": "finedwarvenhelmet",
-		"price": -10,
-		"category": "Headgear",
-		"defname": "RH_TET_Dwarf_Helmet_Mid"
-	},
-	{
-		"abr": "finedwarvenpistol",
-		"price": -10,
-		"category": "Dwarven ranged weapons",
-		"defname": "RH_TET_Dwarf_Pistol_High"
-	},
-	{
-		"abr": "finedwarvenplatearmor",
-		"price": -10,
-		"category": "Dwarven apparel",
-		"defname": "RH_TET_Dwarf_Armor_High"
-	},
-	{
-		"abr": "finedwarvenshirt",
-		"price": -10,
-		"category": "Dwarven apparel",
-		"defname": "RH_TET_Dwarf_Shirt_Mid"
-	},
-	{
 		"abr": "fineshirt",
 		"price": -10,
 		"category": "Apparel",
 		"defname": "Apparel_FSFineShirt"
-	},
-	{
-		"abr": "finethundererrifle",
-		"price": -10,
-		"category": "Dwarven ranged weapons",
-		"defname": "RH_TET_Dwarf_ThundererGun_High"
 	},
 	{
 		"abr": "finger",
@@ -10283,12 +9611,6 @@
 		"price": -10,
 		"category": "Animal",
 		"defname": "AA_FissionMouseThird"
-	},
-	{
-		"abr": "flamecannonround",
-		"price": 33,
-		"category": "Dwarven artillery ammo",
-		"defname": "RH_TET_Dwarfs_FlameCannon_Round"
 	},
 	{
 		"abr": "flameretardantskin",
@@ -10801,12 +10123,6 @@
 		"defname": "RNGun_C9A1Minimi"
 	},
 	{
-		"abr": "focusedblast",
-		"price": -10,
-		"category": "Dwarven blasting",
-		"defname": "RH_TET_Dwarfs_BlastingChargeFocused"
-	},
-	{
 		"abr": "foerum",
 		"price": 17,
 		"category": "Raw resources",
@@ -10997,18 +10313,6 @@
 		"price": -10,
 		"category": "Headgear",
 		"defname": "Apparel_FSFurHat"
-	},
-	{
-		"abr": "furlineddwarvenhat",
-		"price": -10,
-		"category": "Headgear",
-		"defname": "RH_TET_Dwarf_Tuque"
-	},
-	{
-		"abr": "furmantle",
-		"price": -10,
-		"category": "Beastmen apparel",
-		"defname": "RH_TET_Beastmen_Apparel_FurMantle"
 	},
 	{
 		"abr": "futstentrug",
@@ -11223,14 +10527,8 @@
 	{
 		"abr": "genericanimalharvester",
 		"price": 1400,
-		"category": "Misc",
+		"category": "Automation",
 		"defname": "GenericAnimalHarvester"
-	},
-	{
-		"abr": "genestealerflesh",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Tyranid_GeneStealer"
 	},
 	{
 		"abr": "geoscape",
@@ -11479,12 +10777,6 @@
 		"defname": "Wall_SterileGold"
 	},
 	{
-		"abr": "goldenhorn",
-		"price": 257,
-		"category": "Prosthetic",
-		"defname": "RH_TET_Beastmen_GorGoldHorn"
-	},
-	{
 		"abr": "goliathmeat",
 		"price": 1,
 		"category": "Meat",
@@ -11503,48 +10795,6 @@
 		"defname": "GooseberrySoda"
 	},
 	{
-		"abr": "gor",
-		"price": -10,
-		"category": "Animal",
-		"defname": "RH_TET_Beastmen_Alien_Gor"
-	},
-	{
-		"abr": "gorarmor",
-		"price": -10,
-		"category": "Beastmen apparel",
-		"defname": "RH_TET_Beastmen_Apparel_GorArmor"
-	},
-	{
-		"abr": "gorhelmet",
-		"price": -10,
-		"category": "Beastmen headgear",
-		"defname": "RH_TET_Beastmen_Apparel_GorHelm"
-	},
-	{
-		"abr": "gorhide",
-		"price": 8,
-		"category": "Leathers",
-		"defname": "RH_TET_Beastmen_Leather_Beastmen"
-	},
-	{
-		"abr": "gorhorn",
-		"price": 83,
-		"category": "Natural",
-		"defname": "RH_TET_Beastmen_GorHorn"
-	},
-	{
-		"abr": "gormeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_RH_TET_Beastmen_Alien_Gor"
-	},
-	{
-		"abr": "gorebullhorn",
-		"price": 333,
-		"category": "Natural",
-		"defname": "RH_TET_Beastmen_GorebullHorn"
-	},
-	{
 		"abr": "gorilla",
 		"price": -10,
 		"category": "Animal",
@@ -11555,12 +10805,6 @@
 		"price": -10,
 		"category": "Combat uniform",
 		"defname": "RNApparel_combats_GORKA4C"
-	},
-	{
-		"abr": "granddwarvensculpture",
-		"price": 1125,
-		"category": "Dwarven art",
-		"defname": "RH_TET_Dwarfs_SculptureGrand"
 	},
 	{
 		"abr": "grandrug",
@@ -11689,12 +10933,6 @@
 		"defname": "Grilledveg"
 	},
 	{
-		"abr": "gromril",
-		"price": 53,
-		"category": "Raw resources",
-		"defname": "RH_TET_Dwarf_Gromril"
-	},
-	{
 		"abr": "groundrunner",
 		"price": -10,
 		"category": "Animal",
@@ -11723,18 +10961,6 @@
 		"price": -10,
 		"category": "Bullpup rifle",
 		"defname": "RNGun_Groza4AR"
-	},
-	{
-		"abr": "grudgethrower",
-		"price": 1033,
-		"category": "Dwarven security",
-		"defname": "RH_TET_Dwarfs_GrudgeThrower"
-	},
-	{
-		"abr": "grudge-raker",
-		"price": -10,
-		"category": "Dwarven ranged weapons",
-		"defname": "RH_TET_Dwarf_Grudge-Raker"
 	},
 	{
 		"abr": "halberd",
@@ -11795,18 +11021,6 @@
 		"price": -10,
 		"category": "Misc",
 		"defname": "ShipHardpoint"
-	},
-	{
-		"abr": "harpy",
-		"price": -10,
-		"category": "Animal",
-		"defname": "RH_TET_Beastmen_BeastmenHarpy"
-	},
-	{
-		"abr": "harpyegg(fert.)",
-		"price": -10,
-		"category": "Eggs (fert.)",
-		"defname": "RH_TET_Beastmen_EggHarpyFertilized"
 	},
 	{
 		"abr": "harvester",
@@ -12349,18 +11563,6 @@
 		"defname": "EVOR_Item_Abd_Hormone"
 	},
 	{
-		"abr": "hornofkhorne",
-		"price": -10,
-		"category": "Chaos artifacts",
-		"defname": "RH_TET_KhorneHorn"
-	},
-	{
-		"abr": "horsemeat",
-		"price": -10,
-		"category": "Meat",
-		"defname": "Meat_RH_TET_Horse"
-	},
-	{
 		"abr": "hotcocoa",
 		"price": 17,
 		"category": "Meals",
@@ -12431,12 +11633,6 @@
 		"price": -10,
 		"category": "Misc",
 		"defname": "ShipHullTileWreckedFake"
-	},
-	{
-		"abr": "humanegg",
-		"price": -10,
-		"category": "Eggs (fert.)",
-		"defname": "HumanFarming_HumanEgg"
 	},
 	{
 		"abr": "hunterai",
@@ -12563,18 +11759,6 @@
 		"price": -10,
 		"category": "Imperial Armor Addons",
 		"defname": "IGStd-ServoArm"
-	},
-	{
-		"abr": "imperialbasicservoskull",
-		"price": -10,
-		"category": "Robots",
-		"defname": "QX_Serv_ServoSkullT0_disabled"
-	},
-	{
-		"abr": "imperialbasicservoskullbasestation",
-		"price": 6667,
-		"category": "Furniture",
-		"defname": "IG_Serv_ServoSkullT0_RechargeStn"
 	},
 	{
 		"abr": "imperialbattery",
@@ -12877,48 +12061,6 @@
 		"defname": "IG_RES_RockCrete"
 	},
 	{
-		"abr": "imperialservoskullt1(disabled)",
-		"price": -10,
-		"category": "Robots",
-		"defname": "QX_Serv_ServoSkullT1_disabled"
-	},
-	{
-		"abr": "imperialservoskullt1basestation",
-		"price": 10000,
-		"category": "Furniture",
-		"defname": "IG_Serv_ServoSkullT1_RechargeStn"
-	},
-	{
-		"abr": "imperialservoskullt2(disabled)",
-		"price": -10,
-		"category": "Robots",
-		"defname": "QX_Serv_ServoSkullT2_disabled"
-	},
-	{
-		"abr": "imperialservoskullt2basestation",
-		"price": 13333,
-		"category": "Furniture",
-		"defname": "IG_Serv_ServoSkullT2_RechargeStn"
-	},
-	{
-		"abr": "imperialservoskullt3(disabled)",
-		"price": -10,
-		"category": "Robots",
-		"defname": "QX_Serv_ServoSkullT3_disabled"
-	},
-	{
-		"abr": "imperialservoskullt3basestation",
-		"price": 16667,
-		"category": "Furniture",
-		"defname": "IG_Serv_ServoSkullT3_RechargeStn"
-	},
-	{
-		"abr": "imperialservoskullfabricator",
-		"price": 8617,
-		"category": "Production",
-		"defname": "IG_ImperialSERVFab"
-	},
-	{
 		"abr": "imperialsolargenerator",
 		"price": 290,
 		"category": "Misc",
@@ -13015,12 +12157,6 @@
 		"defname": "RNThrown_Incendiary"
 	},
 	{
-		"abr": "incendiaryblast",
-		"price": -10,
-		"category": "Dwarven blasting",
-		"defname": "RH_TET_Dwarfs_BlastingChargeIncendiary"
-	},
-	{
 		"abr": "indiantelephant",
 		"price": -10,
 		"category": "Animal",
@@ -13053,7 +12189,7 @@
 	{
 		"abr": "industrialstorageunit(deprecated)",
 		"price": 15,
-		"category": "Misc",
+		"category": "Automation",
 		"defname": "IndustrialStorageUnit"
 	},
 	{
@@ -13205,12 +12341,6 @@
 		"price": -10,
 		"category": "LMG and GPMG",
 		"defname": "RNGun_NegevLMG"
-	},
-	{
-		"abr": "jabberslythehide",
-		"price": 22,
-		"category": "Leathers",
-		"defname": "RH_TET_Leather_Jabberslythe"
 	},
 	{
 		"abr": "jadecrystal",
@@ -13447,24 +12577,6 @@
 		"defname": "Apparello_Lecap"
 	},
 	{
-		"abr": "khornatebelt",
-		"price": -10,
-		"category": "Chaos artifacts",
-		"defname": "RH_TET_Magic_Apparel_KhorneBelt"
-	},
-	{
-		"abr": "khornegor",
-		"price": -10,
-		"category": "Animal",
-		"defname": "RH_TET_Beastmen_Alien_Khornegor"
-	},
-	{
-		"abr": "khorngorhorn",
-		"price": 417,
-		"category": "Natural",
-		"defname": "RH_TET_Beastmen_KhorngorHorn"
-	},
-	{
 		"abr": "kineticartillery",
 		"price": 6167,
 		"category": "Security",
@@ -13565,12 +12677,6 @@
 		"price": 25,
 		"category": "Garden soda",
 		"defname": "KiwiSoda"
-	},
-	{
-		"abr": "knife",
-		"price": -10,
-		"category": "Melee weapons",
-		"defname": "RH_TET_Beastmen_MeleeWeapon_Knife"
 	},
 	{
 		"abr": "koala",
@@ -13741,12 +12847,6 @@
 		"defname": "Bin_Large"
 	},
 	{
-		"abr": "largedwarvensculpture",
-		"price": 517,
-		"category": "Dwarven art",
-		"defname": "RH_TET_Dwarfs_SculptureLarge"
-	},
-	{
 		"abr": "largehardpoint",
 		"price": 2275,
 		"category": "Misc",
@@ -13775,12 +12875,6 @@
 		"price": 492,
 		"category": "Art",
 		"defname": "VFE_RugLarge"
-	},
-	{
-		"abr": "largerunestone",
-		"price": 342,
-		"category": "Art",
-		"defname": "RH_TET_Beastmen_GorStoneM"
 	},
 	{
 		"abr": "largeshieldgenerator",
@@ -13885,12 +12979,6 @@
 		"defname": "LazarusMechInjectorSW"
 	},
 	{
-		"abr": "leatherdwarvenhelmet",
-		"price": -10,
-		"category": "Headgear",
-		"defname": "RH_TET_Dwarf_Helmet_Leather"
-	},
-	{
 		"abr": "leatherjacket",
 		"price": -10,
 		"category": "Casual jackets",
@@ -13975,12 +13063,6 @@
 		"defname": "VWE_Gun_LightSMG"
 	},
 	{
-		"abr": "lighteddwarvenpillar",
-		"price": 592,
-		"category": "Art",
-		"defname": "RH_TET_Dwarfs_PillarLit"
-	},
-	{
 		"abr": "lightningspell:chargebattery",
 		"price": 833,
 		"category": "Scrolls",
@@ -14059,12 +13141,6 @@
 		"defname": "LogBoiler"
 	},
 	{
-		"abr": "loincloth",
-		"price": -10,
-		"category": "Beastmen apparel",
-		"defname": "RH_TET_Beastmen_Apparel_Loincloth"
-	},
-	{
 		"abr": "longbow",
 		"price": -10,
 		"category": "Ranged weapons",
@@ -14093,24 +13169,6 @@
 		"price": 1033,
 		"category": "Recreation",
 		"defname": "Radio_Spacer"
-	},
-	{
-		"abr": "lordlydwarvenaxe",
-		"price": -10,
-		"category": "Melee weapons",
-		"defname": "RH_TET_Dwarf_HandAxe_Elaborate"
-	},
-	{
-		"abr": "lordlydwarvenbattlehelmet",
-		"price": -10,
-		"category": "Headgear",
-		"defname": "RH_TET_Dwarf_Helmet_High"
-	},
-	{
-		"abr": "lordlydwarvenshirt",
-		"price": -10,
-		"category": "Dwarven apparel",
-		"defname": "RH_TET_Dwarf_Shirt_High"
 	},
 	{
 		"abr": "lordokisculpture",
@@ -14499,7 +13557,7 @@
 	{
 		"abr": "madness",
 		"price": -10,
-		"category": "Grenades",
+		"category": "Ranged weapons",
 		"defname": "Weapon_MADness"
 	},
 	{
@@ -14821,12 +13879,6 @@
 		"defname": "AA_Mantrap"
 	},
 	{
-		"abr": "manualdetonator",
-		"price": -10,
-		"category": "Dwarven blasting",
-		"defname": "RH_TET_Dwarfs_BlastingDetonator"
-	},
-	{
 		"abr": "marineboots",
 		"price": -10,
 		"category": "Handwear and footwear",
@@ -14881,24 +13933,6 @@
 		"defname": "RNApparel_MASKA1Helmet"
 	},
 	{
-		"abr": "massiveaxe",
-		"price": -10,
-		"category": "Melee weapons",
-		"defname": "RH_TET_Beastmen_MeleeWeapon_MassiveAxe"
-	},
-	{
-		"abr": "massiveclub",
-		"price": -10,
-		"category": "Melee weapons",
-		"defname": "RH_TET_Beastmen_MeleeWeapon_MassiveClub"
-	},
-	{
-		"abr": "massivecudgel",
-		"price": -10,
-		"category": "Melee weapons",
-		"defname": "RH_TET_Beastmen_MeleeWeapon_MassiveCudgel"
-	},
-	{
 		"abr": "matador",
 		"price": -10,
 		"category": "One-use launcher",
@@ -14933,12 +13967,6 @@
 		"price": 1517,
 		"category": "Production",
 		"defname": "TableWeaverSW"
-	},
-	{
-		"abr": "mawlocflesh",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Tyranid_Mawlock"
 	},
 	{
 		"abr": "mbtlaw",
@@ -15217,12 +14245,6 @@
 		"defname": "Apparello_Urbulence"
 	},
 	{
-		"abr": "metaldwarvenshield",
-		"price": -10,
-		"category": "Melee weapons",
-		"defname": "RH_TET_Dwarf_ShieldMid"
-	},
-	{
 		"abr": "metalshoulderpads",
 		"price": -10,
 		"category": "Apparel",
@@ -15321,7 +14343,7 @@
 	{
 		"abr": "milker",
 		"price": 900,
-		"category": "Misc",
+		"category": "Automation",
 		"defname": "Milker"
 	},
 	{
@@ -15665,12 +14687,6 @@
 		"price": 8,
 		"category": "Gems",
 		"defname": "Morganite"
-	},
-	{
-		"abr": "morningstarofnurgle",
-		"price": -10,
-		"category": "Magic weapons",
-		"defname": "RH_TET_MeleeWeapon_NurgleStar"
 	},
 	{
 		"abr": "mortracain",
@@ -16045,24 +15061,6 @@
 		"defname": "Ogre_NanoTech_HospitalBed"
 	},
 	{
-		"abr": "nanotechpentaroyalbed",
-		"price": 6875,
-		"category": "Furniture",
-		"defname": "Ogre_NanoTech_PentaRoyalBed"
-	},
-	{
-		"abr": "nanotechquadrabed",
-		"price": 2825,
-		"category": "Furniture",
-		"defname": "Ogre_NanoTech_QuadBed"
-	},
-	{
-		"abr": "nanotechquadraroyalbed",
-		"price": 5500,
-		"category": "Furniture",
-		"defname": "Ogre_NanoTech_QuadRoyalBed"
-	},
-	{
 		"abr": "nanotechroyalbed",
 		"price": 2750,
 		"category": "Furniture",
@@ -16079,18 +15077,6 @@
 		"price": 324,
 		"category": "Furniture",
 		"defname": "Ogre_NanoTech_2x1_Shelf"
-	},
-	{
-		"abr": "nanotechtriplebed",
-		"price": 2108,
-		"category": "Furniture",
-		"defname": "Ogre_NanoTech_TripleBed"
-	},
-	{
-		"abr": "nanotechtripleroyalbed",
-		"price": 4125,
-		"category": "Furniture",
-		"defname": "Ogre_NanoTech_TripleRoyalBed"
 	},
 	{
 		"abr": "nano-alveolilung",
@@ -16291,12 +15277,6 @@
 		"defname": "Nose"
 	},
 	{
-		"abr": "nurgleyband",
-		"price": -10,
-		"category": "Chaos artifacts",
-		"defname": "RH_TET_Magic_Apparel_NurgleBand"
-	},
-	{
 		"abr": "nutrileafbar(smokeleaf)",
 		"price": 12,
 		"category": "Smokeleaf Edibles",
@@ -16451,12 +15431,6 @@
 		"price": 5583,
 		"category": "Production",
 		"defname": "EVOR_Building_Cellbench"
-	},
-	{
-		"abr": "organgunround",
-		"price": 25,
-		"category": "Dwarven artillery ammo",
-		"defname": "RH_TET_Dwarfs_OrganGun_Round"
 	},
 	{
 		"abr": "orioncombatvest",
@@ -16819,12 +15793,6 @@
 		"defname": "AEXP_EggPenguinFertilized"
 	},
 	{
-		"abr": "pentaroyalbed",
-		"price": 3617,
-		"category": "Furniture",
-		"defname": "PentaRoyalBed"
-	},
-	{
 		"abr": "peridot",
 		"price": 8,
 		"category": "Gems",
@@ -16847,18 +15815,6 @@
 		"price": -10,
 		"category": "Animal",
 		"defname": "ShuttlePersonalRace"
-	},
-	{
-		"abr": "pestigor",
-		"price": -10,
-		"category": "Animal",
-		"defname": "RH_TET_Beastmen_Alien_Pestigor"
-	},
-	{
-		"abr": "pestigorhorn",
-		"price": 417,
-		"category": "Natural",
-		"defname": "RH_TET_Beastmen_PestigorHorn"
 	},
 	{
 		"abr": "petsnorranimalbed",
@@ -16933,22 +15889,10 @@
 		"defname": "PicketGateVerti"
 	},
 	{
-		"abr": "pickledfood",
-		"price": 4,
-		"category": "Preserved foods",
-		"defname": "RH_TET_PickledFood"
-	},
-	{
 		"abr": "pickledvegetable",
 		"price": 22,
 		"category": "Vegetarian",
 		"defname": "PickledVeg"
-	},
-	{
-		"abr": "picklingcrock",
-		"price": 90,
-		"category": "Production",
-		"defname": "RH_TET_PicklingCrock"
 	},
 	{
 		"abr": "picomachinery",
@@ -17087,12 +16031,6 @@
 		"price": -10,
 		"category": "Furniture",
 		"defname": "MSI_WoodenPlanter"
-	},
-	{
-		"abr": "planter",
-		"price": 177,
-		"category": "Dwarven production",
-		"defname": "RH_TET_Dwarf_Planter"
 	},
 	{
 		"abr": "planterbox",
@@ -17305,12 +16243,6 @@
 		"defname": "POTBLUM"
 	},
 	{
-		"abr": "potionofhealing",
-		"price": 1333,
-		"category": "Magic items",
-		"defname": "RH_TET_Potion_Healing"
-	},
-	{
 		"abr": "pottery",
 		"price": 143,
 		"category": "Art",
@@ -17423,18 +16355,6 @@
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_AEXP_Gorilla"
-	},
-	{
-		"abr": "primeconsole",
-		"price": 967,
-		"category": "Misc",
-		"defname": "PrimeConsole"
-	},
-	{
-		"abr": "primeuplinksatellite",
-		"price": 642,
-		"category": "Misc",
-		"defname": "PrimeUplink"
 	},
 	{
 		"abr": "primitivewell",
@@ -17713,24 +16633,6 @@
 		"defname": "EVOR_Item_Liver"
 	},
 	{
-		"abr": "quadrabed",
-		"price": 567,
-		"category": "Furniture",
-		"defname": "QuadBed"
-	},
-	{
-		"abr": "quadrabedroll",
-		"price": 600,
-		"category": "Furniture",
-		"defname": "BedrollQuad"
-	},
-	{
-		"abr": "quadraroyalbed",
-		"price": 2900,
-		"category": "Furniture",
-		"defname": "QuadRoyalBed"
-	},
-	{
 		"abr": "quantumconverter",
 		"price": 16667,
 		"category": "Special",
@@ -17857,42 +16759,6 @@
 		"defname": "AEXP_EggRattlesnakeUnfertilized"
 	},
 	{
-		"abr": "raven",
-		"price": -10,
-		"category": "Animal",
-		"defname": "RH_TET_Beastmen_RavenSummonable"
-	},
-	{
-		"abr": "raven",
-		"price": -10,
-		"category": "Animal",
-		"defname": "RH_TET_Beastmen_Raven"
-	},
-	{
-		"abr": "ravenegg(fertilized)",
-		"price": -10,
-		"category": "Eggs (fert.)",
-		"defname": "RH_TET_Beastmen_RavenEggFertilized"
-	},
-	{
-		"abr": "ravenmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_RH_TET_Beastmen_RavenSummonable"
-	},
-	{
-		"abr": "ravenmeat",
-		"price": -10,
-		"category": "Meat",
-		"defname": "Meat_RH_TET_Beastmen_Raven"
-	},
-	{
-		"abr": "rawbarley",
-		"price": 2,
-		"category": "Vegetarian",
-		"defname": "RH_TET_Dwarf_Barley"
-	},
-	{
 		"abr": "rawdevilstrand",
 		"price": 5,
 		"category": "Raw textiles",
@@ -17917,28 +16783,10 @@
 		"defname": "AB_RawRedSlime"
 	},
 	{
-		"abr": "rawstoneroot",
-		"price": 2,
-		"category": "Vegetarian",
-		"defname": "RH_TET_Dwarf_RawStoneroot"
-	},
-	{
 		"abr": "razerwire",
 		"price": -10,
 		"category": "Misc",
 		"defname": "RazerWire"
-	},
-	{
-		"abr": "razorgor",
-		"price": -10,
-		"category": "Animal",
-		"defname": "RH_TET_RazorgorRace"
-	},
-	{
-		"abr": "razorgorhide",
-		"price": 6,
-		"category": "Leathers",
-		"defname": "RH_TET_Leather_Razorgor"
 	},
 	{
 		"abr": "razorjack",
@@ -18099,7 +16947,7 @@
 	{
 		"abr": "reinforcedstockpilecrate",
 		"price": 332,
-		"category": "Misc",
+		"category": "Automation",
 		"defname": "StockpileCrateReinforced"
 	},
 	{
@@ -18481,12 +17329,6 @@
 		"defname": "VFES_Turret_TriRocket"
 	},
 	{
-		"abr": "rodofflamingdeath",
-		"price": -10,
-		"category": "Ranged weapons",
-		"defname": "RH_TET_Rod_FlamingDeath"
-	},
-	{
 		"abr": "rottweiler",
 		"price": -10,
 		"category": "Animal",
@@ -18691,12 +17533,6 @@
 		"defname": "rum"
 	},
 	{
-		"abr": "runestone",
-		"price": 131,
-		"category": "Art",
-		"defname": "RH_TET_Beastmen_GorStone"
-	},
-	{
 		"abr": "s&wm&p15",
 		"price": -10,
 		"category": "AR style rifle",
@@ -18755,12 +17591,6 @@
 		"price": 8,
 		"category": "Meat",
 		"defname": "SaltedMeat"
-	},
-	{
-		"abr": "saltpeter",
-		"price": 1,
-		"category": "Raw resources",
-		"defname": "RH_TET_Saltpeter"
 	},
 	{
 		"abr": "salvagedlaserpistol",
@@ -19147,18 +17977,6 @@
 		"defname": "SHAINBRAITLamp_Yellow"
 	},
 	{
-		"abr": "shamanhood",
-		"price": -10,
-		"category": "Beastmen headgear",
-		"defname": "RH_TET_Beastmen_Apparel_ShamanHood"
-	},
-	{
-		"abr": "shamanrobe",
-		"price": -10,
-		"category": "Beastmen apparel",
-		"defname": "RH_TET_Beastmen_Apparel_ShamanRobe"
-	},
-	{
 		"abr": "shardsentry",
 		"price": 1433,
 		"category": "Security",
@@ -19167,7 +17985,7 @@
 	{
 		"abr": "shearer",
 		"price": 900,
-		"category": "Misc",
+		"category": "Automation",
 		"defname": "Shearer"
 	},
 	{
@@ -19531,24 +18349,6 @@
 		"defname": "AA_SkySteel"
 	},
 	{
-		"abr": "slaaneshisash",
-		"price": -10,
-		"category": "Chaos artifacts",
-		"defname": "RH_TET_Magic_Apparel_SlaaneshSash"
-	},
-	{
-		"abr": "slaangor",
-		"price": -10,
-		"category": "Animal",
-		"defname": "RH_TET_Beastmen_Alien_Slaangor"
-	},
-	{
-		"abr": "slaangorhorn",
-		"price": 417,
-		"category": "Natural",
-		"defname": "RH_TET_Beastmen_SlaangorHorn"
-	},
-	{
 		"abr": "slabbed",
 		"price": 111,
 		"category": "Furniture",
@@ -19565,12 +18365,6 @@
 		"price": 342,
 		"category": "Furniture",
 		"defname": "SLABNEPPDouble"
-	},
-	{
-		"abr": "slayer",
-		"price": -10,
-		"category": "Animal",
-		"defname": "RH_TET_Dwarf_Slayer_Race_Standard"
 	},
 	{
 		"abr": "slurrypede",
@@ -19601,12 +18395,6 @@
 		"price": 433,
 		"category": "Furniture",
 		"defname": "HeatedceilngSmallSunLamp"
-	},
-	{
-		"abr": "smalldwarvensculpture",
-		"price": 275,
-		"category": "Dwarven art",
-		"defname": "RH_TET_Dwarfs_SculptureSmall"
 	},
 	{
 		"abr": "smallheatedsunlamp",
@@ -19671,7 +18459,7 @@
 	{
 		"abr": "smartrecycler",
 		"price": 2067,
-		"category": "Misc",
+		"category": "Automation",
 		"defname": "PRF_Recycler"
 	},
 	{
@@ -20209,12 +18997,6 @@
 		"defname": "TM_DefenderStaff"
 	},
 	{
-		"abr": "staffoftzeentch",
-		"price": -10,
-		"category": "Magic weapons",
-		"defname": "RH_TET_MeleeWeapon_TzeentchStaff"
-	},
-	{
 		"abr": "stalldoor",
 		"price": -10,
 		"category": "Misc",
@@ -20237,12 +19019,6 @@
 		"price": -10,
 		"category": "Rare equipment",
 		"defname": "Apparello_Standissue"
-	},
-	{
-		"abr": "steelhoof",
-		"price": 155,
-		"category": "Prosthetic",
-		"defname": "RH_TET_Beastmen_GorSteelHoof"
 	},
 	{
 		"abr": "steelshrooms",
@@ -20283,7 +19059,7 @@
 	{
 		"abr": "stockpilecrate",
 		"price": 229,
-		"category": "Misc",
+		"category": "Automation",
 		"defname": "StockpileCrate"
 	},
 	{
@@ -20329,12 +19105,6 @@
 		"defname": "VAE_Headgear_StoneWarMask"
 	},
 	{
-		"abr": "stonebread",
-		"price": 27,
-		"category": "Meals",
-		"defname": "RH_TET_Dwarf_Stonebread"
-	},
-	{
 		"abr": "stool(linkable)",
 		"price": 54,
 		"category": "Furniture",
@@ -20345,24 +19115,6 @@
 		"price": 467,
 		"category": "Automation",
 		"defname": "PRFStorageUnitIOPort"
-	},
-	{
-		"abr": "stovefurnace",
-		"price": 342,
-		"category": "Buildings",
-		"defname": "RH_TET_Stove"
-	},
-	{
-		"abr": "strongdwarvendoor",
-		"price": 342,
-		"category": "Misc",
-		"defname": "RH_TET_Dwarf_AdvancedDoor"
-	},
-	{
-		"abr": "strongdwarvendoor(2x1)",
-		"price": 450,
-		"category": "Misc",
-		"defname": "RH_TET_Dwarf_StrongDoor"
 	},
 	{
 		"abr": "succubusspell:scorn",
@@ -20405,12 +19157,6 @@
 		"price": -10,
 		"category": "Formal jackets",
 		"defname": "RNApparel_Blazer_Blue"
-	},
-	{
-		"abr": "sulfur",
-		"price": 0,
-		"category": "Raw resources",
-		"defname": "RH_TET_Sulfur"
 	},
 	{
 		"abr": "summerhat",
@@ -21127,12 +19873,6 @@
 		"defname": "Melee_ThunderHammer"
 	},
 	{
-		"abr": "thundererrifle",
-		"price": -10,
-		"category": "Dwarven ranged weapons",
-		"defname": "RH_TET_Dwarf_ThundererGun_Low"
-	},
-	{
 		"abr": "thunderox",
 		"price": -10,
 		"category": "Animal",
@@ -21415,72 +20155,6 @@
 		"defname": "Gun_TeachGun"
 	},
 	{
-		"abr": "traitorboltgun",
-		"price": -10,
-		"category": "Traitor Ranged Weapons",
-		"defname": "Gun_TGBoltGun"
-	},
-	{
-		"abr": "traitorexitussniper",
-		"price": -10,
-		"category": "Traitor Ranged Weapons",
-		"defname": "Gun_TGExitusSniper"
-	},
-	{
-		"abr": "traitorflakplate",
-		"price": -10,
-		"category": "Traitor Armor Addons",
-		"defname": "TG_FlakPlate"
-	},
-	{
-		"abr": "traitorgrenadelauncher",
-		"price": -10,
-		"category": "Traitor Ranged Weapons",
-		"defname": "Gun_TGImpGrenadeLauncher"
-	},
-	{
-		"abr": "traitorguardarmor",
-		"price": -10,
-		"category": "Traitor Armor",
-		"defname": "TG_StdArmor"
-	},
-	{
-		"abr": "traitorguardhelmet",
-		"price": -10,
-		"category": "Traitor Headgear",
-		"defname": "TG_StdHelmet"
-	},
-	{
-		"abr": "traitorkrakgrenade",
-		"price": -10,
-		"category": "Traitor Grenades",
-		"defname": "TGGrenade_Krak"
-	},
-	{
-		"abr": "traitorlaspistol",
-		"price": -10,
-		"category": "Traitor Ranged Weapons",
-		"defname": "Gun_TGLasPistol"
-	},
-	{
-		"abr": "traitorlasgun",
-		"price": -10,
-		"category": "Traitor Ranged Weapons",
-		"defname": "Gun_TGLasGun"
-	},
-	{
-		"abr": "traitorplasmarifle",
-		"price": -10,
-		"category": "Traitor Ranged Weapons",
-		"defname": "Gun_TGPlasmaRifle"
-	},
-	{
-		"abr": "traitorquadrocketlauncher",
-		"price": -10,
-		"category": "Traitor Ranged Weapons",
-		"defname": "Gun_TGQuadRktLauncher"
-	},
-	{
 		"abr": "tranquiazepin",
 		"price": 43,
 		"category": "Drugs",
@@ -21571,28 +20245,10 @@
 		"defname": "EVOR_Item_PlatedLimb"
 	},
 	{
-		"abr": "triplebed",
-		"price": 433,
-		"category": "Furniture",
-		"defname": "TripleBed"
-	},
-	{
-		"abr": "triplebedroll",
-		"price": 442,
-		"category": "Furniture",
-		"defname": "BedrollTriple"
-	},
-	{
 		"abr": "triplefilterpasskidney",
 		"price": 4667,
 		"category": "Evolved body parts",
 		"defname": "EVOR_Item_Kidney"
-	},
-	{
-		"abr": "tripleroyalbed",
-		"price": 2183,
-		"category": "Furniture",
-		"defname": "TripleRoyalBed"
 	},
 	{
 		"abr": "tritoxylon",
@@ -21653,12 +20309,6 @@
 		"price": -10,
 		"category": "Hats",
 		"defname": "RNApparel_MulticamTuque"
-	},
-	{
-		"abr": "tuskgor",
-		"price": -10,
-		"category": "Animal",
-		"defname": "RH_TET_Tuskgor"
 	},
 	{
 		"abr": "tweakedgeothermalgenerator[glow]",
@@ -21731,30 +20381,6 @@
 		"price": 67,
 		"category": "Meals",
 		"defname": "TyranidStew"
-	},
-	{
-		"abr": "tyrannocyteflesh",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Tyranid_Tyrannocyte"
-	},
-	{
-		"abr": "tzaangor",
-		"price": -10,
-		"category": "Animal",
-		"defname": "RH_TET_Beastmen_Alien_Tzaangor"
-	},
-	{
-		"abr": "tzaangorhorn",
-		"price": 417,
-		"category": "Natural",
-		"defname": "RH_TET_Beastmen_TzaangorHorn"
-	},
-	{
-		"abr": "tzeentchianribbon",
-		"price": -10,
-		"category": "Chaos artifacts",
-		"defname": "RH_TET_Magic_Apparel_TzeentchRibbon"
 	},
 	{
 		"abr": "ultimategeothermalgenerator[glow]",
@@ -21865,30 +20491,6 @@
 		"defname": "UnfinishedArcane"
 	},
 	{
-		"abr": "ungor",
-		"price": -10,
-		"category": "Animal",
-		"defname": "RH_TET_Beastmen_Alien_Ungor"
-	},
-	{
-		"abr": "ungorbow",
-		"price": -10,
-		"category": "Ranged weapons",
-		"defname": "RH_TET_Beastmen_RangedWeapon_UngorBow"
-	},
-	{
-		"abr": "ungorshield",
-		"price": -10,
-		"category": "Melee weapons",
-		"defname": "RH_TET_Beastmen_Shield_Ungor"
-	},
-	{
-		"abr": "ungorspear",
-		"price": -10,
-		"category": "Melee weapons",
-		"defname": "RH_TET_Beastmen_MeleeWeapon_Spear"
-	},
-	{
 		"abr": "uniformcoat",
 		"price": -10,
 		"category": "Apparel",
@@ -21983,12 +20585,6 @@
 		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "SNS_Sniper"
-	},
-	{
-		"abr": "unpickledfood",
-		"price": 2,
-		"category": "Meals",
-		"defname": "RH_TET_CookedPickling"
 	},
 	{
 		"abr": "unrefinedmagicyte",
@@ -22357,12 +20953,6 @@
 		"defname": "WallLight_Red"
 	},
 	{
-		"abr": "wallsconce",
-		"price": 47,
-		"category": "Buildings",
-		"defname": "RH_TET_Sconce"
-	},
-	{
 		"abr": "wallsinglerefrigerator",
 		"price": 121,
 		"category": "Furniture",
@@ -22441,12 +21031,6 @@
 		"defname": "TM_LightningWand"
 	},
 	{
-		"abr": "wandofresurrection",
-		"price": -10,
-		"category": "Magic items",
-		"defname": "RH_TET_Wand_Resurrection"
-	},
-	{
 		"abr": "wanderer'schestplate",
 		"price": -10,
 		"category": "Rare equipment",
@@ -22477,40 +21061,10 @@
 		"defname": "Apparello_Quotee"
 	},
 	{
-		"abr": "wargorarmor",
-		"price": -10,
-		"category": "Beastmen apparel",
-		"defname": "RH_TET_Beastmen_Apparel_WargorArmor"
-	},
-	{
-		"abr": "wargorhelmet",
-		"price": -10,
-		"category": "Beastmen headgear",
-		"defname": "RH_TET_Beastmen_Apparel_WargorHelm"
-	},
-	{
-		"abr": "wargorshield",
-		"price": -10,
-		"category": "Melee weapons",
-		"defname": "RH_TET_Beastmen_Shield_Wargor"
-	},
-	{
-		"abr": "warhorse",
-		"price": -10,
-		"category": "Animal",
-		"defname": "RH_TET_Horse"
-	},
-	{
 		"abr": "warlockspell:psychicshock",
 		"price": 3000,
 		"category": "Scrolls",
 		"defname": "SpellOf_PsychicShock"
-	},
-	{
-		"abr": "warmdwarvencloak",
-		"price": -10,
-		"category": "Dwarven apparel",
-		"defname": "RH_TET_Dwarf_Parka"
 	},
 	{
 		"abr": "washingmachine",
@@ -22625,12 +21179,6 @@
 		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "VWE_Tool_Whip"
-	},
-	{
-		"abr": "whipofslaanesh",
-		"price": -10,
-		"category": "Magic weapons",
-		"defname": "RH_TET_MeleeWeapon_SlaaneshWhip"
 	},
 	{
 		"abr": "whisky",
@@ -22757,12 +21305,6 @@
 		"price": 16,
 		"category": "Simple parts",
 		"defname": "WoodenNose"
-	},
-	{
-		"abr": "woodenstakes",
-		"price": 35,
-		"category": "Security",
-		"defname": "RH_TET_WoodenStakes"
 	},
 	{
 		"abr": "woodentoe",
@@ -22949,7 +21491,361 @@
 		"price": 15000,
 		"category": "Misc",
 		"defname": "ZeroPointReactor"
+	},
+	{
+		"abr": "agaripawn",
+		"price": 333,
+		"category": "Animal",
+		"defname": "AA_Agaripawn"
+	},
+	{
+		"abr": "agaripawnmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_AA_Agaripawn"
+	},
+	{
+		"abr": "agaripawnsporeclump(fert.)",
+		"price": 15,
+		"category": "Eggs (fert.)",
+		"defname": "AA_AgaripawnSpores"
+	},
+	{
+		"abr": "animalmanager",
+		"price": 1783,
+		"category": "Automation",
+		"defname": "Building_AutoMachineTool_Slaughterhouse"
+	},
+	{
+		"abr": "archotechpowercore",
+		"price": 8600,
+		"category": "Archotech",
+		"defname": "FSFArchotechPowerCore"
+	},
+	{
+		"abr": "atispec",
+		"price": 2000,
+		"category": "Animal",
+		"defname": "AA_Atispec"
+	},
+	{
+		"abr": "atispecegg(fert.)",
+		"price": 1,
+		"category": "Eggs (fert.)",
+		"defname": "AA_AtispecEggFertilized"
+	},
+	{
+		"abr": "atispecmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_AA_Atispec"
+	},
+	{
+		"abr": "bionicbuoyancymechanism",
+		"price": 1442,
+		"category": "Animal Body Part",
+		"defname": "AA_BionicBuoyancyMechanism"
+	},
+	{
+		"abr": "bionicclaw",
+		"price": 892,
+		"category": "Animal Body Part",
+		"defname": "AB_BionicClaw"
+	},
+	{
+		"abr": "bionicmotiondetector",
+		"price": 892,
+		"category": "Animal Body Part",
+		"defname": "AA_BionicMotionDetector"
+	},
+	{
+		"abr": "bionicshell",
+		"price": 1492,
+		"category": "Animal Body Part",
+		"defname": "AA_BionicShell"
+	},
+	{
+		"abr": "bionictentacle",
+		"price": 892,
+		"category": "Animal Body Part",
+		"defname": "AA_BionicTentacle"
+	},
+	{
+		"abr": "bionicwing",
+		"price": 1117,
+		"category": "Animal Body Part",
+		"defname": "AA_BionicWing"
+	},
+	{
+		"abr": "blackdarksteel",
+		"price": 83,
+		"category": "Manufactured",
+		"defname": "DarkSteel_Black"
+	},
+	{
+		"abr": "bumbledronehierophant",
+		"price": 583,
+		"category": "Animal",
+		"defname": "AA_BumbledroneHierophant"
+	},
+	{
+		"abr": "conveyorbelt",
+		"price": 64,
+		"category": "Automation",
+		"defname": "Building_AutoMachineTool_BeltConveyor"
+	},
+	{
+		"abr": "darkmatterarmor",
+		"price": 68467,
+		"category": "Noble apparel",
+		"defname": "Apparel_DarkArmor"
+	},
+	{
+		"abr": "darkmatterhelmet",
+		"price": 36500,
+		"category": "Noble apparel",
+		"defname": "Apparel_DarkHelmet"
+	},
+	{
+		"abr": "darksteel",
+		"price": 1000,
+		"category": "Manufactured",
+		"defname": "DarkSteel"
+	},
+	{
+		"abr": "darkeneddarksteel",
+		"price": 83,
+		"category": "Manufactured",
+		"defname": "DarkSteel_Darkened"
+	},
+	{
+		"abr": "desolationcannon",
+		"price": 127625,
+		"category": "Security",
+		"defname": "Turret_DarkM"
+	},
+	{
+		"abr": "goldendarksteel",
+		"price": 100,
+		"category": "Manufactured",
+		"defname": "DarkSteel_Gold"
+	},
+	{
+		"abr": "greenfloorsignarrow",
+		"price": 7,
+		"category": "Misc",
+		"defname": "Lighting_GreenFloorLampArrow"
+	},
+	{
+		"abr": "i/ofridgeport",
+		"price": 467,
+		"category": "Furniture",
+		"defname": "PRFStorageUnitIOPortFridge"
+	},
+	{
+		"abr": "inputsign",
+		"price": 7,
+		"category": "Misc",
+		"defname": "Lighting_FloorInput"
+	},
+	{
+		"abr": "itempuller",
+		"price": 1008,
+		"category": "Misc",
+		"defname": "Building_AutoMachineTool_Puller"
+	},
+	{
+		"abr": "larvalatispec",
+		"price": 25,
+		"category": "Animal",
+		"defname": "AA_LarvalAtispec"
+	},
+	{
+		"abr": "marbleddarksteel",
+		"price": 92,
+		"category": "Manufactured",
+		"defname": "DarkSteel_Marble"
+	},
+	{
+		"abr": "mechanitescultivator(sunlamp)",
+		"price": 2067,
+		"category": "Misc",
+		"defname": "CultivatorTools_b18CultivatorSun"
+	},
+	{
+		"abr": "outputsign",
+		"price": 7,
+		"category": "Misc",
+		"defname": "Lighting_FloorOutput"
+	},
+	{
+		"abr": "peacekeeper",
+		"price": 127625,
+		"category": "Security",
+		"defname": "Turret_DarkS"
+	},
+	{
+		"abr": "plasmorph",
+		"price": 250,
+		"category": "Animal",
+		"defname": "AA_Plasmorph"
+	},
+	{
+		"abr": "plasmorphmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_AA_Plasmorph"
+	},
+	{
+		"abr": "redfloorsignarrow",
+		"price": 7,
+		"category": "Misc",
+		"defname": "Lighting_RedFloorLampArrow"
+	},
+	{
+		"abr": "redfloorsignx",
+		"price": 7,
+		"category": "Misc",
+		"defname": "Lighting_FloorLampX"
+	},
+	{
+		"abr": "simpleprostheticbuoyancymechanism",
+		"price": 533,
+		"category": "Animal Body Part",
+		"defname": "AA_ProstheticBuoyancyMechanism"
+	},
+	{
+		"abr": "simpleprostheticclaw",
+		"price": 218,
+		"category": "Animal Body Part",
+		"defname": "AB_SimpleProstheticClaw"
+	},
+	{
+		"abr": "simpleprostheticshell",
+		"price": 260,
+		"category": "Animal Body Part",
+		"defname": "AA_ProstheticShell"
+	},
+	{
+		"abr": "simpleprosthetictentacle",
+		"price": 218,
+		"category": "Animal Body Part",
+		"defname": "AA_ProstheticTentacle"
+	},
+	{
+		"abr": "simpleprostheticwing",
+		"price": 234,
+		"category": "Animal Body Part",
+		"defname": "AA_ProstheticWing"
+	},
+	{
+		"abr": "survivalbelt",
+		"price": 178,
+		"category": "Armor",
+		"defname": "Apparel_SpaceSurvivalBelt"
+	},
+	{
+		"abr": "syntheticskingland",
+		"price": 6083,
+		"category": "Archotech",
+		"defname": "FSFArchotechSkinI"
+	},
+	{
+		"abr": "t1augerdrill",
+		"price": 1367,
+		"category": "Automation",
+		"defname": "PRF_DeepQuarry_mkI"
+	},
+	{
+		"abr": "t3plasmadrill",
+		"price": 7892,
+		"category": "Automation",
+		"defname": "Building_AutoMachineTool_Miner"
+	},
+	{
+		"abr": "targuzzler",
+		"price": 250,
+		"category": "Animal",
+		"defname": "AA_TarGuzzler"
+	},
+	{
+		"abr": "targuzzlermeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_AA_TarGuzzler"
+	},
+	{
+		"abr": "techprint(johnson-tanakadrive)",
+		"price": 16667,
+		"category": "Techprints",
+		"defname": "Techprint_SoSJTDrive"
+	},
+	{
+		"abr": "undergroundbelt",
+		"price": 64,
+		"category": "Automation",
+		"defname": "Building_AutoMachineTool_BeltConveyor_Underground"
+	},
+	{
+		"abr": "undergroundbeltentrance",
+		"price": 63,
+		"category": "Misc",
+		"defname": "Building_AutoMachineTool_BeltConveyor_ToUnderground"
+	},
+	{
+		"abr": "undergroundbeltexit",
+		"price": 63,
+		"category": "Misc",
+		"defname": "Building_AutoMachineTool_BeltConveyor_ToFloor"
+	},
+	{
+		"abr": "wallconveyorbelt",
+		"price": 64,
+		"category": "Automation",
+		"defname": "Building_AutoMachineTool_BeltConveyor_Wall"
+	},
+	{
+		"abr": "wallitempuller",
+		"price": 1008,
+		"category": "Misc",
+		"defname": "Building_AutoMachineTool_Puller_Wall"
+	},
+	{
+		"abr": "whitedarksteel",
+		"price": 83,
+		"category": "Manufactured",
+		"defname": "DarkSteel_White"
+	},
+	{
+		"abr": "yellowfloorsignarrow",
+		"price": 7,
+		"category": "Misc",
+		"defname": "Lighting_FloorLampArrow"
+	},
+	{
+		"abr": "aisr2g",
+		"price": 8967,
+		"category": "Power",
+		"defname": "RotR_AISR2G"
+	},
+	{
+		"abr": "isr2g",
+		"price": 1150,
+		"category": "Power",
+		"defname": "RotR_ISR2G"
+	},
+	{
+		"abr": "primeconsole",
+		"price": 967,
+		"category": "Misc",
+		"defname": "PrimeConsole"
+	},
+	{
+		"abr": "primeuplinksatellite",
+		"price": 642,
+		"category": "Misc",
+		"defname": "PrimeUplink"
 	}
 	],
-	"total": 7323
+	"total": 3789
 }
